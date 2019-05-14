@@ -6,8 +6,8 @@
 
 <strong>Discord Servers</strong>
 <ul>
-  <li>Reactiflux (TODO: Add link)</li>
-  <li>FreeCodeCamp (un-official) (TODO: ADD link)</li>
+  <li>Reactiflux: https://discordapp.com/invite/reactiflux</li>
+  <li>FreeCodeCamp (un-official): https://discordapp.com/invite/nKKgCbA</li>
   <li>Grindreel</li>
   
   <li></li>
