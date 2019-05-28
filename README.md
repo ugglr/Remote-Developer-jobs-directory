@@ -48,3 +48,40 @@
   <li>Fiverr: https://www.fiverr.com</li>
   <li>Workana: https://www.workana.com</li>
 </ul>
+
+<h4>Great Resources</h4>
+
+<strong>Youtubers/Youtube Channels</strong>
+<ul>
+  <li>Traversy Media: https://www.youtube.com/user/TechGuyWeb</li>
+  <li>Coding Addict: https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA</li>
+  <li>Dev Ed: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q</li>
+  <li>FreeCodeCamp Official Channel: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ</li>
+  <li>Eddie Jaoude: https://www.youtube.com/user/eddiejaoude</li>
+  <li>Fireship: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</li>
+  <li>Brice Ayres: https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw</li>
+  <li>Joshua Fluke / Grindreel: https://www.youtube.com/user/Tychos1</li>
+  <li>Chris Hawkes: https://www.youtube.com/user/noobtoprofessional</li>
+  <li>Andrew Cunliffe: https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ</li>
+  <li>LevelUpTuts: https://www.youtube.com/user/LevelUpTuts</li>
+  <li>TheCodePro: https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw</li>
+  <li>Hamza Mirza: https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw</li>
+  <li>Rem Zolotykh: https://www.youtube.com/user/MrRemchi</li>
+  <li>Academind: https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w</li>
+  <li>Meth Meth Method: https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ</li>
+  <li>Programming with Mosh: https://www.youtube.com/user/programmingwithmosh</li>
+  <li>Ben Awad: https://www.youtube.com/user/99baddawg</li>
+  <li>JustDjango: https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ</li>
+  <li>Code Artistry: https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A</li>
+  <li>interviewing.io: https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg</li>
+  <li>Awesome Tuts: https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw</li>
+  <li>80/20 Coding: https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw</li>
+  <li>CodingEntrepreneurs: https://www.youtube.com/user/CodingEntrepreneurs</li>
+  <li>Andy Sterkowitz: https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA</li>
+  <li>Code Realm: https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ</li>
+  <li>Rayn Studios: https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw</li>
+  <li>:</li>
+  <li>:</li>
+  <li>:</li>
+  <li>:</li>
+</ul>
