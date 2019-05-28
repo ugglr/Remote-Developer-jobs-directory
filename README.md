@@ -20,6 +20,7 @@
   <li>Remote Leads: https://remoteleads.io/</li>
   <li>Outsourcely: https://www.outsourcely.com/</li>
   <li>Working Nomads: https://www.workingnomads.co</li>
+  <li>Remote Circle: https://remotecircle.com/</li>
 </ul>
 
 <h4>Great helpful & Friendly Communities</h4>
