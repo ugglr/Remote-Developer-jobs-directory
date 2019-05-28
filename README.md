@@ -80,8 +80,9 @@
   <li>Andy Sterkowitz: https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA</li>
   <li>Code Realm: https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ</li>
   <li>Rayn Studios: https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw</li>
-  <li>:</li>
-  <li>:</li>
-  <li>:</li>
-  <li>:</li>
+  <li>Daft Creation: https://www.youtube.com/channel/UCDrfHGsm6bJI7Sli7vlcteA</li>
+  <li>TheCodePro: https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw</li>
+  <li>The Coding Train: https://www.youtube.com/user/shiffman</li>
+  <li>Coding Tech: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ</li>
+  <li>Sourav Johar: https://www.youtube.com/user/RSOURAV100</li>
 </ul>
