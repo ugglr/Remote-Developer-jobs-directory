@@ -44,6 +44,8 @@ Not yet implemented
 <h5>Bronze Companies</h5>
 Not yet implemented
 
+<hr>
+
 <ul>
 <li>Valohai: Machine Learning version control in the cloud:<br> https://valohai.com/careers/</li>
 <li>10up - 10up makes the web better by finely crafting websites & tools for content creators.<br> https://10up.com/careers/</li>
