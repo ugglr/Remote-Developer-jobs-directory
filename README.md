@@ -243,7 +243,7 @@
 <li>Zamphyr - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor. Zamphyr - School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.</li>
 <li>Zapier. https://zapier.com/about/</li>
 <li>ZipRecruiter - Perl/Catalyst shop that has some of the best Perl devs working remotely. https://www.ziprecruiter.com/careers</li>
-<ul>
+</ul>
 
 <h4>Great helpful & Friendly Communities</h4>
 
