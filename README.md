@@ -38,8 +38,11 @@
 ####TODO: SORT LIST IN GOLD, SILVER AND BRONZE DEPENDING ON HOW REMOTE AND JUNIOR FRIENDLY THE COMPANIES ARE.####
 
 <h5>Golden Companies</h5>
+Not yet implemented
 <h5>Silver Companies</h5>
+Not yet implemented
 <h5>Bronze Companies</h5>
+Not yet implemented
 
 <ul>
 <li>Valohai: Machine Learning version control in the cloud:<br> https://valohai.com/careers/</li>
