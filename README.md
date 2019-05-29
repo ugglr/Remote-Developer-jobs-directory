@@ -4,7 +4,7 @@
 
 <h4>Remote Jobs Directories</h4>
 <ul>
-  <li>WeWorkRemote: https://weworkremotely.com/</li>
+  <li>WeWorkRemotely: https://weworkremotely.com/</li>
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
   <li>Github Jobs: https://jobs.github.com/</li>
   <li>Codepen Jobs: https://codepen.io/jobs/</li>
