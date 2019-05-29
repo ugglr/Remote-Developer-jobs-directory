@@ -47,6 +47,7 @@ Not yet implemented
 <hr>
 
 <ul>
+  <li>SavvyIo: Crypto currency wallet solutions: https://savvy.io</li>
 <li>Valohai: Machine Learning version control in the cloud:<br> https://valohai.com/careers/</li>
 <li>10up - 10up makes the web better by finely crafting websites & tools for content creators.<br> https://10up.com/careers/</li>
 <li>AgentFire - Hyper local real estate websites powered by Wordpress.<br> https://agentfire.com/meet-our-team/</li>
