@@ -42,7 +42,7 @@
 <h5>Bronze Companies</h5>
 
 <ul>
-  <li>Valohai: https://valohai.com/careers/</li>
+  <li>Valohai: Machine Learning version control in the cloud: https://valohai.com/careers/</li>
 <li>10up - 10up makes the web better by finely crafting websites & tools for content creators. https://10up.com/careers/</li>
 <li>AgentFire - Hyper local real estate websites powered by Wordpress. https://agentfire.com/meet-our-team/</li>
 <li>Aha! - Aha! is roadmapping software for PMs who want their mojo back. https://www.aha.io/company/careers/current-openings</li>
