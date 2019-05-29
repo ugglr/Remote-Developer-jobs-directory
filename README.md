@@ -23,6 +23,16 @@
   <li>Remote Circle: https://remotecircle.com/</li>
 </ul>
 
+<Strong>Freelancing</Strong>
+<p>Freelancing is a Great way to get real experience, it's not easy to earn a living through these sites but one might get some projects under the belt to put on the portfolio</p>
+<ul>
+  <li>Upwork: https://www.upwork.com</li>
+  <li>Guru: https://www.guru.com</li>
+  <li>Freelancer: https://www.freelancer.com</li>
+  <li>Fiverr: https://www.fiverr.com</li>
+  <li>Workana: https://www.workana.com</li>
+</ul>
+
 <h4>Great helpful & Friendly Communities</h4>
 
 <strong>Discord Servers</strong>
@@ -38,16 +48,6 @@
   <li>Codingcoach: https://join.slack.com/t/coding-coach/shared_invite/enQtNDYxNTcwMjk4MDcwLThiZjY1MTM2YTU1YzM2MGI1N2Y1NDI3ZGM1MGRhNjdiZjU0MzE1YjMxZjdlZmVlNDdhNmFhN2RhNGIxZmE1YTI</li>
   <li>DevChat https://devchat.devolio.net/</li>
   <li>Scotch.io: https://scotch-slack.herokuapp.com/</li>
-</ul>
-
-<Strong>Freelancing</Strong>
-<p>Freelancing is a Great way to get real experience, it's not easy to earn a living through these sites but one might get some projects under the belt to put on the portfolio</p>
-<ul>
-  <li>Upwork: https://www.upwork.com</li>
-  <li>Guru: https://www.guru.com</li>
-  <li>Freelancer: https://www.freelancer.com</li>
-  <li>Fiverr: https://www.fiverr.com</li>
-  <li>Workana: https://www.workana.com</li>
 </ul>
 
 <h4>Great Resources</h4>
