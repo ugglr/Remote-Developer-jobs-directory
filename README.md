@@ -87,3 +87,5 @@
   <li>Coding Tech: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ</li>
   <li>Sourav Johar: https://www.youtube.com/user/RSOURAV100</li>
 </ul>
+
+<strong>Companies with remote DNA</strong>
