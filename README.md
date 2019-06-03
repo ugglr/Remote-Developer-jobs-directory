@@ -16,7 +16,7 @@
   <li>Jobspresso: https://jobspresso.co/</li>
   <li>Reactiflux Jobs: http://jobs.reactiflux.com/</li>
   <li>Angellist: https://angel.co/ </li>
-  <li>Findwork.dev: https://findwork.dev/</li>
+  <li>Findwork.dev: https://findwork.dev/junior-jobs?remote=true</li>
   <li>Remote Leads: https://remoteleads.io/</li>
   <li>Outsourcely: https://www.outsourcely.com/</li>
   <li>Working Nomads: https://www.workingnomads.co</li>
