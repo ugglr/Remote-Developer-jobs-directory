@@ -105,6 +105,7 @@ Not yet implemented
 <hr>
 
 <ul>
+  <li>Chili Piper: 100% fully remote team, with good benefits. <br>https://www.chilipiper.com/careers/</li>
   <li>SavvyIo: Crypto currency wallet solutions: <br>https://savvy.io</li>
 <li>Valohai: Machine Learning version control in the cloud:<br> https://valohai.com/careers/</li>
 <li>10up - 10up makes the web better by finely crafting websites & tools for content creators.<br> https://10up.com/careers/</li>
