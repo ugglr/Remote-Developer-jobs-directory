@@ -3,6 +3,8 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
+import Navbar from "../components/navbar"
+
 import "../components/bootstrap.min.css"
 
 class Layout extends React.Component {
@@ -63,6 +65,7 @@ class Layout extends React.Component {
         }}
       >
         <header>{header}</header>
+        <Navbar></Navbar>
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with
