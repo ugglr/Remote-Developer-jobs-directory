@@ -22,6 +22,91 @@ class Directories extends React.Component {
           "I truly recommend to join their Discord server, because there you have the potential to send messages directly to the person at the hiring company.That gives you an edge over regular job applications where the stacks of CVs grow larger by the day.By talking directly you have the chance to show your personality and proffessionalism directly.",
         url: "http://jobs.reactiflux.com/",
       },
+      {
+        name: "WeWorkRemotely",
+        body:
+          "One of the biggest Remote jobs directory on the web, and unfortunately most positions require experience.The competition is fierce and when applying you have to make sure to stand out in an extraordinary way, becuase when a junior job position is posted it will be getting flooded with applicants.",
+        url: "https://weworkremotely.com/",
+      },
+      {
+        name: "Stackoverflow Jobs",
+        body:
+          "Any company who posts an advert to stackoverflow is pretty legit due to the steep fees involved in order to advertise on the platform. Fierce competition, as the site is very well known.",
+        url: "https://stackoverflow.com/jobs",
+      },
+      {
+        name: "Github Jobs",
+        body: "",
+        url: "https://jobs.github.com/",
+      },
+      {
+        name: "Codepen Jobs",
+        body: "",
+        url: "https://codepen.io/jobs/",
+      },
+      {
+        name: "Remotive",
+        body:
+          "This site is fully dedicated to remote positions in many categories, they also offer an option to join the slack community for a one time fee.",
+        url: "https://remotive.io/",
+      },
+      {
+        name: "RemoteOk",
+        body:
+          "As the name implied the whole site is fully dedicated to remote listings.",
+        url: "https://remoteok.io/",
+      },
+      {
+        name: "Hubstaff Talent Jobs",
+        body: "",
+        url: "https://talent.hubstaff.com",
+      },
+      {
+        name: "Authentic Jobs",
+        body: "",
+        url: "https://authenticjobs.com/",
+      },
+      {
+        name: "Just UX Jobs",
+        body: "",
+        url: "https://justuxjobs.com/",
+      },
+      {
+        name: "Jobspresso",
+        body: "",
+        url: "https://jobspresso.co/",
+      },
+      {
+        name: "Findwork.dev",
+        body: "",
+        url: "https://findwork.dev/junior-jobs?remote=true",
+      },
+      {
+        name: "Remote Leads",
+        body: "",
+        url: "https://remoteleads.io/",
+      },
+      {
+        name: "Outsourcely",
+        body: "",
+        url: "https://www.outsourcely.com/",
+      },
+      {
+        name: "Working Nomads",
+        body: "",
+        url: "https://www.workingnomads.co",
+      },
+      {
+        name: "Remote Circle",
+        body: "",
+        url: "https://remotecircle.com/",
+      },
+      {
+        name: "Turingly",
+        body:
+          "This is not a jobs directory, but you can prove you coding skills through the site and land a job that way, even though you don't have official experience in Software Development",
+        url: "https://www.turing.ly",
+      },
     ]
 
     return (
@@ -31,120 +116,17 @@ class Directories extends React.Component {
           <ul style={{ listStyle: "none" }}>
             {comps.map(comp => {
               return (
-                <li>
-                  <h5>{comp.name}</h5>
-                  <p>{comp.body}</p>
-                  <strong>Link: </strong>
-                  <a href={comp.url}>{comp.url}</a>
-                </li>
+                <>
+                  <li>
+                    <h5>{comp.name}</h5>
+                    <p>{comp.body}</p>
+                    <strong>Link: </strong>
+                    <a href={comp.url}>{comp.url}</a>
+                  </li>
+                  <hr />
+                </>
               )
             })}
-
-            <li>
-              WeWorkRemotely:{" "}
-              <p>
-                One of the biggest Remote jobs directory on the web, and
-                unfortunately most positions require experience. The competition
-                is fierce and when applying you have to make sure to stand out
-                in an extraordinary way, becuase when a junior job position is
-                posted it will be getting flooded with applicants.
-              </p>
-              <strong>Link: </strong>
-              <a href="https://weworkremotely.com/">
-                https://weworkremotely.com/
-              </a>
-            </li>
-            <li>
-              Stackoverflow Jobs:
-              <strong>Link: </strong>
-              <a href="https://stackoverflow.com/jobs">
-                https://stackoverflow.com/jobs
-              </a>
-            </li>
-            <li>
-              Github Jobs:
-              <strong>Link: </strong>
-              <a href="https://jobs.github.com/">https://jobs.github.com/</a>
-            </li>
-            <li>
-              Codepen Jobs:
-              <strong>Link: </strong>
-              <a href="https://codepen.io/jobs/">https://codepen.io/jobs/</a>
-            </li>
-            <li>
-              Remotive:
-              <strong>Link: </strong>
-              <a href="https://remotive.io/">https://remotive.io/</a>
-            </li>
-            <li>
-              RemoteOK:
-              <strong>Link: </strong>
-              <a href="https://remoteok.io/">https://remoteok.io/</a>
-            </li>
-            <li>
-              Hubstaff Talent Jobs:
-              <strong>Link: </strong>
-              <a href="https://talent.hubstaff.com">
-                https://talent.hubstaff.com
-              </a>
-            </li>
-            <li>
-              Authentic Jobs:
-              <strong>Link: </strong>
-              <a href="https://authenticjobs.com/">
-                https://authenticjobs.com/
-              </a>
-            </li>
-            <li>
-              Just UX Jobs: <strong>Link: </strong>
-              <a href="https://justuxjobs.com/">https://justuxjobs.com/</a>
-            </li>
-            <li>
-              Jobspresso:
-              <strong>Link: </strong>
-              <a href="https://jobspresso.co/">https://jobspresso.co/</a>
-            </li>
-            <li>
-              Findwork.dev:
-              <strong>Link: </strong>
-              <a href="https://findwork.dev/junior-jobs?remote=true">
-                https://findwork.dev/junior-jobs?remote=true
-              </a>
-            </li>
-            <li>
-              Remote Leads:
-              <strong>Link: </strong>
-              <a href="https://remoteleads.io/">https://remoteleads.io/</a>
-            </li>
-            <li>
-              Outsourcely:
-              <strong>Link: </strong>
-              <a href="https://www.outsourcely.com/">
-                https://www.outsourcely.com/
-              </a>
-            </li>
-            <li>
-              Working Nomads:
-              <strong>Link: </strong>
-              <a href="https://www.workingnomads.co">
-                https://www.workingnomads.co
-              </a>
-            </li>
-            <li>
-              Remote Circle:
-              <strong>Link: </strong>
-              <a href="https://remotecircle.com/">https://remotecircle.com/</a>
-            </li>
-            <li>
-              Turingly:{" "}
-              <p>
-                This is not a jobs directory, but you can prove you coding
-                skills through the site and land a job that way, even though you
-                don't have official experience in Software Development
-              </p>{" "}
-              <strong>Link: </strong>
-              <a href="https://www.turing.ly">https://www.turing.ly</a>
-            </li>
           </ul>
         </div>
         <hr />
