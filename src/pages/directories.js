@@ -149,29 +149,23 @@ class Directories extends React.Component {
         url: "https://remotive.io/community",
       },
       {
-        name: "",
-        body: "",
-        url: "",
+        name: "CodingCoach",
+        body:
+          "Not so much a community for job-hunting but a great place to find help from more experienced software developers.",
+        url:
+          "https://join.slack.com/t/coding-coach/shared_invite/enQtNDYxNTcwMjk4MDcwLThiZjY1MTM2YTU1YzM2MGI1N2Y1NDI3ZGM1MGRhNjdiZjU0MzE1YjMxZjdlZmVlNDdhNmFhN2RhNGIxZmE1YTI",
       },
       {
-        name: "",
-        body: "",
-        url: "",
+        name: "DevChat",
+        body:
+          "Join the jobs channel and keep a look-out. Also a place where it's possible to ask for help when stuck.",
+        url: "https://devchat.devolio.net/",
       },
       {
-        name: "",
-        body: "",
-        url: "",
-      },
-      {
-        name: "",
-        body: "",
-        url: "",
-      },
-      {
-        name: "",
-        body: "",
-        url: "",
+        name: "Scotch.io",
+        body:
+          "Join the jobs channel and keep a look-out. Also a place where it's possible to ask for help when stuck.",
+        url: "https://scotch-slack.herokuapp.com/",
       },
     ]
 
@@ -195,6 +189,46 @@ class Directories extends React.Component {
             })}
           </ul>
         </div>
+        <hr />
+
+        <h2>Freelance Platforms</h2>
+
+        <ul style={{ listStyle: "none" }}>
+          {freelance.map(site => {
+            return (
+              <>
+                <li>
+                  <h5>{site.name}</h5>
+                  <p>{site.body}</p>
+                  <strong>Link: </strong>
+                  <a href={site.url}>{site.url}</a>
+                </li>
+                <hr />
+              </>
+            )
+          })}
+        </ul>
+
+        <hr />
+
+        <h2>Slack Communities</h2>
+
+        <ul style={{ listStyle: "none" }}>
+          {slackChannels.map(channel => {
+            return (
+              <>
+                <li>
+                  <h5>{channel.name}</h5>
+                  <p>{channel.body}</p>
+                  <strong>Link: </strong>
+                  <a href={channel.url}>{channel.url}</a>
+                </li>
+                <hr />
+              </>
+            )
+          })}
+        </ul>
+
         <hr />
       </Layout>
     )
