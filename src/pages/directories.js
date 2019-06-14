@@ -93,12 +93,14 @@ class Directories extends React.Component {
       },
       {
         name: "Working Nomads",
-        body: "",
+        body:
+          "Good amount of listings, including positions for juniors, good use of filters.",
         url: "https://www.workingnomads.co",
       },
       {
         name: "Remote Circle",
-        body: "",
+        body:
+          "Filter remote openings based on your time zone. They have a fair amount of jobs there and is worth taking a look at.",
         url: "https://remotecircle.com/",
       },
       {
@@ -106,6 +108,70 @@ class Directories extends React.Component {
         body:
           "This is not a jobs directory, but you can prove you coding skills through the site and land a job that way, even though you don't have official experience in Software Development",
         url: "https://www.turing.ly",
+      },
+    ]
+
+    const freelance = [
+      {
+        name: "UpWork",
+        body:
+          "Might be the most popular freelancing site in the world and have been the go to place for a long time for developers looking to kickstart their freelancing career. However, recently there are reportings that it's increasingly difficult to get accepted by UpWork to start making proposals to clients.",
+        url: "https://www.upwork.com",
+      },
+      {
+        name: "Freelancer",
+        body:
+          "According to the site, they are the largest freelancing site in the World. ",
+        url: "https://www.freelancer.com",
+      },
+      {
+        name: "Guru",
+        body: "",
+        url: "https://www.guru.com",
+      },
+      {
+        name: "Fiverr",
+        body: "",
+        url: "https://www.fiverr.com",
+      },
+      {
+        name: "Workana",
+        body: "",
+        url: "https://www.workana.com",
+      },
+    ]
+
+    const slackChannels = [
+      {
+        name: "Remotive",
+        body:
+          "Payed community, but active and friendly, the founder is always out looking for new companies and quite a bit of recruiting people are sitting in the channels.",
+        url: "https://remotive.io/community",
+      },
+      {
+        name: "",
+        body: "",
+        url: "",
+      },
+      {
+        name: "",
+        body: "",
+        url: "",
+      },
+      {
+        name: "",
+        body: "",
+        url: "",
+      },
+      {
+        name: "",
+        body: "",
+        url: "",
+      },
+      {
+        name: "",
+        body: "",
+        url: "",
       },
     ]
 
