@@ -517,6 +517,189 @@ class Directories extends React.Component {
           ".NET development using C#, Angular, Azure. Remote-first company.",
         url: "https://www.easycomtec.com/homeoffice/developer",
       },
+      {
+        name: "Elastic",
+        body: "Open source search & analytics.",
+        url: "https://www.elastic.co/",
+      },
+      {
+        name: "Envato",
+        body:
+          "Maker of ThemeForest and other online marketplaces. MySQL, Ruby, Rails, Javascript. Distributed team with HQ in Melbourne, Australia.",
+        url: "https://envato.com/careers",
+      },
+      {
+        name: "Etsy",
+        body:
+          "Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.",
+        url: "https://www.etsy.com/careers",
+      },
+      {
+        name: "Eyeo",
+        body: "Maker of AdBlock Plus. Main office in Cologne, Germany.",
+        url: "https://eyeo.com/en/jobs/",
+      },
+      {
+        name: "Findify",
+        body:
+          "E-commerce search powered by machine learning and big data. Team distributed across Europe.",
+        url: "https://findify.io/",
+      },
+      {
+        name: "Fog Creek",
+        body:
+          "NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT).",
+        url: "http://www.fogcreek.com/careers/",
+      },
+      {
+        name: "General Assembly",
+        body:
+          "Physical and on-line education for technology, business, and design.",
+        url: "https://generalassemb.ly/careers",
+      },
+      {
+        name: "Ghost",
+        body: "Publishing platform.",
+        url: "https://ghost.org/about/#careers",
+      },
+      {
+        name: "Gigster",
+        body:
+          "vetted network of top 5% freelancers worldwide. PM, Dev, Sales positions available.",
+        url: "https://gigster.com/",
+      },
+      {
+        name: "Gitbook",
+        body: "Publishing toolchain based on git. Javascript, node.js, Go.",
+        url: "http://jobs.gitbook.com/",
+      },
+      {
+        name: "GitHub",
+        body: "",
+        url: "https://github.com/about/jobs",
+      },
+      {
+        name: "GitLab",
+        body: "Competitor to GitHub.",
+        url: "https://about.gitlab.com/jobs/",
+      },
+      {
+        name: "GlueNetworks",
+        body: "Network automation company.",
+        url: "http://gluenetworks.com/",
+      },
+      {
+        name: "Gradle",
+        body:
+          "Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.",
+        url: "https://gradle.com/careers",
+      },
+      {
+        name: "GrooveHQ",
+        body: "Help desk software.",
+        url: "https://www.groovehq.com/about",
+      },
+      {
+        name: "Hanzo",
+        body: "Web archiving company. Fully Remote. Python, AWS.",
+        url: "https://www.hanzo.co/about-us/careers-uk",
+      },
+      {
+        name: "Harvest",
+        body: "Time tracking software. ",
+        url: "https://www.getharvest.com/careers",
+      },
+      {
+        name: "HashiCorp",
+        body:
+          "Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.",
+        url: "https://www.hashicorp.com/jobs.html",
+      },
+      {
+        name: "HE:labs",
+        body: "",
+        url: "https://helabs.com/us/",
+      },
+      {
+        name: "Healthfinch",
+        body:
+          "Making Healthcare systems more usable. HQ in Madison, WI, USA. Ruby, Javascript.",
+        url: "http://www.healthfinch.com/careers/",
+      },
+      {
+        name: "Heap",
+        body: "Web & Mobile Analytics.",
+        url: "https://heapanalytics.com/careers/jobs",
+      },
+      {
+        name: "Help Scout",
+        body:
+          "A help desk for teams that insist on a delightful customer experience.",
+        url: "https://www.helpscout.net/careers/",
+      },
+      {
+        name: "Heroku",
+        body:
+          "PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.",
+        url: "https://www.heroku.com/careers",
+      },
+      {
+        name: "Honeybadger",
+        body: "Ruby. 100% remote.",
+        url: "https://www.honeybadger.io/",
+      },
+      {
+        name: "Hotjar",
+        body: "Analytics & Feedback tool.",
+        url: "https://careers.hotjar.com/",
+      },
+      {
+        name: "Hubstaff",
+        body: "Time tracking solution with multiple integrations.",
+        url: "https://hubstaff.com/jobs",
+      },
+      {
+        name: "Igalia",
+        body: "Open source consultancy. HQ in Spain.",
+        url: "https://www.igalia.com/about-us/form",
+      },
+      {
+        name: "Incsub",
+        body: "Remote team that builds Wordpress projects.",
+        url: "http://incsub.com/careers/",
+      },
+      {
+        name: "Inpsyde GmbH",
+        body: "WordPress Agency in Germany.",
+        url: "https://inpsyde.com/",
+      },
+      {
+        name: "Institute for Nonprofit News",
+        body: "Nonprofit news organization.",
+        url: "https://inn.org/about/jobs/",
+      },
+      {
+        name: "Instructure",
+        body: "We make software that makes people smarter.",
+        url: "https://www.instructure.com/careers/",
+      },
+      {
+        name: "Intellum",
+        body:
+          "We build employee collaboration, performance and learning tools. Ruby, iOS, Android, AWS, GCS.",
+        url: "http://intellum.com/",
+      },
+      {
+        name: "InVision",
+        body: "prototyping, collaboration & workflow platform.",
+        url: "https://www.invisionapp.com/company#jobs",
+      },
+      {
+        name: "Isos Technology",
+        body:
+          "premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.",
+        url: "https://careers.isostech.com/",
+      },
     ]
 
     return (
