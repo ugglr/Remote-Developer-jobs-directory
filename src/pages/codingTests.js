@@ -10,8 +10,8 @@ class CodingTests extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <h1>Front-End Tests</h1>
-        <h1>Back-End Tests</h1>
+        <h2>Front-End Tests</h2>
+        <h2>Back-End Tests</h2>
       </Layout>
     )
   }

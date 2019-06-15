@@ -175,6 +175,14 @@ class Resources extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="List of great resources on how to learn to code" />
+        <h2>Books</h2>
+        <h5>Javascript</h5>
+        <h5>Python</h5>
+        <h5>Ruby</h5>
+        <h5>Java</h5>
+        <h5>Scala</h5>
+        <h5>Golang</h5>
+        <h2>Youtube Channels</h2>
         <ul style={{ listStyle: "none" }}>
           {youtubeChannels.map(channel => {
             return (
