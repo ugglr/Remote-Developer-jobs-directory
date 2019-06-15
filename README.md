@@ -194,7 +194,7 @@ Not yet implemented
 <li>Honeybadger - Ruby. 100% remote. <br>https://www.honeybadger.io/</li>
 <li>Hotjar - Analytics & Feedback tool. <br>https://careers.hotjar.com/</li>
 <li>Hubstaff - Time tracking solution with multiple integrations. <br>https://hubstaff.com/jobs</li>
-<li>Igalia - Open source consultancy. HQ in Spain. <br>https://www.igalia.com/about-us/form</li>
+<li>Igalia - Open source consultancy. HQ in Spain. <br>https://www.igalia.com/jobs/</li>
 <li>Incsub - Remote team that builds Wordpress projects. <br>http://incsub.com/careers/</li>
 <li>Inpsyde GmbH - WordPress Agency in Germany. <br>https://inpsyde.com/</li>
 <li>Institute for Nonprofit News - Nonprofit news organization. <br>https://inn.org/about/jobs/</li>

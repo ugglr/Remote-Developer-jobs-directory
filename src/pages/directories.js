@@ -661,7 +661,7 @@ class Directories extends React.Component {
       {
         name: "Igalia",
         body: "Open source consultancy. HQ in Spain.",
-        url: "https://www.igalia.com/about-us/form",
+        url: "https://www.igalia.com/jobs/",
       },
       {
         name: "Incsub",
