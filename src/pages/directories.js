@@ -820,6 +820,163 @@ class Directories extends React.Component {
           "A digital agency with a modern twist. All freelancers. All experts.",
         url: "http://tri.be/about/join-our-team/",
       },
+      {
+        name: "Modus Create",
+        body:
+          "Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.",
+        url: "https://moduscreate.com/",
+      },
+      {
+        name: "Mosalingua",
+        body: "Learn words, enjoy the world.",
+        url: "https://www.mosalingua.com/en/jobs/",
+      },
+      {
+        name: "MVP Space",
+        body:
+          "Test a business idea with your target audience or show its potential to your investors.",
+        url: "http://mvp-space.com/",
+      },
+      {
+        name: "Mozilla",
+        body: "Firefox has a 'Remote' option under it's location searchbar.",
+        url: "https://careers.mozilla.org/listings/",
+      },
+      {
+        name: "NearForm",
+        body:
+          "NearForm evolves enterprises by building high-performance, open software. Our global team uses modern processes and tools to help clients innovate at speed.",
+        url: "https://www.nearform.com/careers/",
+      },
+      {
+        name: "Nectafy",
+        body: "nbound marketing and content creation.",
+        url: "http://nectafy.com/jobs/",
+      },
+      {
+        name: "Netsparker",
+        body: "Web Application Security Scanner.",
+        url: "https://www.netsparker.com/jobs/",
+      },
+      {
+        name: "Next Big Sound",
+        body: "Analytics and Insights for the Music Industry.",
+        url: "https://www.nextbigsound.com/about",
+      },
+      {
+        name: "NinjaCat",
+        body:
+          "Reporting, Monitoring & Call Tracking Platform for Leading Digital Agencies.",
+        url: "https://www.ninjacat.io/jobs",
+      },
+      {
+        name: "Niteo",
+        body:
+          "A decade old SaaS studio full of bright ideas, building smart solutions to empower small businesses online.",
+        url: "https://niteo.co/careers",
+      },
+      {
+        name: "NodeSource",
+        body:
+          "NodeSource is dedicated to creating a sustainable ecosystem for Node.js.",
+        url: "https://nodesource.com/about",
+      },
+      {
+        name: "ofri",
+        body:
+          "A swiss online marketplace that connects homeowners with quality home improvement professionals.",
+        url: "https://www.ofri.ch/job_openings",
+      },
+      {
+        name: "Olark",
+        body: "Chat support funnel.",
+        url: "https://www.olark.com/jobs",
+      },
+      {
+        name: "onTheGo Systems",
+        body: "WordPress Developer, Supporter and Marketing Jobs.",
+        url: "https://www.onthegosystems.com/jobs/",
+      },
+      {
+        name: "Onyo",
+        body: "Transforming the eating out experience in pure pleasure.",
+        url: "http://www.onyo.com/",
+      },
+      {
+        name: "OpenCraft",
+        body: "Open edX development (Free Software MOOC project).",
+        url: "http://opencraft.com/",
+      },
+      {
+        name: "Owsy",
+        body:
+          "International studio focused on creating products for financial service firms.",
+        url: "http://owsy.com/careers/",
+      },
+      {
+        name: "Parknav",
+        body: "Intelligent parking using AI.",
+        url: "https://parknav.com/",
+      },
+      {
+        name: "Parsely",
+        body: "Analytics solutions.",
+        url: "http://www.parsely.com/jobs/",
+      },
+      {
+        name: "Particular Software (NServiceBus)",
+        body: "Enterprise Service Bus, Messaging, C#, Open Source.",
+        url: "https://particular.net/careers",
+      },
+      {
+        name: "Patients Know Best",
+        body:
+          "Empowering patients to manage their care, enabling professionals to share information while improving efficiencies for payers.",
+        url: "https://patients.workable.com/",
+      },
+      {
+        name: "Paylocity",
+        body: "HR and payroll solutions.",
+        url: "http://www.paylocity.com/careers/",
+      },
+      {
+        name: "Pilot",
+        body:
+          "Pilot is a software platform that removes all the pain from contract work. We find work, negotiate contracts, send invoices and chase payments for hundreds of forward-looking engineers and designers around the world.",
+        url: "https://pilot.co/",
+      },
+      {
+        name: "Pleo",
+        body:
+          "Pleo is a company payment card solution that automates expense reports and simplifies company spending.",
+        url: "https://careers.pleo.io/",
+      },
+      {
+        name: "Precision Nutrition",
+        body: "Online Nutrition Coaching and Certification.",
+        url: "http://www.precisionnutrition.com/",
+      },
+      {
+        name: "PreviousNext",
+        body: "Australian based Drupal agency.",
+        url: "https://www.previousnext.com.au/",
+      },
+      {
+        name: "Prezly",
+        body: "SaaS PR platform. PHP, React, JS, Postgres. 100% remote.",
+        url: "https://www.prezly.com/",
+      },
+      {
+        name: "RainforestQA",
+        body: " On demand QA as a service.",
+        url: "https://www.rainforestqa.com/jobs/",
+      },
+      {
+        name: "Reaction Commerce",
+        body:
+          "Fastest-growing open source ecommerce platform. Node.js, MongoDB, Kubernetes, Docker.",
+        url: "https://reactioncommerce.com/careers/",
+      },
     ]
 
     return (
