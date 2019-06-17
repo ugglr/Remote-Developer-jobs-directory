@@ -700,6 +700,126 @@ class Directories extends React.Component {
           "premier Atlassian Platinum & Enterprise Solution Partner, helping organizations solve complex development and business problems with the Atlassian tools.",
         url: "https://careers.isostech.com/",
       },
+      {
+        name: "Jackson River",
+        body: "Digital-first technology and strategy for nonprofits.",
+        url: "https://www.jacksonriver.com/about/jobs",
+      },
+      {
+        name: "Judge.me",
+        body:
+          "A review platform for ecommerces. Our company is fully remote across 4 continents.",
+        url: "http://judge.me/",
+      },
+      {
+        name: "Keepsafe",
+        body:
+          "Mobile-first privacy products, making privacy easy for the world to opt into.",
+        url: "https://www.getkeepsafe.com/",
+      },
+      {
+        name: "Khan Academy",
+        body:
+          "EdTech. Non-profit focusing on K-12 STEM. Less, React, Flux, Backbone, jQuery, Python, Google App Engine, Swift, and Objective-C.",
+        url: "https://www.khanacademy.org/careers",
+      },
+      {
+        name: "Knack",
+        body: "The easy online database.",
+        url: "https://www.knack.com/jobs",
+      },
+      {
+        name: "LaterPay",
+        body:
+          "The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.",
+        url: "https://www.laterpay.net/",
+      },
+      {
+        name: "LaunchPotato",
+        body: "Startup studio based in Delray Beach, Florida.",
+        url: "http://launchpotato.com/careers",
+      },
+      {
+        name: "Librato",
+        body: "Cloud Monitoring.",
+        url: "http://solarwinds.jobs/solarwinds-cloud/",
+      },
+      {
+        name: "Linaro",
+        body: "OpenSource Engineering on ARM.",
+        url: "https://www.linaro.org/careers/",
+      },
+      {
+        name: "Lincoln Loop",
+        body: "WebDev shop.",
+        url: "https://lincolnloop.com/",
+      },
+      {
+        name: "Litmus",
+        body:
+          "Optimization tools for email professionals. Offices in Boston and London, but nearly 50% of the team works remotely.",
+        url: "https://litmus.com/careers",
+      },
+      {
+        name: "LivingSocial",
+        body:
+          "Company-wide support for teams of experienced, remote developers. Lots of autonomy.",
+        url: "https://jobs.groupon.com/",
+      },
+      {
+        name: "Lullabot",
+        body: "Strategy, design and development using Drupal.",
+        url: "https://www.lullabot.com/jobs",
+      },
+      {
+        name: "madewithlove",
+        body:
+          "We help companies build digital products and bring new juice to teams that seem to jam.",
+        url: "https://madewithlove.be/jobs",
+      },
+      {
+        name: "Maintainer Mountaineer",
+        body: "Open source community management as a service.",
+        url: "https://maintainer.io/",
+      },
+      {
+        name: "MariaDB",
+        body: "Open source database.",
+        url: "https://mariadb.com/about-us/careers",
+      },
+      {
+        name: "MarsBased",
+        body:
+          "MarsBased is a development consultancy from Barcelona offering end‑to‑end web & mobile apps based on Ruby on Rails, Angular and other Javascript frameworks.",
+        url: "https://marsbased.com/",
+      },
+      {
+        name: "Mapbox",
+        body: "Map integration tools for various platforms.",
+        url: "https://www.mapbox.com/jobs/",
+      },
+      {
+        name: "MCFTech",
+        body: "Applications to help you run your business succesfully.",
+        url: "https://www.mcftech.com/careers/",
+      },
+      {
+        name: "MeetEdgar",
+        body: "Automated social sharing. US remote.",
+        url: "https://meetedgar.com/careers/",
+      },
+      {
+        name: "Mobile Jazz",
+        body:
+          "We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.",
+        url: "https://mobilejazz.com/",
+      },
+      {
+        name: "Modern Tribe",
+        body:
+          "A digital agency with a modern twist. All freelancers. All experts.",
+        url: "http://tri.be/about/join-our-team/",
+      },
     ]
 
     return (
