@@ -56,7 +56,10 @@
 <h4>Newsletters/Twitter Accounts</h4>
 
 <ul>
-  <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. <br> Sign up here: <a href="https://thememo.substack.com">https://thememo.substack.com</a></li>
+  <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. 
+    <br>Sign up here: <a href="https://thememo.substack.com">https://thememo.substack.com</a>
+    <br>Twitter: <a href="https://twitter.com/TheMemo____">https://twitter.com/TheMemo____<a/>
+  </li>
   <li>Epic Jobs: Discover jobs for design, product, ux, ui, engineering, pm, research, and more via Twitter + video. 
     <br>Twitter Account: <a href="https://twitter.com/epicjobs">https://twitter.com/epicjobs</a>
     <br>Website: <a href="https://epicjobs.co/">https://epicjobs.co/</a>
