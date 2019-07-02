@@ -1287,24 +1287,26 @@ class Directories extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="List of remote junior developer jobs directories" />
-        <div>
-          <Row>
-            {comps.map(comp => {
-              return (
-                <>
-                  <Col>
-                    <Card
-                      title={comp.name}
-                      body={comp.body}
-                      url={comp.url}
-                      img={defaultLogo}
-                    />
-                  </Col>
-                </>
-              )
-            })}
-          </Row>
-        </div>
+
+        <h2>Job Directories</h2>
+
+        <Row>
+          {comps.map(comp => {
+            return (
+              <>
+                <Col>
+                  <Card
+                    title={comp.name}
+                    body={comp.body}
+                    url={comp.url}
+                    img={defaultLogo}
+                  />
+                </Col>
+              </>
+            )
+          })}
+        </Row>
+
         <hr />
 
         <h2>Freelance Platforms</h2>
