@@ -977,6 +977,306 @@ class Directories extends React.Component {
           "Fastest-growing open source ecommerce platform. Node.js, MongoDB, Kubernetes, Docker.",
         url: "https://reactioncommerce.com/careers/",
       },
+      {
+        name: "Real HQ",
+        body:
+          "Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.",
+        url: "https://realhq.com/",
+      },
+      {
+        name: "RebelMouse",
+        body:
+          "Social publishing platform. Python, JS & iOS/Android developers. All over the world team.",
+        url: "https://blog.rebelmouse.com/careers/",
+      },
+      {
+        name: "Recurly",
+        body: "recurring billing management for subscription-based businesses.",
+        url: "https://recurly.com/jobs/",
+      },
+      {
+        name: "Red Hat.",
+        body: "",
+        url: "http://jobs.redhat.com/",
+      },
+      {
+        name: "RightScale.",
+        body: "",
+        url: "http://www.rightscale.com/jobs",
+      },
+      {
+        name: "Sangoma",
+        body:
+          "Trusted leader in delivering globally scalable Voice-Over-IP telephony systems, both on-site and cloud-based. C, PHP, Python, JavaScript, Linux, FreePBX, VoIP.",
+        url: "http://www.sangoma.com/",
+      },
+      {
+        name: "Scrapinghub",
+        body: "",
+        url: "https://scrapinghub.com/jobs",
+      },
+      {
+        name: "ServiceNow",
+        body:
+          "Enterprise cloud computing to improve service levels, energize employees, and change the way your enterprise works. Work at lightspeed.",
+        url: "http://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote",
+      },
+      {
+        name: "ShakaCode",
+        body:
+          "A global web development software consultancy and product company.",
+        url: "http://www.shakacode.com/about/index.html#work-with-us",
+      },
+      {
+        name: "Shogun",
+        body:
+          "Build and optimize eCommerce landing pages. Ruby / Rails, Go, JavaScript, React. 100% remote.",
+        url: "https://getshogun.com/team",
+      },
+      {
+        name: "Signal",
+        body: "These people make the fantastic Signal app. US Only.",
+        url: "https://www.signal.org/workworkwork/",
+      },
+      {
+        name: "Simple",
+        body: "",
+        url: "https://www.simple.com/careers",
+      },
+      {
+        name: "Skyscrapers",
+        body:
+          "Cloud hosting services & management. Working with multiple cloud providers (AWS, Digital Ocean, Linode, ...). 100% remote.",
+        url: "http://skyscrapers.eu/jobs/",
+      },
+      {
+        name: "SoftwareMill",
+        body: "",
+        url: "https://softwaremill.com/join-us/",
+      },
+      {
+        name: "Soshace",
+        body: "Angular/React/Vue.js/Java/Python remote development company. ",
+        url: "https://soshace.com/",
+      },
+      {
+        name: "Songspace",
+        body:
+          "Helps music creators collaborate, catalog, and share work with their professional team.",
+        url: "https://songspace.com/",
+      },
+      {
+        name: "Soostone",
+        body: "",
+        url: "http://www.soostone.com/careers",
+      },
+      {
+        name: "Splice Machine",
+        body:
+          "Combines the functionality of a relational database, data warehouse, and machine learning in one unified AI platform.",
+        url: "https://www.splicemachine.com/company/careers/",
+      },
+      {
+        name: "Spreaker",
+        body: "Discover and listen to your favorite podcasts.",
+        url: "https://www.spreaker.com/jobs",
+      },
+      {
+        name: "StackExchange.",
+        body: "",
+        url: "http://stackexchange.com/work-here",
+      },
+      {
+        name: "Strongloop",
+        body: "",
+        url: "https://strongloop.com/careers/",
+      },
+      {
+        name: "Student Loan Hero",
+        body:
+          "100% remote company on a mission to help 44 million Americans manage and repay over $1.4 trillion in student loan.",
+        url: "https://studentloanhero.com/careers/",
+      },
+      {
+        name: "StyleSeat",
+        body:
+          "we love high-impact remote engineers, collaboration, creativity, python, angularjs.",
+        url: "http://static.styleseat.com/jobs/index.html",
+      },
+      {
+        name: "Surevine",
+        body: "",
+        url: "https://www.surevine.com/jobs/",
+      },
+      {
+        name: "Surge",
+        body:
+          "100% remote consulting company working primarily in Node.JS, iOS, .NET, PHP, and Android.",
+        url: "http://www.surgeforward.com/careers/",
+      },
+      {
+        name: "Sysdig Cloud",
+        body: "",
+        url: "https://sysdig.com/jobs/",
+      },
+      {
+        name: "Taskade",
+        body:
+          "Remote team building real-time collaboration & collaborative editing for teams.",
+        url: "https://www.taskade.com/contact/",
+      },
+      {
+        name: "TaxJar",
+        body: "Eliminate sales tax headaches.",
+        url: "https://www.taxjar.com/jobs/",
+      },
+      {
+        name: "Teamed.io",
+        body: "",
+        url: "http://teamed.io/",
+      },
+      {
+        name: "TeamSnap",
+        body:
+          "TeamSnap is the No. 1 online sports team management software. 80% remote employees.",
+        url: "https://www.teamsnap.com/about/careers",
+      },
+      {
+        name: "TED ",
+        body:
+          "Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js.",
+        url: "http://www.ted.com/about/our-organization/jobs-at-ted",
+      },
+      {
+        name: "Teleport. ",
+        body: "",
+        url: "https://teleport.org/jobs/",
+      },
+      {
+        name: "Tesera",
+        body:
+          "We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.",
+        url: "https://tesera.com/",
+      },
+      {
+        name: "The Grid",
+        body: "AI website builder. 100% distributed team.",
+        url: "http://thegrid.io/",
+      },
+      {
+        name: "Thermeon",
+        body: "Car rental software - 100% remote technical team.",
+        url: "http://thermeon.com/jobs.html",
+      },
+      {
+        name: "TimeDoctor",
+        body:
+          "Time tracking with screenshots, web and app usage monitoring, and integrations.",
+        url: "https://www.timedoctor.com/about-us.html",
+      },
+      {
+        name: "Tipe",
+        body:
+          "Next Generation API-first CMS with GraphQL or REST API. Built with Nuxt.js, Serverless, AWS. 25% remote.",
+        url: "https://tipe.io/",
+      },
+      {
+        name: "Toggl",
+        body: "",
+        url: "https://jobs.toggl.com/",
+      },
+      {
+        name: "Toptal",
+        body:
+          "100% remote development company, solving worldwide talent shortage.",
+        url: "https://www.toptal.com/careers",
+      },
+      {
+        name: "Tortuga Backpacks",
+        body: "Backpacks for city travel.",
+        url: "https://www.tortugabackpacks.com/pages/join",
+      },
+      {
+        name: "Transloadit",
+        body:
+          "The world's most versatile file uploading & encoding service, since 2009, by devs for devs.",
+        url: "https://transloadit.com/jobs/",
+      },
+      {
+        name: "Trello",
+        body: "",
+        url: "https://trello.com/jobs",
+      },
+      {
+        name: "Twin Technologies.",
+        body: "",
+        url: "http://twintechs.com/about-twin/careers",
+      },
+      {
+        name: "Vidalingua",
+        body: "Bringing language apps to life.",
+        url: "http://www.vidalingua.com/amaze.php",
+      },
+      {
+        name: "WAAT",
+        body: "A cross-functional digital agency that adapts to project needs.",
+        url: "https://waat.eu/job/",
+      },
+      {
+        name: "Walltime",
+        body:
+          "A Brazilian digital assets exchange and other products & services using Blockchain technology.",
+        url: "https://walltime.info/",
+      },
+      {
+        name: "Water Lily Pond",
+        body: "Advertising and marketing communication services.",
+        url: "http://waterlilypond.co.uk/",
+      },
+      {
+        name: "wemake.services",
+        body:
+          "We sell repeatable software development process. Fully remote. Python, Javascript, Vue.",
+        url: "https://wemake.services/meta/employees",
+      },
+      {
+        name: "Wikimedia",
+        body: "",
+        url: "https://wikimediafoundation.org/wiki/Work_with_us",
+      },
+      {
+        name: "X-Team",
+        body:
+          "Work on incredible web and mobile projects, with extraordinary developers. Unleash your potential. From anywhere. We are X-Team.",
+        url: "https://x-team.com/join/",
+      },
+      {
+        name: "You Need a Budget",
+        body: "Bank syncing and goals and debt management.",
+        url: "https://www.youneedabudget.com/jobs/",
+      },
+      {
+        name: "YourSports",
+        body: "A social network for your favorite teams.",
+        url: "https://www.yoursports.com/jobs",
+      },
+      {
+        name: "Zamphyr",
+        body:
+          "School 2.0 for learning computer science. Remote-first, 100% JavaScript mostly Meteor.",
+        url: "https://zamphyr.com/",
+      },
+      {
+        name: "Zapier",
+        body: "",
+        url: "https://zapier.com/about/",
+      },
+      {
+        name: "ZipRecruiter",
+        body:
+          "Perl/Catalyst shop that has some of the best Perl devs working remotely.",
+        url: "https://www.ziprecruiter.com/careers",
+      },
     ]
 
     return (
