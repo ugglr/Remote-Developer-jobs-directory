@@ -1,8 +1,13 @@
 import React from "react"
 import { graphql } from "gatsby"
 
+import { Row, Col } from "react-bootstrap"
+
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Card from "../components/card"
+
+import defaultLogo from "../images/game.png"
 
 class Directories extends React.Component {
   render() {
@@ -1283,78 +1288,84 @@ class Directories extends React.Component {
       <Layout location={this.props.location} title={siteTitle}>
         <SEO title="List of remote junior developer jobs directories" />
         <div>
-          <ul style={{ listStyle: "none" }}>
+          <Row>
             {comps.map(comp => {
               return (
                 <>
-                  <li>
-                    <h5>{comp.name}</h5>
-                    <p>{comp.body}</p>
-                    <strong>Link: </strong>
-                    <a href={comp.url}>{comp.url}</a>
-                  </li>
-                  <hr />
+                  <Col>
+                    <Card
+                      title={comp.name}
+                      body={comp.body}
+                      url={comp.url}
+                      img={defaultLogo}
+                    />
+                  </Col>
                 </>
               )
             })}
-          </ul>
+          </Row>
         </div>
         <hr />
 
         <h2>Freelance Platforms</h2>
 
-        <ul style={{ listStyle: "none" }}>
+        <Row>
           {freelance.map(site => {
             return (
               <>
-                <li>
-                  <h5>{site.name}</h5>
-                  <p>{site.body}</p>
-                  <strong>Link: </strong>
-                  <a href={site.url}>{site.url}</a>
-                </li>
+                <Col>
+                  <Card
+                    title={site.name}
+                    body={site.body}
+                    url={site.url}
+                    img={defaultLogo}
+                  />
+                </Col>
                 <hr />
               </>
             )
           })}
-        </ul>
+        </Row>
 
         <hr />
 
         <h2>Slack Communities</h2>
 
-        <ul style={{ listStyle: "none" }}>
+        <Row>
           {slackChannels.map(channel => {
             return (
               <>
-                <li>
-                  <h5>{channel.name}</h5>
-                  <p>{channel.body}</p>
-                  <strong>Link: </strong>
-                  <a href={channel.url}>{channel.url}</a>
-                </li>
-                <hr />
+                <Col>
+                  <Card
+                    title={channel.name}
+                    body={channel.body}
+                    url={channel.url}
+                  />
+                </Col>
               </>
             )
           })}
-        </ul>
+        </Row>
+
+        <hr />
 
         <h2>Companies with Remote DNA</h2>
-        <ul style={{ listStyle: "none" }}>
+        <Row>
           {remoteCompanies.map(company => {
             return (
               <>
-                <li>
-                  <h5>{company.name}</h5>
-                  <p>{company.body}</p>
-                  <strong>Link: </strong>
-                  <a href={company.url}>{company.url}</a>
-                </li>
-                <hr />
+                <Col>
+                  <Card
+                    title={company.name}
+                    body={company.body}
+                    url={company.url}
+                    img={defaultLogo}
+                  />
+                </Col>
               </>
             )
           })}
-        </ul>
+        </Row>
 
         <hr />
       </Layout>

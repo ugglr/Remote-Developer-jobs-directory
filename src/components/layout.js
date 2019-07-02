@@ -65,7 +65,7 @@ class Layout extends React.Component {
         }}
       >
         <header>{header}</header>
-        <Navbar></Navbar>
+        <Navbar />
         <main>{children}</main>
         <footer>
           © {new Date().getFullYear()}, Built with

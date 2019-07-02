@@ -15,12 +15,10 @@ class Testerpage extends React.Component {
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <Card
-          title="Test Title"
-          logoImg={testLogo}
-          URL={"https://www.github.com"}
-          description={
-            "Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum Lorem Ipsum"
-          }
+          title="Title"
+          body="this is the body of the card"
+          url="https://www.google.com"
+          img={testLogo}
         />
       </Layout>
     )
