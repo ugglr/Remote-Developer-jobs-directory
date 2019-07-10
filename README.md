@@ -53,7 +53,7 @@
   <li>Scotch.io: https://scotch-slack.herokuapp.com/</li>
 </ul>
 
-<h4>Newsletters/Twitter Accounts</h4>
+<h4>Job Search Newsletters/Twitter Accounts</h4>
 
 <ul>
   <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. 
@@ -67,6 +67,271 @@
 </ul>
 
 <h4>Great Resources</h4>
+
+<strong>Twitter Accounts</strong>
+<p>Please check the amazing @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
+
+<strong>Frontend : React</strong>
+@TejasKumar_ 
+@kentcdodds 
+@ParissAthena 
+@stolinski 
+@jamesqquick 
+@chrisoncode 
+@traversymedia 
+@jsjoeio 
+@js_tut 
+@ireaderinokun 
+@TaelurAlexis 
+@denvercoder 
+@TaelurAlexis 
+@dan_abramov 
+@samwightt 
+@AdamRackis 
+@code_punkt 
+@elizfunk
+
+<Strong>Vuejs (@vuejs)</strong>
+@youyuxi 
+@blakenewman 
+@djcp86 
+@znck0 
+@ggrgur 
+@bytenaija 
+@ZackArgyle 
+@VueCamp_de 
+@vuejsdevelopers
+
+<strong>Frontend: Angular</strong>
+@jdjuan 
+@Ot_kelechi 
+@saniyusuf 
+@iNidAName 
+@aaronfrost 
+@ashnita01 
+@triple0t
+@Benneee_
+@StanimiraVlaeva 
+@ladyleet 
+@DeborahKurata 
+@bonnster75 
+@thelittlestdev 
+@kapunahele 
+@AnaCidre_ 
+@sherrrylst 
+@simona_cotin 
+@MartinaKraus11 
+@cornelia_rauch 
+@KimMaida 
+@reibo_bo 
+@psybercity 
+@JecelynYeen 
+@0594CF 
+@CarmenPopoviciu 
+@nixallover 
+@yallen011 
+@keillamenezes_ 
+@ErinCoughlan16
+
+<strong>Frontend : ReactNative</strong>
+@ParissAthena 
+@Dayhaysoos 
+@jamonholmgren 
+@sebmck 
+@ken_wheeler 
+@ZackArgyle 
+@cpojer 
+@gwmccull 
+@notbrent 
+@Eli_White 
+@infinite_frank 
+@jamonholmgren 
+@erinfoox 
+@rickhanlonii 
+@sebmck 
+@gethackteam 
+@yungsters 
+@jstheoriginal
+@janicduplessis
+
+<strong>Java  /  Android Devs</strong>
+@techgirl1908 
+@theadoranwodo 
+@4sujittiwari 
+@eMalaGupta 
+@lili_z 
+@JienashMandora 
+@oncode247 
+@jeolnet
+@jsjoeio 
+@Atomikos 
+@oblique_shock
+@java
+
+<strong>Game Dev: Unity and C#</strong>
+@fafnir 
+@minionsart 
+@UnityDevTomS 
+@AdamTuliper 
+@ShawnWhite 
+@fusedotcore 
+@AngryArray 
+@EsperControl 
+@sh4na 
+@polybeats 
+@tomkail 
+@RebeccaAJones 
+@SarahGrohmann 
+@vbandi 
+@jamesashley 
+@rschu 
+@Gaohmee
+
+<strong>Backend Php : Laravel, node</strong>
+@unicodeveloper 
+@tripletenkc 
+@NeoIghodaro 
+@_googlemac 
+@themarcusbattle 
+@onejsninja 
+@matteocollina 
+@jessicaewest 
+@mastashake08 
+@taylorotwell 
+@driesvints 
+@daylerees 
+@codeekage 
+@laravelphp 
+@nodejs
+
+<strong>UI/UX</strong> 
+@lenoraporter_ 
+@PraizUx 
+@_haywhy 
+@sarah_edo 
+@miuki_miu 
+@devdevcharlie 
+@bennychewNL 
+@iambolajiayo 
+@AmarachiAmaechi
+
+<strong>Python Dev</strong>
+@moshhamedani 
+@charliecodes 
+@marlene_zw 
+@dbader_org 
+@sixtysticks 
+@VishwaMehta30 
+@ThePSF
+
+<strong>Data Science</strong> 
+@bayoadekanmbi 
+@funsholaniyi 
+@t2pitchy 
+@JamesOyanna 
+@calmtuna 
+@DataSciCampus 
+@DataScienceNIG
+
+<strong>Full amazing stacks</strong> 
+@lavie_encode 
+@BenjaminCodes 
+@EmmaWedekind 
+@DanEnglishby 
+@techgirl1908 
+@TheEduardoRFS
+@psychopsia 
+@sarah_edo (SVG, CSS)
+@codehitchhiker 
+@JimiDeji 
+@wesbos 
+@codebeast 
+@ASpittel 
+@rea_loretta 
+@ossia 
+@shanselman
+@jsjoeio 
+@ThugDebugger
+@theshalvah
+
+<strong>.Net Devs</strong> 
+@julielerman 
+@davidfowl 
+@DamianEdwards 
+@migueldeicaza 
+@terrajobst 
+@ziki_cz
+@blowdart 
+@DaraOladapo 
+@davemccollough 
+@JamesMontemagno 
+@dotnet
+
+<strong>Tech Business Developers</strong>
+@Babajiide 
+@nadayar 
+@tushgeek 
+@francis_sani 
+@iaboyeji 
+@senisulyman 
+@theTrendyTechie 
+@markessien 
+@passalanorh
+
+<strong>AI / ML /  IOT</strong>
+@jennifazor 
+@AndrewYNg 
+@fchollet 
+@peero007 
+@OgundipeOre 
+@DynamicWebPaige 
+@CodesOfRa 
+@sethjuarez 
+@Twickta 
+@farouqzaib 
+@RamirezAlex_ 
+@neal_lathia 
+@roydanroy 
+@noopkat 
+@BevEve 
+@EmekaOkoye 
+@Chels_LA 
+@taraw
+
+<strong>Tech Communities/Conferences</strong>
+@ConsonanceClub 
+@forloopAfrica 
+@codingcoach_io 
+@oscafrica 
+@_Ingressive_ 
+@ConcatenateConf 
+@TheLeadDev 
+@FullStackFest 
+@earimedia 
+@iottechexpo 
+@ReactAmsterdam 
+@renderATL 
+@dev_careers 
+@SheCodeAfrica
+
+<strong>Cyber Security and Hackers</strong>
+@digitalempirehq 
+@jeoloseiga
+@Xymbiz 
+@DigitalEmpress
+@InfosecFam 
+@packetfanatic 
+@vastidity 
+@ShastaSummit 
+@hodltergeist
+@darksim905
+@PhillipWylie 
+@PWNetrationguru 
+@BDavis_CyberSec 
+@infosystir
+@TheCybern00b 
+@ParseTheSalt 
+@katiascylife
 
 <strong>Youtubers/Youtube Channels</strong>
 
