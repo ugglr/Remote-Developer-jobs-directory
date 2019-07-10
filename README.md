@@ -71,67 +71,72 @@
 <strong>Twitter Accounts</strong>
 <p>Please check the amazing @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
 
-<strong>Frontend : React</strong>
-@TejasKumar_ 
-@kentcdodds 
-@ParissAthena 
-@stolinski 
-@jamesqquick 
-@chrisoncode 
-@traversymedia 
-@jsjoeio 
-@js_tut 
-@ireaderinokun 
-@TaelurAlexis 
-@denvercoder 
-@TaelurAlexis 
-@dan_abramov 
-@samwightt 
-@AdamRackis 
-@code_punkt 
-@elizfunk
+<ul>
+  <strong>Frontend : React</strong>
+  <li>@TejasKumar_</li> 
+  <li>@kentcdodds</li>
+  <li>@ParissAthena</li>
+  <li>@stolinski</li>
+  <li>@jamesqquick</li>
+  <li>@chrisoncode</li>
+  <li>@traversymedia</li>
+  <li>@jsjoeio</li>
+  <li>@js_tut</li>
+  <li>@ireaderinokun</li> 
+  <li>@TaelurAlexis</li>
+  <li>@denvercoder</li>
+  <li>@TaelurAlexis</li>
+  <li>@dan_abramov</li>
+  <li>@samwightt</li>
+  <li>@AdamRackis</li>
+  <li>@code_punkt</li>
+  <li>@elizfunk</li>
+</ul>
 
-<Strong>Vuejs (@vuejs)</strong>
-@youyuxi 
-@blakenewman 
-@djcp86 
-@znck0 
-@ggrgur 
-@bytenaija 
-@ZackArgyle 
-@VueCamp_de 
-@vuejsdevelopers
+<ul><Strong>Vuejs (@vuejs)</strong>
+  <li>@youyuxi</li> 
+  <li>@blakenewman</li> 
+  <li>@djcp86</li> 
+  <li>@znck0</li> 
+  <li>@ggrgur</li> 
+  <li>@bytenaija</li> 
+  <li>@ZackArgyle</li> 
+  <li>@VueCamp_de</li> 
+  <li>@vuejsdevelopers</li>
+</ul>
 
-<strong>Frontend: Angular</strong>
-@jdjuan 
-@Ot_kelechi 
-@saniyusuf 
-@iNidAName 
-@aaronfrost 
-@ashnita01 
-@triple0t
-@Benneee_
-@StanimiraVlaeva 
-@ladyleet 
-@DeborahKurata 
-@bonnster75 
-@thelittlestdev 
-@kapunahele 
-@AnaCidre_ 
-@sherrrylst 
-@simona_cotin 
-@MartinaKraus11 
-@cornelia_rauch 
-@KimMaida 
-@reibo_bo 
-@psybercity 
-@JecelynYeen 
-@0594CF 
-@CarmenPopoviciu 
-@nixallover 
-@yallen011 
-@keillamenezes_ 
-@ErinCoughlan16
+<ul>
+  <strong>Frontend: Angular</strong>
+  <li>@jdjuan</li>
+  <li>@Ot_kelechi</li> 
+  <li>@saniyusuf</li> 
+  <li>@iNidAName</li> 
+  <li>@aaronfrost</li>
+  <li>@ashnita01</li>
+  <li>@triple0t</li>
+  <li>@Benneee_</li>
+  <li>@StanimiraVlaeva</li> 
+  <li>@ladyleet</li>
+  <li>@DeborahKurata</li> 
+  <li>@bonnster75</li> 
+  <li>@thelittlestdev</li> 
+  <li>@kapunahele</li> 
+  <li>@AnaCidre_</li> 
+  <li>@sherrrylst</li> 
+  <li>@simona_cotin</li> 
+  <li>@MartinaKraus11</li> 
+  <li>@cornelia_rauch </li>
+  <li>@KimMaida</li> 
+  <li>@reibo_bo</li> 
+  <li>@psybercity</li>
+  <li>@JecelynYeen</li> 
+  <li>@0594CF</li> 
+  <li>@CarmenPopoviciu</li> 
+  <li>@nixallover</li> 
+  <li>@yallen011</li>
+  <li>@keillamenezes_</li>
+  <li>@ErinCoughlan16</li>
+  </ul>
 
 <strong>Frontend : ReactNative</strong>
 @ParissAthena 
