@@ -138,205 +138,230 @@
   <li>@ErinCoughlan16</li>
   </ul>
 
-<strong>Frontend : ReactNative</strong>
-@ParissAthena 
-@Dayhaysoos 
-@jamonholmgren 
-@sebmck 
-@ken_wheeler 
-@ZackArgyle 
-@cpojer 
-@gwmccull 
-@notbrent 
-@Eli_White 
-@infinite_frank 
-@jamonholmgren 
-@erinfoox 
-@rickhanlonii 
-@sebmck 
-@gethackteam 
-@yungsters 
-@jstheoriginal
-@janicduplessis
+<ul>
+  <strong>Frontend / Mobile : ReactNative</strong>
+  <li>@ParissAthena</li>
+  <li>@Dayhaysoos</li> 
+  <li>@jamonholmgren</li> 
+  <li>@sebmck</li> 
+  <li>@ken_wheeler</li> 
+  <li>@ZackArgyle</li> 
+  <li>@cpojer</li> 
+  <li>@gwmccull</li> 
+  <li>@notbrent</li> 
+  <li>@Eli_White</li> 
+  <li>@infinite_frank</li> 
+  <li>@jamonholmgren</li> 
+  <li>@erinfoox</li> 
+  <li>@rickhanlonii</li> 
+  <li>@sebmck</li> 
+  <li>@gethackteam</li>
+  <li>@yungsters</li> 
+  <li>@jstheoriginal</li>
+  <li>@janicduplessis</li>
+</ul>
 
-<strong>Java  /  Android Devs</strong>
-@techgirl1908 
-@theadoranwodo 
-@4sujittiwari 
-@eMalaGupta 
-@lili_z 
-@JienashMandora 
-@oncode247 
-@jeolnet
-@jsjoeio 
-@Atomikos 
-@oblique_shock
-@java
+<ul>
+  <strong>Java  /  Android Devs</strong>
+  <li>@techgirl1908</li>
+  <li>@theadoranwodo</li> 
+  <li>@4sujittiwari</li> 
+  <li>@eMalaGupta</li> 
+  <li>@lili_z</li> 
+  <li>@JienashMandora</li>
+  <li>@oncode247</li> 
+  <li>@jeolnet</li>
+  <li>@jsjoeio</li> 
+  <li>@Atomikos</li> 
+  <li>@oblique_shock</li>
+  <li>@java</li>
+  </ul>
 
-<strong>Game Dev: Unity and C#</strong>
-@fafnir 
-@minionsart 
-@UnityDevTomS 
-@AdamTuliper 
-@ShawnWhite 
-@fusedotcore 
-@AngryArray 
-@EsperControl 
-@sh4na 
-@polybeats 
-@tomkail 
-@RebeccaAJones 
-@SarahGrohmann 
-@vbandi 
-@jamesashley 
-@rschu 
-@Gaohmee
+<ul>
+  <strong>Game Dev: Unity and C#</strong>
+<li>@fafnir</li>
+<li>@minionsart</li>
+<li>@UnityDevTomS</li>
+<li>@AdamTuliper</li>
+<li>@ShawnWhite</li>
+<li>@fusedotcore</li>
+<li>@AngryArray</li>
+<li>@EsperControl</li> 
+<li>@sh4na</li>
+<li>@polybeats</li>
+<li>@tomkail</li>
+<li>@RebeccaAJones</li>
+<li>@SarahGrohmann</li>
+<li>@vbandi</li> 
+<li>@jamesashley</li> 
+<li>@rschu</li> 
+<li>@Gaohmee</li>
+  </ul>
 
-<strong>Backend Php : Laravel, node</strong>
-@unicodeveloper 
-@tripletenkc 
-@NeoIghodaro 
-@_googlemac 
-@themarcusbattle 
-@onejsninja 
-@matteocollina 
-@jessicaewest 
-@mastashake08 
-@taylorotwell 
-@driesvints 
-@daylerees 
-@codeekage 
-@laravelphp 
-@nodejs
+<ul>
+  <strong>Backend Php : Laravel, node</strong>
+<li>@unicodeveloper</li>
+<li>@tripletenkc</li>
+<li>@NeoIghodaro</li>
+<li>@_googlemac</li>
+<li>@themarcusbattle</li> 
+<li>@onejsninja</li>
+<li>@matteocollina</li>
+<li>@jessicaewest</li>
+<li>@mastashake08</li>
+<li>@taylorotwell</li>
+<li>@driesvints</li>
+<li>@daylerees</li>
+<li>@codeekage</li> 
+<li>@laravelphp</li> 
+<li>@nodejs</li>
+  </ul>
 
-<strong>UI/UX</strong> 
-@lenoraporter_ 
-@PraizUx 
-@_haywhy 
-@sarah_edo 
-@miuki_miu 
-@devdevcharlie 
-@bennychewNL 
-@iambolajiayo 
-@AmarachiAmaechi
+<ul>
+  <strong>UI/UX</strong> 
+<li>@lenoraporter_</li> 
+<li>@PraizUx</li>
+<li>@_haywhy</li>
+<li>@sarah_edo</li>
+<li>@miuki_miu</li>
+<li>@devdevcharlie</li>
+<li>@bennychewNL</li>
+<li>@iambolajiayo</li>
+<li>@AmarachiAmaechi</li>
+  </ul>
 
-<strong>Python Dev</strong>
-@moshhamedani 
-@charliecodes 
-@marlene_zw 
-@dbader_org 
-@sixtysticks 
-@VishwaMehta30 
-@ThePSF
+<ul>
+  <strong>Python Dev</strong>
+<li>@moshhamedani</li>
+<li>@charliecodes</li>
+<li>@marlene_zw</li>
+<li>@dbader_org</li>
+<li>@sixtysticks</li>
+<li>@VishwaMehta30</li>
+<li>@ThePSF</li>
+  </ul>
 
-<strong>Data Science</strong> 
-@bayoadekanmbi 
-@funsholaniyi 
-@t2pitchy 
-@JamesOyanna 
-@calmtuna 
-@DataSciCampus 
-@DataScienceNIG
+<ul>
+  <strong>Data Science</strong> 
+<li>@bayoadekanmbi</li>
+<li>@funsholaniyi</li>
+<li>@t2pitchy</li>
+<li>@JamesOyanna</li>
+<li>@calmtuna</li>
+<li>@DataSciCampus</li>
+<li>@DataScienceNIG</li>
+</ul>
 
-<strong>Full amazing stacks</strong> 
-@lavie_encode 
-@BenjaminCodes 
-@EmmaWedekind 
-@DanEnglishby 
-@techgirl1908 
-@TheEduardoRFS
-@psychopsia 
-@sarah_edo (SVG, CSS)
-@codehitchhiker 
-@JimiDeji 
-@wesbos 
-@codebeast 
-@ASpittel 
-@rea_loretta 
-@ossia 
-@shanselman
-@jsjoeio 
-@ThugDebugger
-@theshalvah
+<ul>
+  <strong>Full amazing stacks</strong> 
+<li>@lavie_encode</li>
+<li>@BenjaminCodes</li>
+<li>@EmmaWedekind</li>
+<li>@DanEnglishby</li>
+<li>@techgirl1908</li>
+<li>@TheEduardoRFS</li>
+<li>@psychopsia</li>
+<li>@sarah_edo (SVG, CSS)</li>
+<li>@codehitchhiker</li> 
+<li>@JimiDeji</li>
+<li>@wesbos</li>
+<li>@codebeast</li>
+<li>@ASpittel</li>
+<li>@rea_loretta</li> 
+<li>@ossia</li>
+<li>@shanselman</li>
+<li>@jsjoeio</li>
+<li>@ThugDebugger</li>
+<li>@theshalvah</li>
+  </ul>
 
-<strong>.Net Devs</strong> 
-@julielerman 
-@davidfowl 
-@DamianEdwards 
-@migueldeicaza 
-@terrajobst 
-@ziki_cz
-@blowdart 
-@DaraOladapo 
-@davemccollough 
-@JamesMontemagno 
-@dotnet
+<ul>
+  <strong>.Net Devs</strong> 
+<li>@julielerman</li>
+<li>@davidfowl</li>
+<li>@DamianEdwards</li> 
+<li>@migueldeicaza</li> 
+<li>@terrajobst</li> 
+<li>@ziki_cz</li>
+<li>@blowdart</li> 
+<li>@DaraOladapo</li> 
+<li>@davemccollough</li> 
+<li>@JamesMontemagno</li> 
+<li>@dotnet</li>
+  </ul>
 
-<strong>Tech Business Developers</strong>
-@Babajiide 
-@nadayar 
-@tushgeek 
-@francis_sani 
-@iaboyeji 
-@senisulyman 
-@theTrendyTechie 
-@markessien 
-@passalanorh
+<ul>
+  <strong>Tech Business Developers</strong>
+<li>@Babajiide</li> 
+<li>@nadayar</li> 
+<li>@tushgeek</li> 
+<li>@francis_sani</li> 
+<li>@iaboyeji</li> 
+<li>@senisulyman</li> 
+<li>@theTrendyTechie</li> 
+<li>@markessien</li> 
+<li>@passalanorh</li>
+  </ul>
 
-<strong>AI / ML /  IOT</strong>
-@jennifazor 
-@AndrewYNg 
-@fchollet 
-@peero007 
-@OgundipeOre 
-@DynamicWebPaige 
-@CodesOfRa 
-@sethjuarez 
-@Twickta 
-@farouqzaib 
-@RamirezAlex_ 
-@neal_lathia 
-@roydanroy 
-@noopkat 
-@BevEve 
-@EmekaOkoye 
-@Chels_LA 
-@taraw
+<ul>
+  <strong>AI / ML /  IOT</strong>
+<li>@jennifazor</li> 
+<li>@AndrewYNg</li> 
+<li>@fchollet</li> 
+<li>@peero007</li> 
+<li>@OgundipeOre</li> 
+<li>@DynamicWebPaige</li> 
+<li>@CodesOfRa</li>
+<li>@sethjuarez</li>
+<li>@Twickta</li> 
+<li>@farouqzaib</li> 
+<li>@RamirezAlex_</li> 
+<li>@neal_lathia</li> 
+<li>@roydanroy</li> 
+<li>@noopkat</li> 
+<li>@BevEve</li> 
+<li>@EmekaOkoye</li> 
+<li>@Chels_LA</li> 
+<li>@taraw</li>
+  </ul>
 
-<strong>Tech Communities/Conferences</strong>
-@ConsonanceClub 
-@forloopAfrica 
-@codingcoach_io 
-@oscafrica 
-@_Ingressive_ 
-@ConcatenateConf 
-@TheLeadDev 
-@FullStackFest 
-@earimedia 
-@iottechexpo 
-@ReactAmsterdam 
-@renderATL 
-@dev_careers 
-@SheCodeAfrica
+<ul>
+  <strong>Tech Communities/Conferences</strong>
+<li>@ConsonanceClub</li> 
+<li>@forloopAfrica</li> 
+<li>@codingcoach_io</li>
+<li>@oscafrica</li>
+<li>@_Ingressive_</li> 
+<li>@ConcatenateConf</li> 
+<li>@TheLeadDev</li> 
+<li>@FullStackFest</li> 
+<li>@earimedia</li> 
+<li>@iottechexpo</li> 
+<li>@ReactAmsterdam</li> 
+<li>@renderATL</li>
+<li>@dev_careers</li>
+<li>@SheCodeAfrica</li>
+  </ul>
 
-<strong>Cyber Security and Hackers</strong>
-@digitalempirehq 
-@jeoloseiga
-@Xymbiz 
-@DigitalEmpress
-@InfosecFam 
-@packetfanatic 
-@vastidity 
-@ShastaSummit 
-@hodltergeist
-@darksim905
-@PhillipWylie 
-@PWNetrationguru 
-@BDavis_CyberSec 
-@infosystir
-@TheCybern00b 
-@ParseTheSalt 
-@katiascylife
+<ul><strong>Cyber Security and Hackers</strong>
+<li>@digitalempirehq</li> 
+<li>@jeoloseiga</li>
+<li>@Xymbiz</li>
+<li>@DigitalEmpress</li>
+<li>@InfosecFam</li>
+<li>@packetfanatic</li>
+<li>@vastidity</li>
+<li>@ShastaSummit</li>
+<li>@hodltergeist</li>
+<li>@darksim905</li>
+<li>@PhillipWylie</li>
+<li>@PWNetrationguru</li>
+<li>@BDavis_CyberSec</li> 
+<li>@infosystir</li>
+<li>@TheCybern00b</li>
+<li>@ParseTheSalt</li> 
+<li>@katiascylife</li>
+  </ul>
 
 <strong>Youtubers/Youtube Channels</strong>
 
