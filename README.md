@@ -47,10 +47,11 @@
 <Strong>Slack Channels</strong>
 
 <ul>
-  <li>Remotive (Payed membership): https://remotive.io/community</li>
-  <li>Codingcoach: https://join.slack.com/t/coding-coach/shared_invite/enQtNDYxNTcwMjk4MDcwLThiZjY1MTM2YTU1YzM2MGI1N2Y1NDI3ZGM1MGRhNjdiZjU0MzE1YjMxZjdlZmVlNDdhNmFhN2RhNGIxZmE1YTI</li>
-  <li>DevChat https://devchat.devolio.net/</li>
-  <li>Scotch.io: https://scotch-slack.herokuapp.com/</li>
+  <li>codemortals.io: <a href="https://codemortals.slack.com/join/shared_invite/enQtNjg1NzgxMTczMTI3LWMyN2QwOWI3MWIxNDZjMGI2MzJiYTI4ZTZmMzkyMGJmOTBmMTBmMjUzNTM5NjEwN2QxNWEzMmQ0NmEzMzM2Nzc">Link</a></li>
+  <li>Remotive (Payed membership): <a href="https://remotive.io/community">Link</a></li>
+  <li>Codingcoach: <a href="https://join.slack.com/t/coding-coach/shared_invite/enQtNDYxNTcwMjk4MDcwLThiZjY1MTM2YTU1YzM2MGI1N2Y1NDI3ZGM1MGRhNjdiZjU0MzE1YjMxZjdlZmVlNDdhNmFhN2RhNGIxZmE1YTI">Link</a></li>
+  <li>DevChat: <a href="https://devchat.devolio.net/">Link</a></li>
+  <li>Scotch.io: <a href="https://scotch-slack.herokuapp.com/">Link</a></li>
 </ul>
 
 <h4>Job Search Newsletters/Twitter Accounts</h4>
