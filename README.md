@@ -95,310 +95,309 @@
 </ul>
 
 <ul><Strong>Vuejs (@vuejs)</strong>
-  <li><a href="https://twitter.com/">@youyuxi</a></li> 
-  <li><a href="https://twitter.com/">@blakenewman</a></li> 
-  <li><a href="https://twitter.com/">@djcp86</a></li> 
-  <li><a href="https://twitter.com/">@znck0</a></li> 
-  <li><a href="https://twitter.com/">@ggrgur</a></li> 
-  <li><a href="https://twitter.com/">@bytenaija</a></li> 
-  <li><a href="https://twitter.com/">@ZackArgyle</a></li> 
-  <li><a href="https://twitter.com/">@VueCamp_de</a></li> 
-  <li><a href="https://twitter.com/">@vuejsdevelopers</a></li>
+  <li><a href="https://twitter.com/@youyuxi">@youyuxi</a></li> 
+  <li><a href="https://twitter.com/@blakenewman">@blakenewman</a></li> 
+  <li><a href="https://twitter.com/@djcp86">@djcp86</a></li> 
+  <li><a href="https://twitter.com/@znck0">@znck0</a></li> 
+  <li><a href="https://twitter.com/@ggrgur">@ggrgur</a></li> 
+  <li><a href="https://twitter.com/@bytenaija">@bytenaija</a></li> 
+  <li><a href="https://twitter.com/@ZackArgyle">@ZackArgyle</a></li> 
+  <li><a href="https://twitter.com/@VueCamp_de">@VueCamp_de</a></li> 
+  <li><a href="https://twitter.com/@vuejsdevelopers">@vuejsdevelopers</a></li>
 </ul>
 
 <ul>
   <strong>Frontend: Angular</strong>
-  <li><a href="https://twitter.com/">@jdjuan</a></li>
-  <li><a href="https://twitter.com/">@Ot_kelechi</a></li> 
-  <li><a href="https://twitter.com/">@saniyusuf</a></li> 
-  <li><a href="https://twitter.com/">@iNidAName</a></li> 
-  <li><a href="https://twitter.com/">@aaronfrost</a></li>
-  <li><a href="https://twitter.com/">@ashnita01</a></li>
-  <li><a href="https://twitter.com/">@triple0t</a></li>
-  <li><a href="https://twitter.com/">@Benneee_</a></li>
-  <li><a href="https://twitter.com/">@StanimiraVlaeva</a></li> 
-  <li><a href="https://twitter.com/">@ladyleet</a></li>
-  <li><a href="https://twitter.com/">@DeborahKurata</a></li> 
-  <li><a href="https://twitter.com/">@bonnster75</a></li> 
-  <li><a href="https://twitter.com/">@thelittlestdev</a></li> 
-  <li><a href="https://twitter.com/">@kapunahele</a></li> 
-  <li><a href="https://twitter.com/">@AnaCidre_</a></li> 
-  <li><a href="https://twitter.com/">@sherrrylst</a></li> 
-  <li><a href="https://twitter.com/">@simona_cotin</a></li> 
-  <li><a href="https://twitter.com/">@MartinaKraus11</a></li> 
-  <li><a href="https://twitter.com/">@cornelia_rauch</a></li>
-  <li><a href="https://twitter.com/">@KimMaida</a></li> 
-  <li><a href="https://twitter.com/">@reibo_bo</a></li> 
-  <li><a href="https://twitter.com/">@psybercity</a></li>
-  <li><a href="https://twitter.com/">@JecelynYeen</a></li> 
-  <li><a href="https://twitter.com/">@0594CF</a></li> 
-  <li><a href="https://twitter.com/">@CarmenPopoviciu</a></li> 
-  <li><a href="https://twitter.com/">@nixallover</a></li> 
-  <li><a href="https://twitter.com/">@yallen011</a></li>
-  <li><a href="https://twitter.com/">@keillamenezes_</a></li>
-  <li><a href="https://twitter.com/">@ErinCoughlan16</a></li>
+  <li><a href="https://twitter.com/@jdjuan">@jdjuan</a></li>
+  <li><a href="https://twitter.com/@Ot_kelechi">@Ot_kelechi</a></li> 
+  <li><a href="https://twitter.com/@saniyusuf">@saniyusuf</a></li> 
+  <li><a href="https://twitter.com/@iNidAName">@iNidAName</a></li> 
+  <li><a href="https://twitter.com/@aaronfrost">@aaronfrost</a></li>
+  <li><a href="https://twitter.com/@ashnita01">@ashnita01</a></li>
+  <li><a href="https://twitter.com/@triple0t">@triple0t</a></li>
+  <li><a href="https://twitter.com/@Benneee_">@Benneee_</a></li>
+  <li><a href="https://twitter.com/@StanimiraVlaeva">@StanimiraVlaeva</a></li> 
+  <li><a href="https://twitter.com/@ladyleet">@ladyleet</a></li>
+  <li><a href="https://twitter.com/@DeborahKurata">@DeborahKurata</a></li> 
+  <li><a href="https://twitter.com/@bonnster75">@bonnster75</a></li> 
+  <li><a href="https://twitter.com/@thelittlestdev">@thelittlestdev</a></li> 
+  <li><a href="https://twitter.com/@kapunahele">@kapunahele</a></li> 
+  <li><a href="https://twitter.com/@AnaCidre_">@AnaCidre_</a></li> 
+  <li><a href="https://twitter.com/@sherrrylst">@sherrrylst</a></li> 
+  <li><a href="https://twitter.com/@simona_cotin">@simona_cotin</a></li> 
+  <li><a href="https://twitter.com/@MartinaKraus11">@MartinaKraus11</a></li> 
+  <li><a href="https://twitter.com/@cornelia_rauch">@cornelia_rauch</a></li>
+  <li><a href="https://twitter.com/@KimMaida">@KimMaida</a></li> 
+  <li><a href="https://twitter.com/@reibo_bo">@reibo_bo</a></li> 
+  <li><a href="https://twitter.com/@psybercity">@psybercity</a></li>
+  <li><a href="https://twitter.com/@JecelynYeen">@JecelynYeen</a></li> 
+  <li><a href="https://twitter.com/@0594CF">@0594CF</a></li> 
+  <li><a href="https://twitter.com/@CarmenPopoviciu">@CarmenPopoviciu</a></li> 
+  <li><a href="https://twitter.com/@nixallover">@nixallover</a></li> 
+  <li><a href="https://twitter.com/@yallen011">@yallen011</a></li>
+  <li><a href="https://twitter.com/@keillamenezes_">@keillamenezes_</a></li>
+  <li><a href="https://twitter.com/@ErinCoughlan16">@ErinCoughlan16</a></li>
   </ul>
 
 <ul>
   <strong>Frontend / Mobile : ReactNative</strong>
-  <li><a href="https://twitter.com/">@ParissAthena</a></li>
-  <li><a href="https://twitter.com/">@Dayhaysoos</a></li> 
-  <li><a href="https://twitter.com/">@jamonholmgren</a></li> 
-  <li><a href="https://twitter.com/">@sebmck</a></li> 
-  <li><a href="https://twitter.com/">@ken_wheeler</a></li> 
-  <li><a href="https://twitter.com/">@ZackArgyle</a></li> 
-  <li><a href="https://twitter.com/">@cpojer</a></li> 
-  <li><a href="https://twitter.com/">@gwmccull</a></li> 
-  <li><a href="https://twitter.com/">@notbrent</a></li> 
-  <li><a href="https://twitter.com/">@Eli_White</a></li> 
-  <li><a href="https://twitter.com/">@infinite_frank</a></li> 
-  <li><a href="https://twitter.com/">@jamonholmgren</a></li> 
-  <li><a href="https://twitter.com/">@erinfoox</a></li> 
-  <li><a href="https://twitter.com/">@rickhanlonii</a></li> 
-  <li><a href="https://twitter.com/">@sebmck</a></li> 
-  <li><a href="https://twitter.com/">@gethackteam</a></li>
-  <li><a href="https://twitter.com/">@yungsters</a></li> 
-  <li><a href="https://twitter.com/">@jstheoriginal</a></li>
-  <li><a href="https://twitter.com/">@janicduplessis</a></li>
+  <li><a href="https://twitter.com/@ParissAthena">@ParissAthena</a></li>
+  <li><a href="https://twitter.com/@Dayhaysoos">@Dayhaysoos</a></li> 
+  <li><a href="https://twitter.com/@jamonholmgren">@jamonholmgren</a></li> 
+  <li><a href="https://twitter.com/@sebmck">@sebmck</a></li> 
+  <li><a href="https://twitter.com/@ken_wheeler">@ken_wheeler</a></li> 
+  <li><a href="https://twitter.com/@ZackArgyle">@ZackArgyle</a></li> 
+  <li><a href="https://twitter.com/@cpojer">@cpojer</a></li> 
+  <li><a href="https://twitter.com/@gwmccull">@gwmccull</a></li> 
+  <li><a href="https://twitter.com/@notbrent">@notbrent</a></li> 
+  <li><a href="https://twitter.com/@Eli_White">@Eli_White</a></li> 
+  <li><a href="https://twitter.com/@infinite_frank">@infinite_frank</a></li> 
+  <li><a href="https://twitter.com/@jamonholmgren">@jamonholmgren</a></li> 
+  <li><a href="https://twitter.com/@erinfoox">@erinfoox</a></li> 
+  <li><a href="https://twitter.com/@rickhanlonii">@rickhanlonii</a></li> 
+  <li><a href="https://twitter.com/@sebmck">@sebmck</a></li> 
+  <li><a href="https://twitter.com/@gethackteam">@gethackteam</a></li>
+  <li><a href="https://twitter.com/@yungsters">@yungsters</a></li> 
+  <li><a href="https://twitter.com/@jstheoriginal">@jstheoriginal</a></li>
+  <li><a href="https://twitter.com/@janicduplessis">@janicduplessis</a></li>
 </ul>
 
 <ul>
   <strong>Java  /  Android Devs</strong>
-  <li><a href="https://twitter.com/">@techgirl1908</a></li>
-  <li><a href="https://twitter.com/">@theadoranwodo</a></li> 
-  <li><a href="https://twitter.com/">@4sujittiwari</a></li> 
-  <li><a href="https://twitter.com/">@eMalaGupta</a></li> 
-  <li><a href="https://twitter.com/">@lili_z</a></li> 
-  <li><a href="https://twitter.com/">@JienashMandora</a></li>
-  <li><a href="https://twitter.com/">@oncode247</a></li> 
-  <li><a href="https://twitter.com/">@jeolnet</a></li>
-  <li><a href="https://twitter.com/">@jsjoeio</a></li> 
-  <li><a href="https://twitter.com/">@Atomikos</a></li> 
-  <li><a href="https://twitter.com/">@oblique_shock</a></li>
-  <li><a href="https://twitter.com/">@java</a></li>
+  <li><a href="https://twitter.com/@techgirl1908">@techgirl1908</a></li>
+  <li><a href="https://twitter.com/@theadoranwodo">@theadoranwodo</a></li> 
+  <li><a href="https://twitter.com/@4sujittiwari">@4sujittiwari</a></li> 
+  <li><a href="https://twitter.com/@eMalaGupta">@eMalaGupta</a></li> 
+  <li><a href="https://twitter.com/@lili_z">@lili_z</a></li> 
+  <li><a href="https://twitter.com/@JienashMandora">@JienashMandora</a></li>
+  <li><a href="https://twitter.com/@oncode247">@oncode247</a></li> 
+  <li><a href="https://twitter.com/@jeolnet">@jeolnet</a></li>
+  <li><a href="https://twitter.com/@jsjoeio">@jsjoeio</a></li> 
+  <li><a href="https://twitter.com/@Atomikos">@Atomikos</a></li> 
+  <li><a href="https://twitter.com/@oblique_shock">@oblique_shock</a></li>
+  <li><a href="https://twitter.com/@java">@java</a></li>
   </ul>
 
 <ul>
   <strong>Game Dev: Unity and C#</strong>
-<li><a href="https://twitter.com/">@fafnir</a></li>
-<li><a href="https://twitter.com/">@minionsart</a></li>
-<li><a href="https://twitter.com/">@UnityDevTomS</a></li>
-<li><a href="https://twitter.com/">@AdamTuliper</a></li>
-<li><a href="https://twitter.com/">@ShawnWhite</a></li>
-<li><a href="https://twitter.com/">@fusedotcore</a></li>
-<li><a href="https://twitter.com/">@AngryArray</a></li>
-<li><a href="https://twitter.com/">@EsperControl</a></li> 
-<li><a href="https://twitter.com/">@sh4na</a></li>
-<li><a href="https://twitter.com/">@polybeats</a></li>
-<li><a href="https://twitter.com/">@tomkail</a></li>
-<li><a href="https://twitter.com/">@RebeccaAJones</a></li>
-<li><a href="https://twitter.com/">@SarahGrohmann</a></li>
-<li><a href="https://twitter.com/">@vbandi</a></li> 
-<li><a href="https://twitter.com/">@jamesashley</a></li> 
-<li><a href="https://twitter.com/">@rschu</a></li> 
-<li><a href="https://twitter.com/">@Gaohmee</a></li>
+<li><a href="https://twitter.com/@fafnir">@fafnir</a></li>
+<li><a href="https://twitter.com/@minionsart">@minionsart</a></li>
+<li><a href="https://twitter.com/@UnityDevTomS">@UnityDevTomS</a></li>
+<li><a href="https://twitter.com/@AdamTuliper">@AdamTuliper</a></li>
+<li><a href="https://twitter.com/@ShawnWhite">@ShawnWhite</a></li>
+<li><a href="https://twitter.com/@fusedotcore">@fusedotcore</a></li>
+<li><a href="https://twitter.com/@AngryArray">@AngryArray</a></li>
+<li><a href="https://twitter.com/@EsperControl">@EsperControl</a></li> 
+<li><a href="https://twitter.com/@sh4na">@sh4na</a></li>
+<li><a href="https://twitter.com/@polybeats">@polybeats</a></li>
+<li><a href="https://twitter.com/@tomkail">@tomkail</a></li>
+<li><a href="https://twitter.com/@RebeccaAJones">@RebeccaAJones</a></li>
+<li><a href="https://twitter.com/@SarahGrohmann">@SarahGrohmann</a></li>
+<li><a href="https://twitter.com/@vbandi">@vbandi</a></li> 
+<li><a href="https://twitter.com/@jamesashley">@jamesashley</a></li> 
+<li><a href="https://twitter.com/@rschu">@rschu</a></li> 
+<li><a href="https://twitter.com/@Gaohmee">@Gaohmee</a></li>
   </ul>
 
 <ul>
   <strong>Backend Php : Laravel, node</strong>
-<li><a href="https://twitter.com/">@unicodeveloper</a></li>
-<li><a href="https://twitter.com/">@tripletenkc</a></li>
-<li><a href="https://twitter.com/">@NeoIghodaro</a></li>
-<li><a href="https://twitter.com/">@_googlemac</a></li>
-<li><a href="https://twitter.com/">@themarcusbattle</a></li> 
-<li><a href="https://twitter.com/">@onejsninja</a></li>
-<li><a href="https://twitter.com/">@matteocollina</a></li>
-<li><a href="https://twitter.com/">@jessicaewest</a></li>
-<li><a href="https://twitter.com/">@mastashake08</a></li>
-<li><a href="https://twitter.com/">@taylorotwell</a></li>
-<li><a href="https://twitter.com/">@driesvints</a></li>
-<li><a href="https://twitter.com/">@daylerees</a></li>
-<li><a href="https://twitter.com/">@codeekage</a></li> 
-<li><a href="https://twitter.com/">@laravelphp</a></li> 
-<li><a href="https://twitter.com/">@nodejs</a></li>
+<li><a href="https://twitter.com/@unicodeveloper">@unicodeveloper</a></li>
+<li><a href="https://twitter.com/@tripletenkc">@tripletenkc</a></li>
+<li><a href="https://twitter.com/@NeoIghodaro">@NeoIghodaro</a></li>
+<li><a href="https://twitter.com/@_googlemac">@_googlemac</a></li>
+<li><a href="https://twitter.com/@themarcusbattle">@themarcusbattle</a></li> 
+<li><a href="https://twitter.com/@onejsninja">@onejsninja</a></li>
+<li><a href="https://twitter.com/@matteocollina">@matteocollina</a></li>
+<li><a href="https://twitter.com/@jessicaewest">@jessicaewest</a></li>
+<li><a href="https://twitter.com/@mastashake08">@mastashake08</a></li>
+<li><a href="https://twitter.com/@taylorotwell">@taylorotwell</a></li>
+<li><a href="https://twitter.com/@driesvints">@driesvints</a></li>
+<li><a href="https://twitter.com/@daylerees">@daylerees</a></li>
+<li><a href="https://twitter.com/@codeekage">@codeekage</a></li> 
+<li><a href="https://twitter.com/@laravelphp">@laravelphp</a></li> 
+<li><a href="https://twitter.com/@nodejs">@nodejs</a></li>
   </ul>
 
 <ul>
   <strong>UI/UX</strong> 
-<li><a href="https://twitter.com/">@lenoraporter_</a></li> 
-<li><a href="https://twitter.com/">@PraizUx</a></li>
-<li><a href="https://twitter.com/">@_haywhy</a></li>
-<li><a href="https://twitter.com/">@sarah_edo</a></li>
-<li><a href="https://twitter.com/">@miuki_miu</a></li>
-<li><a href="https://twitter.com/">@devdevcharlie</a></li>
-<li><a href="https://twitter.com/">@bennychewNL</a></li>
-<li><a href="https://twitter.com/">@iambolajiayo</a></li>
-<li><a href="https://twitter.com/">@AmarachiAmaechi</a></li>
+<li><a href="https://twitter.com/@lenoraporter_">@lenoraporter_</a></li> 
+<li><a href="https://twitter.com/@PraizUx">@PraizUx</a></li>
+<li><a href="https://twitter.com/@_haywhy">@_haywhy</a></li>
+<li><a href="https://twitter.com/@sarah_edo">@sarah_edo</a></li>
+<li><a href="https://twitter.com/@miuki_miu">@miuki_miu</a></li>
+<li><a href="https://twitter.com/@devdevcharlie">@devdevcharlie</a></li>
+<li><a href="https://twitter.com/@bennychewNL">@bennychewNL</a></li>
+<li><a href="https://twitter.com/@iambolajiayo">@iambolajiayo</a></li>
+<li><a href="https://twitter.com/@AmarachiAmaechi">@AmarachiAmaechi</a></li>
   </ul>
 
 <ul>
   <strong>Python Dev</strong>
-<li><a href="https://twitter.com/">@moshhamedani</a></li>
-<li><a href="https://twitter.com/">@charliecodes</a></li>
-<li><a href="https://twitter.com/">@marlene_zw</a></li>
-<li><a href="https://twitter.com/">@dbader_org</a></li>
-<li><a href="https://twitter.com/">@sixtysticks</a></li>
-<li><a href="https://twitter.com/">@VishwaMehta30</a></li>
-<li><a href="https://twitter.com/">@ThePSF</a></li>
+<li><a href="https://twitter.com/@moshhamedani">@moshhamedani</a></li>
+<li><a href="https://twitter.com/@charliecodes">@charliecodes</a></li>
+<li><a href="https://twitter.com/@marlene_zw">@marlene_zw</a></li>
+<li><a href="https://twitter.com/@dbader_org">@dbader_org</a></li>
+<li><a href="https://twitter.com/@sixtysticks">@sixtysticks</a></li>
+<li><a href="https://twitter.com/@VishwaMehta30">@VishwaMehta30</a></li>
+<li><a href="https://twitter.com/@ThePSF">@ThePSF</a></li>
   </ul>
 
 <ul>
   <strong>Data Science</strong> 
-<li><a href="https://twitter.com/">@bayoadekanmbi</a></li>
-<li><a href="https://twitter.com/">@funsholaniyi</a></li>
-<li><a href="https://twitter.com/">@t2pitchy</a></li>
-<li><a href="https://twitter.com/">@JamesOyanna</a></li>
-<li><a href="https://twitter.com/">@calmtuna</a></li>
-<li><a href="https://twitter.com/">@DataSciCampus</a></li>
-<li><a href="https://twitter.com/">@DataScienceNIG</a></li>
+<li><a href="https://twitter.com/@bayoadekanmbi">@bayoadekanmbi</a></li>
+<li><a href="https://twitter.com/@funsholaniyi">@funsholaniyi</a></li>
+<li><a href="https://twitter.com/@t2pitchy">@t2pitchy</a></li>
+<li><a href="https://twitter.com/@JamesOyanna">@JamesOyanna</a></li>
+<li><a href="https://twitter.com/@calmtuna">@calmtuna</a></li>
+<li><a href="https://twitter.com/@DataSciCampus">@DataSciCampus</a></li>
+<li><a href="https://twitter.com/@DataScienceNIG">@DataScienceNIG</a></li>
 </ul>
 
 <ul>
   <strong>Full amazing stacks</strong> 
-<li><a href="https://twitter.com/">@lavie_encode</a></li>
-<li><a href="https://twitter.com/">@BenjaminCodes</a></li>
-<li><a href="https://twitter.com/">@EmmaWedekind</a></li>
-<li><a href="https://twitter.com/">@DanEnglishby</a></li>
-<li><a href="https://twitter.com/">@techgirl1908</a></li>
-<li><a href="https://twitter.com/">@TheEduardoRFS</a></li>
-<li><a href="https://twitter.com/">@psychopsia</a></li>
-<li><a href="https://twitter.com/">@sarah_edo</a></li>
-<li><a href="https://twitter.com/">@codehitchhiker</a></li> 
-<li><a href="https://twitter.com/">@JimiDeji</a></li>
-<li><a href="https://twitter.com/">@wesbos</a></li>
-<li><a href="https://twitter.com/">@codebeast</a></li>
-<li><a href="https://twitter.com/">@ASpittel</a></li>
-<li><a href="https://twitter.com/">@rea_loretta</a></li> 
-<li><a href="https://twitter.com/">@ossia</a></li>
-<li><a href="https://twitter.com/">@shanselman</a></li>
-<li><a href="https://twitter.com/">@jsjoeio</a></li>
-<li><a href="https://twitter.com/">@ThugDebugger</a></li>
-<li><a href="https://twitter.com/">@theshalvah</a></li>
+<li><a href="https://twitter.com/@lavie_encode">@lavie_encode</a></li>
+<li><a href="https://twitter.com/@BenjaminCodes">@BenjaminCodes</a></li>
+<li><a href="https://twitter.com/@EmmaWedekind">@EmmaWedekind</a></li>
+<li><a href="https://twitter.com/@DanEnglishby">@DanEnglishby</a></li>
+<li><a href="https://twitter.com/@techgirl1908">@techgirl1908</a></li>
+<li><a href="https://twitter.com/@TheEduardoRFS">@TheEduardoRFS</a></li>
+<li><a href="https://twitter.com/@psychopsia">@psychopsia</a></li>
+<li><a href="https://twitter.com/@sarah_edo">@sarah_edo</a></li>
+<li><a href="https://twitter.com/@codehitchhiker">@codehitchhiker</a></li> 
+<li><a href="https://twitter.com/@JimiDeji">@JimiDeji</a></li>
+<li><a href="https://twitter.com/@wesbos">@wesbos</a></li>
+<li><a href="https://twitter.com/@codebeast">@codebeast</a></li>
+<li><a href="https://twitter.com/@ASpittel">@ASpittel</a></li>
+<li><a href="https://twitter.com/@rea_loretta">@rea_loretta</a></li> 
+<li><a href="https://twitter.com/@ossia">@ossia</a></li>
+<li><a href="https://twitter.com/@shanselman">@shanselman</a></li>
+<li><a href="https://twitter.com/@jsjoeio">@jsjoeio</a></li>
+<li><a href="https://twitter.com/@ThugDebugger">@ThugDebugger</a></li>
+<li><a href="https://twitter.com/@theshalvah">@theshalvah</a></li>
   </ul>
 
 <ul>
   <strong>.Net Devs</strong> 
-<li><a href="https://twitter.com/">@julielerman</a></li>
-<li><a href="https://twitter.com/">@davidfowl</a></li>
-<li><a href="https://twitter.com/">@DamianEdwards</a></li> 
-<li><a href="https://twitter.com/">@migueldeicaza</a></li> 
-<li><a href="https://twitter.com/">@terrajobst</a></li> 
-<li><a href="https://twitter.com/">@ziki_cz</a></li>
-<li><a href="https://twitter.com/">@blowdart</a></li> 
-<li><a href="https://twitter.com/">@DaraOladapo</a></li> 
-<li><a href="https://twitter.com/">@davemccollough</a></li> 
-<li><a href="https://twitter.com/">@JamesMontemagno</a></li> 
-<li><a href="https://twitter.com/">@dotnet</a></li>
+<li><a href="https://twitter.com/@julielerman">@julielerman</a></li>
+<li><a href="https://twitter.com/@davidfowl">@davidfowl</a></li>
+<li><a href="https://twitter.com/@DamianEdwards">@DamianEdwards</a></li> 
+<li><a href="https://twitter.com/@migueldeicaza">@migueldeicaza</a></li> 
+<li><a href="https://twitter.com/@terrajobst">@terrajobst</a></li> 
+<li><a href="https://twitter.com/@ziki_cz">@ziki_cz</a></li>
+<li><a href="https://twitter.com/@blowdart">@blowdart</a></li> 
+<li><a href="https://twitter.com/@DaraOladapo">@DaraOladapo</a></li> 
+<li><a href="https://twitter.com/@davemccollough">@davemccollough</a></li> 
+<li><a href="https://twitter.com/@JamesMontemagno">@JamesMontemagno</a></li> 
+<li><a href="https://twitter.com/@dotnet">@dotnet</a></li>
   </ul>
 
 <ul>
   <strong>Tech Business Developers</strong>
-<li><a href="https://twitter.com/">@Babajiide</a></li> 
-<li><a href="https://twitter.com/">@nadayar</a></li> 
-<li><a href="https://twitter.com/">@tushgeek</a></li> 
-<li><a href="https://twitter.com/">@francis_sani</a></li> 
-<li><a href="https://twitter.com/">@iaboyeji</a></li> 
-<li><a href="https://twitter.com/">@senisulyman</a></li> 
-<li><a href="https://twitter.com/">@theTrendyTechie</a></li> 
-<li><a href="https://twitter.com/">@markessien</a></li> 
-<li><a href="https://twitter.com/">@passalanorh</a></li>
+<li><a href="https://twitter.com/@Babajiide">@Babajiide</a></li> 
+<li><a href="https://twitter.com/@nadayar">@nadayar</a></li> 
+<li><a href="https://twitter.com/@tushgeek">@tushgeek</a></li> 
+<li><a href="https://twitter.com/@francis_sani">@francis_sani</a></li> 
+<li><a href="https://twitter.com/@iaboyeji">@iaboyeji</a></li> 
+<li><a href="https://twitter.com/@senisulyman">@senisulyman</a></li> 
+<li><a href="https://twitter.com/@theTrendyTechie">@theTrendyTechie</a></li> 
+<li><a href="https://twitter.com/@markessien">@markessien</a></li> 
+<li><a href="https://twitter.com/@passalanorh">@passalanorh</a></li>
   </ul>
 
 <ul>
   <strong>AI / ML /  IOT</strong>
-<li><a href="https://twitter.com/">@jennifazor</a></li> 
-<li><a href="https://twitter.com/">@AndrewYNg</a></li> 
-<li><a href="https://twitter.com/">@fchollet</a></li> 
-<li><a href="https://twitter.com/">@peero007</a></li> 
-<li><a href="https://twitter.com/">@OgundipeOre</a></li> 
-<li><a href="https://twitter.com/">@DynamicWebPaige</a></li> 
-<li><a href="https://twitter.com/">@CodesOfRa</a></li>
-<li><a href="https://twitter.com/">@sethjuarez</a></li>
-<li><a href="https://twitter.com/">@Twickta</a></li> 
-<li><a href="https://twitter.com/">@farouqzaib</a></li> 
-<li><a href="https://twitter.com/">@RamirezAlex_</a></li> 
-<li><a href="https://twitter.com/">@neal_lathia</a></li> 
-<li><a href="https://twitter.com/">@roydanroy</a></li> 
-<li><a href="https://twitter.com/">@noopkat</a></li> 
-<li><a href="https://twitter.com/">@BevEve</a></li> 
-<li><a href="https://twitter.com/">@EmekaOkoye</a></li> 
-<li><a href="https://twitter.com/">@Chels_LA</a></li> 
-<li><a href="https://twitter.com/">@taraw</a></li>
+<li><a href="https://twitter.com/@jennifazor">@jennifazor</a></li> 
+<li><a href="https://twitter.com/@AndrewYNg">@AndrewYNg</a></li> 
+<li><a href="https://twitter.com/@fchollet">@fchollet</a></li> 
+<li><a href="https://twitter.com/@peero007">@peero007</a></li> 
+<li><a href="https://twitter.com/@OgundipeOre">@OgundipeOre</a></li> 
+<li><a href="https://twitter.com/@DynamicWebPaige">@DynamicWebPaige</a></li> 
+<li><a href="https://twitter.com/@CodesOfRa">@CodesOfRa</a></li>
+<li><a href="https://twitter.com/@sethjuarez">@sethjuarez</a></li>
+<li><a href="https://twitter.com/@Twickta">@Twickta</a></li> 
+<li><a href="https://twitter.com/@farouqzaib">@farouqzaib</a></li> 
+<li><a href="https://twitter.com/@RamirezAlex_">@RamirezAlex_</a></li> 
+<li><a href="https://twitter.com/@neal_lathia">@neal_lathia</a></li> 
+<li><a href="https://twitter.com/@roydanroy">@roydanroy</a></li> 
+<li><a href="https://twitter.com/@noopkat">@noopkat</a></li> 
+<li><a href="https://twitter.com/@BevEve">@BevEve</a></li> 
+<li><a href="https://twitter.com/@EmekaOkoye">@EmekaOkoye</a></li> 
+<li><a href="https://twitter.com/@Chels_LA">@Chels_LA</a></li> 
+<li><a href="https://twitter.com/@taraw">@taraw</a></li>
   </ul>
 
 <ul>
   <strong>Tech Communities/Conferences</strong>
-<li><a href="https://twitter.com/">@ConsonanceClub</a></li> 
-<li><a href="https://twitter.com/">@forloopAfrica</a></li> 
-<li><a href="https://twitter.com/">@codingcoach_io</a></li>
-<li><a href="https://twitter.com/">@oscafrica</a></li>
-<li><a href="https://twitter.com/">@_Ingressive_</a></li> 
-<li><a href="https://twitter.com/">@ConcatenateConf</a></li> 
-<li><a href="https://twitter.com/">@TheLeadDev</a></li> 
-<li><a href="https://twitter.com/">@FullStackFest</a></li> 
-<li><a href="https://twitter.com/">@earimedia</a></li> 
-<li><a href="https://twitter.com/">@iottechexpo</a></li> 
-<li><a href="https://twitter.com/">@ReactAmsterdam</a></li> 
-<li><a href="https://twitter.com/">@renderATL</a></li>
-<li><a href="https://twitter.com/">@dev_careers</a></li>
-<li><a href="https://twitter.com/">@SheCodeAfrica</a></li>
+<li><a href="https://twitter.com/@ConsonanceClub">@ConsonanceClub</a></li> 
+<li><a href="https://twitter.com/@forloopAfrica">@forloopAfrica</a></li> 
+<li><a href="https://twitter.com/@codingcoach_io">@codingcoach_io</a></li>
+<li><a href="https://twitter.com/@oscafrica">@oscafrica</a></li>
+<li><a href="https://twitter.com/@_Ingressive_">@_Ingressive_</a></li> 
+<li><a href="https://twitter.com/@ConcatenateConf">@ConcatenateConf</a></li> 
+<li><a href="https://twitter.com/@TheLeadDev">@TheLeadDev</a></li> 
+<li><a href="https://twitter.com/@FullStackFest">@FullStackFest</a></li> 
+<li><a href="https://twitter.com/@earimedia">@earimedia</a></li> 
+<li><a href="https://twitter.com/@iottechexpo">@iottechexpo</a></li> 
+<li><a href="https://twitter.com/@ReactAmsterdam">@ReactAmsterdam</a></li> 
+<li><a href="https://twitter.com/@renderATL">@renderATL</a></li>
+<li><a href="https://twitter.com/@dev_careers">@dev_careers</a></li>
+<li><a href="https://twitter.com/@SheCodeAfrica">@SheCodeAfrica</a></li>
   </ul>
 
 <ul><strong>Cyber Security and Hackers</strong>
-<li><a href="https://twitter.com/">@digitalempirehq</a></li> 
-<li><a href="https://twitter.com/">@jeoloseiga</a></li>
-<li><a href="https://twitter.com/">@Xymbiz</a></li>
-<li><a href="https://twitter.com/">@DigitalEmpress</a></li>
-<li><a href="https://twitter.com/">@InfosecFam</a></li>
-<li><a href="https://twitter.com/">@packetfanatic</a></li>
-<li><a href="https://twitter.com/">@vastidity</a></li>
-<li><a href="https://twitter.com/">@ShastaSummit</a></li>
-<li><a href="https://twitter.com/">@hodltergeist</a></li>
-<li><a href="https://twitter.com/">@darksim905</a></li>
-<li><a href="https://twitter.com/">@PhillipWylie</a></li>
-<li><a href="https://twitter.com/">@PWNetrationguru</a></li>
-<li><a href="https://twitter.com/">@BDavis_CyberSec</a></li> 
-<li><a href="https://twitter.com/">@infosystir</a></li>
-<li><a href="https://twitter.com/">@TheCybern00b</a></li>
-<li><a href="https://twitter.com/">@ParseTheSalt</a></li> 
-<li><a href="https://twitter.com/">@katiascylife</a></li>
+<li><a href="https://twitter.com/@digitalempirehq">@digitalempirehq</a></li> 
+<li><a href="https://twitter.com/@jeoloseiga">@jeoloseiga</a></li>
+<li><a href="https://twitter.com/@Xymbiz">@Xymbiz</a></li>
+<li><a href="https://twitter.com/@DigitalEmpress">@DigitalEmpress</a></li>
+<li><a href="https://twitter.com/@InfosecFam">@InfosecFam</a></li>
+<li><a href="https://twitter.com/@packetfanatic">@packetfanatic</a></li>
+<li><a href="https://twitter.com/@vastidity">@vastidity</a></li>
+<li><a href="https://twitter.com/@ShastaSummit">@ShastaSummit</a></li>
+<li><a href="https://twitter.com/@hodltergeist">@hodltergeist</a></li>
+<li><a href="https://twitter.com/@darksim905">@darksim905</a></li>
+<li><a href="https://twitter.com/@PhillipWylie">@PhillipWylie</a></li>
+<li><a href="https://twitter.com/@PWNetrationguru">@PWNetrationguru</a></li>
+<li><a href="https://twitter.com/@BDavis_CyberSec">@BDavis_CyberSec</a></li> 
+<li><a href="https://twitter.com/@infosystir">@infosystir</a></li>
+<li><a href="https://twitter.com/@TheCybern00b">@TheCybern00b</a></li>
+<li><a href="https://twitter.com/@ParseTheSalt">@ParseTheSalt</a></li> 
+<li><a href="https://twitter.com/@katiascylife">@katiascylife</a></li>
   </ul>
 
 <strong>Youtubers/Youtube Channels</strong>
 
 <ul>
-  <li>Traversy Media: https://www.youtube.com/user/TechGuyWeb</li>
-  <li>Coding Addict: https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA</li>
-  <li>Dev Ed: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q</li>
-  <li>FreeCodeCamp Official Channel: https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ</li>
-  <li>Eddie Jaoude: https://www.youtube.com/user/eddiejaoude</li>
-  <li>Fireship: https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA</li>
-  <li>Brice Ayres: https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw</li>
-  <li>Joshua Fluke / Grindreel: https://www.youtube.com/user/Tychos1</li>
-  <li>Chris Hawkes: https://www.youtube.com/user/noobtoprofessional</li>
-  <li>Andrew Cunliffe: https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ</li>
-  <li>LevelUpTuts: https://www.youtube.com/user/LevelUpTuts</li>
-  <li>TheCodePro: https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw</li>
-  <li>Hamza Mirza: https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw</li>
-  <li>Rem Zolotykh: https://www.youtube.com/user/MrRemchi</li>
-  <li>Academind: https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w</li>
-  <li>Meth Meth Method: https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ</li>
-  <li>Programming with Mosh: https://www.youtube.com/user/programmingwithmosh</li>
-  <li>Ben Awad: https://www.youtube.com/user/99baddawg</li>
-  <li>JustDjango: https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ</li>
-  <li>Code Artistry: https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A</li>
-  <li>interviewing.io: https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg</li>
-  <li>Awesome Tuts: https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw</li>
-  <li>80/20 Coding: https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw</li>
-  <li>CodingEntrepreneurs: https://www.youtube.com/user/CodingEntrepreneurs</li>
-  <li>Andy Sterkowitz: https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA</li>
-  <li>Code Realm: https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ</li>
-  <li>Rayn Studios: https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw</li>
-  <li>Daft Creation: https://www.youtube.com/channel/UCDrfHGsm6bJI7Sli7vlcteA</li>
-  <li>TheCodePro: https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw</li>
-  <li>The Coding Train: https://www.youtube.com/user/shiffman</li>
-  <li>Coding Tech: https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ</li>
-  <li>Sourav Johar: https://www.youtube.com/user/RSOURAV100</li>
+  <li>Traversy Media: <a href="https://www.youtube.com/user/TechGuyWeb">Channel Link</a></li>
+  <li>Coding Addict:<a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA">Channel Link</a></li>
+  <li>Dev Ed:<a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Channel Link</a></li>
+  <li>FreeCodeCamp Official Channel:<a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">Channel Link</a></li>
+  <li>Eddie Jaoude:<a href="https://www.youtube.com/user/eddiejaoude">Channel Link</a></li>
+  <li>Fireship:<a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
+  <li>Brice Ayres:<a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a>Channel Link</li>
+  <li>Joshua Fluke / Grindreel:<a href="https://www.youtube.com/user/Tychos1">Channel Link</a>Channel Link</li>
+  <li>Chris Hawkes:<a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a>Channel Link</li>
+  <li>Andrew Cunliffe:<a href="https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ">Channel Link</a></li>
+  <li>LevelUpTuts:<a href="https://www.youtube.com/user/LevelUpTuts">Channel Link</a></li>
+  <li>TheCodePro:<a href="https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw">Channel Link</a></li>
+  <li>Hamza Mirza:<a href="https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw">Channel Link</a></li>
+  <li>Rem Zolotykh:<a href="https://www.youtube.com/user/MrRemchi">Channel Link</a></li>
+  <li>Academind:<a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w">Channel Link</a></li>
+  <li>Meth Meth Method:<a href="https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ">Channel Link</a></li>
+  <li>Programming with Mosh:<a href="https://www.youtube.com/user/programmingwithmosh">Channel Link</a></li>
+  <li>Ben Awad:<a href="https://www.youtube.com/user/99baddawg">Channel Link</a></li>
+  <li>JustDjango:<a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ">Channel Link</a></li>
+  <li>Code Artistry:<a href="https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A">Channel Link</a></li>
+  <li>interviewing.io:<a href="https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg">Channel Link</a></li>
+  <li>Awesome Tuts:<a href="https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw">Channel Link</a></li>
+  <li>80/20 Coding:<a href="https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw">Channel Link</a></li>
+  <li>CodingEntrepreneurs:<a href="https://www.youtube.com/user/CodingEntrepreneurs">Channel Link</a></li>
+  <li>Andy Sterkowitz:<a href="https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA">Channel Link</a></li>
+  <li>Code Realm:<a href="https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ">Channel Link</a></li>
+  <li>Rayn Studios:<a href="https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw">Channel Link</a></li>
+  <li>Daft Creation:<a href="https://www.youtube.com/channel/UCDrfHGsm6bJI7Sli7vlcteA">Channel Link</a></li>
+  <li>The Coding Train:<a href="https://www.youtube.com/user/shiffman">Channel Link</a></li>
+  <li>Coding Tech:<a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ">Channel Link</a></li>
+  <li>Sourav Johar:<a href="https://www.youtube.com/user/RSOURAV100">Channel Link</a></li>
 </ul>
 
 <strong>Companies with remote DNA</strong><br>
