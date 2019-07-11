@@ -69,28 +69,29 @@
 <h4>Great Resources</h4>
 
 <strong>Twitter Accounts</strong>
+
 <p>Please check the amazing @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
 
 <ul>
   <strong>Frontend : React</strong>
-  <li><a href="https://twitter.com/">@TejasKumar_</a></li> 
-  <li><a href="https://twitter.com/">@kentcdodds</a></li>
-  <li><a href="https://twitter.com/">@ParissAthena</a></li>
-  <li><a href="https://twitter.com/">@stolinski</a></li>
-  <li><a href="https://twitter.com/">@jamesqquick</a></li>
-  <li><a href="https://twitter.com/">@chrisoncode</a></li>
-  <li><a href="https://twitter.com/">@traversymedia</a></li>
-  <li><a href="https://twitter.com/">@jsjoeio</a></li>
-  <li><a href="https://twitter.com/">@js_tut</a></li>
-  <li><a href="https://twitter.com/">@ireaderinokun</a></li> 
-  <li><a href="https://twitter.com/">@TaelurAlexis</a></li>
-  <li><a href="https://twitter.com/">@denvercoder</a></li>
-  <li><a href="https://twitter.com/">@TaelurAlexis</a></li>
-  <li><a href="https://twitter.com/">@dan_abramov</a></li>
-  <li><a href="https://twitter.com/">@samwightt</a></li>
-  <li><a href="https://twitter.com/">@AdamRackis</a></li>
-  <li><a href="https://twitter.com/">@code_punkt</a></li>
-  <li><a href="https://twitter.com/">@elizfunk</a></li>
+  <li>
+  <a href="https://twitter.com/@TejasKumar_">@TejasKumar_</a></li> 
+  <li><a href="https://twitter.com/@kentcdodds">@kentcdodds</a></li>
+  <li><a href="https://twitter.com/@ParissAthena">@ParissAthena</a></li>
+  <li><a href="https://twitter.com/@stolinski">@stolinski</a></li>
+  <li><a href="https://twitter.com/@jamesqquick">@jamesqquick</a></li>
+  <li><a href="https://twitter.com/@chrisoncode">@chrisoncode</a></li>
+  <li><a href="https://twitter.com/@traversymedia">@traversymedia</a></li>
+  <li><a href="https://twitter.com/@jsjoeio">@jsjoeio</a></li>
+  <li><a href="https://twitter.com/@js_tut">@js_tut</a></li>
+  <li><a href="https://twitter.com/@ireaderinokun">@ireaderinokun</a></li> 
+  <li><a href="https://twitter.com/@TaelurAlexis">@TaelurAlexis</a></li>
+  <li><a href="https://twitter.com/@denvercoder">@denvercoder</a></li>
+  <li><a href="https://twitter.com/@dan_abramov">@dan_abramov</a></li>
+  <li><a href="https://twitter.com/@samwightt">@samwightt</a></li>
+  <li><a href="https://twitter.com/@AdamRackis">@AdamRackis</a></li>
+  <li><a href="https://twitter.com/@code_punkt">@code_punkt</a></li>
+  <li><a href="https://twitter.com/@elizfunk">@elizfunk</a></li>
 </ul>
 
 <ul><Strong>Vuejs (@vuejs)</strong>
