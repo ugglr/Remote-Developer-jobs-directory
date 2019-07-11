@@ -373,9 +373,9 @@
   <li>FreeCodeCamp Official Channel:<a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">Channel Link</a></li>
   <li>Eddie Jaoude:<a href="https://www.youtube.com/user/eddiejaoude">Channel Link</a></li>
   <li>Fireship:<a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
-  <li>Brice Ayres:<a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a>Channel Link</li>
-  <li>Joshua Fluke / Grindreel:<a href="https://www.youtube.com/user/Tychos1">Channel Link</a>Channel Link</li>
-  <li>Chris Hawkes:<a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a>Channel Link</li>
+  <li>Brice Ayres:<a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a></li>
+  <li>Joshua Fluke / Grindreel:<a href="https://www.youtube.com/user/Tychos1">Channel Link</a></li>
+  <li>Chris Hawkes:<a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a></li>
   <li>Andrew Cunliffe:<a href="https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ">Channel Link</a></li>
   <li>LevelUpTuts:<a href="https://www.youtube.com/user/LevelUpTuts">Channel Link</a></li>
   <li>TheCodePro:<a href="https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw">Channel Link</a></li>
