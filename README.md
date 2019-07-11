@@ -368,7 +368,7 @@
 
 <ul>
   <li>Traversy Media: 
-  <br><a href="https://www.youtube.com/user/TechGuyWeb">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/TechGuyWeb">Channel Link</a></li>
   <li>Coding Addict:
   <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA">Channel Link</a></li>
   <li>Dev Ed:
