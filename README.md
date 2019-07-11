@@ -370,65 +370,65 @@
   <li>Traversy Media: 
   <br><a href="https://www.youtube.com/user/TechGuyWeb">Channel Link</a></li>
   <li>Coding Addict:
-  <br><a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA">Channel Link</a></li>
   <li>Dev Ed:
-  <br><a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q">Channel Link</a></li>
   <li>FreeCodeCamp Official Channel:
-  <br><a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ">Channel Link</a></li>
   <li>Eddie Jaoude:
-  <br><a href="https://www.youtube.com/user/eddiejaoude">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/eddiejaoude">Channel Link</a></li>
   <li>Fireship:
-  <br><a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
   <li>Brice Ayres:
-  <br><a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a></li>
   <li>Joshua Fluke / Grindreel:
-  <br><a href="https://www.youtube.com/user/Tychos1">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/Tychos1">Channel Link</a></li>
   <li>Chris Hawkes:
-  <br><a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a></li>
   <li>Andrew Cunliffe:
-  <br><a href="https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC4hff1Dpvf4zMsQwLmt0LIQ">Channel Link</a></li>
   <li>LevelUpTuts:
-  <br><a href="https://www.youtube.com/user/LevelUpTuts">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/LevelUpTuts">Channel Link</a></li>
   <li>TheCodePro:
-  <br><a href="https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC8QVCQsp1YCgTI--nACeZsw">Channel Link</a></li>
   <li>Hamza Mirza:
-  <br><a href="https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCBV-JvG9Ubkj7AU6Cxls1Tw">Channel Link</a></li>
   <li>Rem Zolotykh:
-  <br><a href="https://www.youtube.com/user/MrRemchi">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/MrRemchi">Channel Link</a></li>
   <li>Academind:
-  <br><a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w">Channel Link</a></li>
   <li>Meth Meth Method:
-  <br><a href="https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ">Channel Link</a></li>
   <li>Programming with Mosh:
-  <br><a href="https://www.youtube.com/user/programmingwithmosh">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/programmingwithmosh">Channel Link</a></li>
   <li>Ben Awad:
-  <br><a href="https://www.youtube.com/user/99baddawg">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/99baddawg">Channel Link</a></li>
   <li>JustDjango:
-  <br><a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCRM1gWNTDx0SHIqUJygD-kQ">Channel Link</a></li>
   <li>Code Artistry:
-  <br><a href="https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A">Channel Link</a></li>
   <li>interviewing.io:
-  <br><a href="https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg">Channel Link</a></li>
   <li>Awesome Tuts:
-  <br><a href="https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw">Channel Link</a></li>
   <li>80/20 Coding:
-  <br><a href="https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCobZg0ym72ZZPqOQNB_qJnw">Channel Link</a></li>
   <li>CodingEntrepreneurs:
-  <br><a href="https://www.youtube.com/user/CodingEntrepreneurs">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/CodingEntrepreneurs">Channel Link</a></li>
   <li>Andy Sterkowitz:
-  <br><a href="https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA">Channel Link</a></li>
   <li>Code Realm:
-  <br><a href="https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCUDLFXXKG6zSA1d746rbzLQ">Channel Link</a></li>
   <li>Rayn Studios:
-  <br><a href="https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw">Channel Link</a></li>
   <li>Daft Creation:
-  <br><a href="https://www.youtube.com/channel/UCDrfHGsm6bJI7Sli7vlcteA">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCDrfHGsm6bJI7Sli7vlcteA">Channel Link</a></li>
   <li>The Coding Train:
-  <br><a href="https://www.youtube.com/user/shiffman">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/shiffman">Channel Link</a></li>
   <li>Coding Tech:
-  <br><a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ">Channel Link</a></li>
+  <a href="https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ">Channel Link</a></li>
   <li>Sourav Johar:
-  <br><a href="https://www.youtube.com/user/RSOURAV100">Channel Link</a></li>
+  <a href="https://www.youtube.com/user/RSOURAV100">Channel Link</a></li>
 </ul>
 
 <h4>Companies with remote DNA</h4><br>
