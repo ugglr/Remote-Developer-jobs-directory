@@ -21,6 +21,7 @@
   <li>Outsourcely: https://www.outsourcely.com/</li>
   <li>Working Nomads: https://www.workingnomads.co</li>
   <li>Remote Circle: https://remotecircle.com/</li>
+  <li>Employ Remotely: https://www.employremotely.com/</li>
 </ul>
 
 <Strong>Freelancing</Strong>
