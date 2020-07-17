@@ -45,7 +45,7 @@ class Directories extends React.Component {
         url: "https://jobs.github.com/",
       },
       {
-        name: "Codepen Jobs",
+        name: "CodePen Jobs",
         body: "",
         url: "https://codepen.io/jobs/",
       },

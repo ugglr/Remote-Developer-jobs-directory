@@ -7,7 +7,7 @@
   <li>WeWorkRemotely: https://weworkremotely.com/</li>
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
   <li>Github Jobs: https://jobs.github.com/</li>
-  <li>Codepen Jobs: https://codepen.io/jobs/</li>
+  <li>CodePen Jobs: https://codepen.io/jobs/</li>
   <li>Remotive: https://remotive.io/</li>
   <li>RemoteOK: https://remoteok.io/</li>
   <li>Hubstaff Talent Jobs: https://talent.hubstaff.com</li>
