@@ -45,7 +45,7 @@ class Directories extends React.Component {
         url: "https://jobs.github.com/",
       },
       {
-        name: "Codepen Jobs",
+        name: "CodePen Jobs",
         body: "",
         url: "https://codepen.io/jobs/",
       },
@@ -114,6 +114,12 @@ class Directories extends React.Component {
           "This is not a jobs directory, but you can prove you coding skills through the site and land a job that way, even though you don't have official experience in Software Development",
         url: "https://www.turing.ly",
       },
+      {
+        name: "Employ Remotely",
+        body:
+          "Remote jobs only for Front End, Back End, Full Stack, and Mobile developers.",
+        url: "https://www.employremotely.com/"
+      }
     ]
 
     const freelance = [
