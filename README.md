@@ -21,6 +21,7 @@
   <li>Remote Circle: https://remotecircle.com/</li>
   <li>Turingly: https://www.turing.ly/</li>
   <li>Employ Remotely: https://www.employremotely.com/</li>
+  <li>4 day week: https://4dayweek.io/</li>
 </ul>
 
 <Strong>Freelancing</Strong>
