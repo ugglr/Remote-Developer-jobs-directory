@@ -127,18 +127,13 @@
   <li><a href="https://twitter.com/@AnaCidre_">@AnaCidre_</a></li> 
   <li><a href="https://twitter.com/@sherrrylst">@sherrrylst</a></li> 
   <li><a href="https://twitter.com/@simona_cotin">@simona_cotin</a></li> 
-  <li><a href="https://twitter.com/@MartinaKraus11">@MartinaKraus11</a></li> 
-  <li><a href="https://twitter.com/@cornelia_rauch">@cornelia_rauch</a></li>
-  <li><a href="https://twitter.com/@KimMaida">@KimMaida</a></li> 
-  <li><a href="https://twitter.com/@reibo_bo">@reibo_bo</a></li> 
+  <li><a href="https://twitter.com/@MartinaKraus11">@MartinaKraus11</a></li>
+  <li><a href="https://twitter.com/@KimMaida">@KimMaida</a></li>
   <li><a href="https://twitter.com/@psybercity">@psybercity</a></li>
-  <li><a href="https://twitter.com/@JecelynYeen">@JecelynYeen</a></li> 
-  <li><a href="https://twitter.com/@0594CF">@0594CF</a></li> 
-  <li><a href="https://twitter.com/@CarmenPopoviciu">@CarmenPopoviciu</a></li> 
-  <li><a href="https://twitter.com/@nixallover">@nixallover</a></li> 
+  <li><a href="https://twitter.com/@JecelynYeen">@JecelynYeen</a></li>
+  <li><a href="https://twitter.com/@CarmenPopoviciu">@CarmenPopoviciu</a></li>
   <li><a href="https://twitter.com/@yallen011">@yallen011</a></li>
   <li><a href="https://twitter.com/@keillamenezes_">@keillamenezes_</a></li>
-  <li><a href="https://twitter.com/@ErinCoughlan16">@ErinCoughlan16</a></li>
   </ul>
 
 <ul>
@@ -152,8 +147,7 @@
   <li><a href="https://twitter.com/@cpojer">@cpojer</a></li> 
   <li><a href="https://twitter.com/@gwmccull">@gwmccull</a></li> 
   <li><a href="https://twitter.com/@notbrent">@notbrent</a></li> 
-  <li><a href="https://twitter.com/@Eli_White">@Eli_White</a></li> 
-  <li><a href="https://twitter.com/@infinite_frank">@infinite_frank</a></li> 
+  <li><a href="https://twitter.com/@Eli_White">@Eli_White</a></li>
   <li><a href="https://twitter.com/@jamonholmgren">@jamonholmgren</a></li> 
   <li><a href="https://twitter.com/@erinfoox">@erinfoox</a></li> 
   <li><a href="https://twitter.com/@rickhanlonii">@rickhanlonii</a></li> 
@@ -170,13 +164,9 @@
   <li><a href="https://twitter.com/@theadoranwodo">@theadoranwodo</a></li> 
   <li><a href="https://twitter.com/@4sujittiwari">@4sujittiwari</a></li> 
   <li><a href="https://twitter.com/@eMalaGupta">@eMalaGupta</a></li> 
-  <li><a href="https://twitter.com/@lili_z">@lili_z</a></li> 
-  <li><a href="https://twitter.com/@JienashMandora">@JienashMandora</a></li>
-  <li><a href="https://twitter.com/@oncode247">@oncode247</a></li> 
-  <li><a href="https://twitter.com/@jeolnet">@jeolnet</a></li>
+  <li><a href="https://twitter.com/@lili_z">@lili_z</a></li>
   <li><a href="https://twitter.com/@jsjoeio">@jsjoeio</a></li> 
-  <li><a href="https://twitter.com/@Atomikos">@Atomikos</a></li> 
-  <li><a href="https://twitter.com/@oblique_shock">@oblique_shock</a></li>
+  <li><a href="https://twitter.com/@Atomikos">@Atomikos</a></li>
   <li><a href="https://twitter.com/@java">@java</a></li>
   </ul>
 
@@ -184,7 +174,6 @@
   <strong>Game Dev: Unity and C#</strong>
 <li><a href="https://twitter.com/@fafnir">@fafnir</a></li>
 <li><a href="https://twitter.com/@minionsart">@minionsart</a></li>
-<li><a href="https://twitter.com/@UnityDevTomS">@UnityDevTomS</a></li>
 <li><a href="https://twitter.com/@AdamTuliper">@AdamTuliper</a></li>
 <li><a href="https://twitter.com/@ShawnWhite">@ShawnWhite</a></li>
 <li><a href="https://twitter.com/@fusedotcore">@fusedotcore</a></li>
@@ -206,16 +195,13 @@
 <li><a href="https://twitter.com/@unicodeveloper">@unicodeveloper</a></li>
 <li><a href="https://twitter.com/@tripletenkc">@tripletenkc</a></li>
 <li><a href="https://twitter.com/@NeoIghodaro">@NeoIghodaro</a></li>
-<li><a href="https://twitter.com/@_googlemac">@_googlemac</a></li>
-<li><a href="https://twitter.com/@themarcusbattle">@themarcusbattle</a></li> 
-<li><a href="https://twitter.com/@onejsninja">@onejsninja</a></li>
+<li><a href="https://twitter.com/@themarcusbattle">@themarcusbattle</a></li>
 <li><a href="https://twitter.com/@matteocollina">@matteocollina</a></li>
 <li><a href="https://twitter.com/@jessicaewest">@jessicaewest</a></li>
 <li><a href="https://twitter.com/@mastashake08">@mastashake08</a></li>
 <li><a href="https://twitter.com/@taylorotwell">@taylorotwell</a></li>
 <li><a href="https://twitter.com/@driesvints">@driesvints</a></li>
 <li><a href="https://twitter.com/@daylerees">@daylerees</a></li>
-<li><a href="https://twitter.com/@codeekage">@codeekage</a></li> 
 <li><a href="https://twitter.com/@laravelphp">@laravelphp</a></li> 
 <li><a href="https://twitter.com/@nodejs">@nodejs</a></li>
   </ul>
@@ -230,7 +216,6 @@
 <li><a href="https://twitter.com/@devdevcharlie">@devdevcharlie</a></li>
 <li><a href="https://twitter.com/@bennychewNL">@bennychewNL</a></li>
 <li><a href="https://twitter.com/@iambolajiayo">@iambolajiayo</a></li>
-<li><a href="https://twitter.com/@AmarachiAmaechi">@AmarachiAmaechi</a></li>
   </ul>
 
 <ul>
@@ -252,7 +237,6 @@
 <li><a href="https://twitter.com/@JamesOyanna">@JamesOyanna</a></li>
 <li><a href="https://twitter.com/@calmtuna">@calmtuna</a></li>
 <li><a href="https://twitter.com/@DataSciCampus">@DataSciCampus</a></li>
-<li><a href="https://twitter.com/@DataScienceNIG">@DataScienceNIG</a></li>
 </ul>
 
 <ul>
@@ -260,7 +244,6 @@
 <li><a href="https://twitter.com/@lavie_encode">@lavie_encode</a></li>
 <li><a href="https://twitter.com/@BenjaminCodes">@BenjaminCodes</a></li>
 <li><a href="https://twitter.com/@EmmaWedekind">@EmmaWedekind</a></li>
-<li><a href="https://twitter.com/@DanEnglishby">@DanEnglishby</a></li>
 <li><a href="https://twitter.com/@techgirl1908">@techgirl1908</a></li>
 <li><a href="https://twitter.com/@TheEduardoRFS">@TheEduardoRFS</a></li>
 <li><a href="https://twitter.com/@psychopsia">@psychopsia</a></li>
@@ -334,11 +317,9 @@
 <li><a href="https://twitter.com/@forloopAfrica">@forloopAfrica</a></li> 
 <li><a href="https://twitter.com/@codingcoach_io">@codingcoach_io</a></li>
 <li><a href="https://twitter.com/@oscafrica">@oscafrica</a></li>
-<li><a href="https://twitter.com/@_Ingressive_">@_Ingressive_</a></li> 
 <li><a href="https://twitter.com/@ConcatenateConf">@ConcatenateConf</a></li> 
 <li><a href="https://twitter.com/@TheLeadDev">@TheLeadDev</a></li> 
-<li><a href="https://twitter.com/@FullStackFest">@FullStackFest</a></li> 
-<li><a href="https://twitter.com/@earimedia">@earimedia</a></li> 
+<li><a href="https://twitter.com/@FullStackFest">@FullStackFest</a></li>
 <li><a href="https://twitter.com/@iottechexpo">@iottechexpo</a></li> 
 <li><a href="https://twitter.com/@ReactAmsterdam">@ReactAmsterdam</a></li> 
 <li><a href="https://twitter.com/@renderATL">@renderATL</a></li>
@@ -347,21 +328,17 @@
   </ul>
 
 <ul><strong>Cyber Security and Hackers</strong>
-<li><a href="https://twitter.com/@digitalempirehq">@digitalempirehq</a></li> 
-<li><a href="https://twitter.com/@jeoloseiga">@jeoloseiga</a></li>
+<li><a href="https://twitter.com/@digitalempirehq">@digitalempirehq</a></li>
 <li><a href="https://twitter.com/@Xymbiz">@Xymbiz</a></li>
 <li><a href="https://twitter.com/@DigitalEmpress">@DigitalEmpress</a></li>
 <li><a href="https://twitter.com/@InfosecFam">@InfosecFam</a></li>
 <li><a href="https://twitter.com/@packetfanatic">@packetfanatic</a></li>
 <li><a href="https://twitter.com/@vastidity">@vastidity</a></li>
-<li><a href="https://twitter.com/@ShastaSummit">@ShastaSummit</a></li>
 <li><a href="https://twitter.com/@hodltergeist">@hodltergeist</a></li>
 <li><a href="https://twitter.com/@darksim905">@darksim905</a></li>
 <li><a href="https://twitter.com/@PhillipWylie">@PhillipWylie</a></li>
 <li><a href="https://twitter.com/@PWNetrationguru">@PWNetrationguru</a></li>
-<li><a href="https://twitter.com/@BDavis_CyberSec">@BDavis_CyberSec</a></li> 
 <li><a href="https://twitter.com/@infosystir">@infosystir</a></li>
-<li><a href="https://twitter.com/@TheCybern00b">@TheCybern00b</a></li>
 <li><a href="https://twitter.com/@ParseTheSalt">@ParseTheSalt</a></li> 
 <li><a href="https://twitter.com/@katiascylife">@katiascylife</a></li>
   </ul>
