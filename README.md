@@ -8,6 +8,7 @@
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
   <li>Remotive: https://remotive.io/</li>
   <li>RemoteOK: https://remoteok.io/</li>
+  <li>Himalayas: https://himalayas.app</li>
   <li>Hubstaff Talent Jobs: https://talent.hubstaff.com</li>
   <li>Authentic Jobs: https://authenticjobs.com/</li>
   <li>Just UX Jobs: https://justuxjobs.com/</li>

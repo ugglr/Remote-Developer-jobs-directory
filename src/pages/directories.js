@@ -56,6 +56,12 @@ class Directories extends React.Component {
         url: "https://remotive.io/",
       },
       {
+        name: "Himalayas",
+        body:
+          "This site is a dedicated remote job board with a large range of filters and search options.",
+        url: "https://himalayas.app",
+      },
+      {
         name: "RemoteOk",
         body:
           "As the name implied the whole site is fully dedicated to remote listings.",
