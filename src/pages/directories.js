@@ -121,11 +121,17 @@ class Directories extends React.Component {
         url: "https://www.turing.ly",
       },
       {
+        name: "Inclusion",
+        body:
+          "Inclusion screens developers and matches you into client projects, if accepted, they offer remote positions, training and more benefits.",
+        url: "https://inclusioncloud.com/",
+      },
+      {
         name: "Employ Remotely",
         body:
           "Remote jobs only for Front End, Back End, Full Stack, and Mobile developers.",
-        url: "https://www.employremotely.com/"
-      }
+        url: "https://www.employremotely.com/",
+      },
     ]
 
     const freelance = [
