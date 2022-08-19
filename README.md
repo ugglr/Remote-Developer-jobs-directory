@@ -24,7 +24,7 @@
   <li>4 day week: https://4dayweek.io/</li>
 </ul>
 
-<Strong>Placement consultancy</Strong>
+<Strong>Placement consultancies</Strong>
 
 <p>Placement consultancies match developers with software projects in other companies. They do the heavy lifting of interviewing, and validating the engineers and match them according their respective skills. Some of these might be difficult to get into as a junior, but it's not impossible if you can show real projects in your portfolio and perform strong on the tests they present.</p>
 <ul>
