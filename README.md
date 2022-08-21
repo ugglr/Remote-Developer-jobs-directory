@@ -13,7 +13,7 @@
   <li>Authentic Jobs: https://authenticjobs.com/</li>
   <li>Just UX Jobs: https://justuxjobs.com/</li>
   <li>Jobspresso: https://jobspresso.co/</li>
-  <li>Reactiflux Jobs: http://jobs.reactiflux.com/</li>
+  <li>Reactiflux Jobs: https://www.reactiflux.com/jobs</li>
   <li>Angellist: https://angel.co/ </li>
   <li>Findwork.dev: https://findwork.dev/junior-jobs?remote=true</li>
   <li>Remote Leads: https://remoteleads.io/</li>
