@@ -25,7 +25,7 @@ class Directories extends React.Component {
         name: "Reactiflux",
         body:
           "I truly recommend to join their Discord server, because there you have the potential to send messages directly to the person at the hiring company.That gives you an edge over regular job applications where the stacks of CVs grow larger by the day.By talking directly you have the chance to show your personality and proffessionalism directly.",
-        url: "http://jobs.reactiflux.com/",
+        url: "https://www.reactiflux.com/jobs",
       },
       {
         name: "WeWorkRemotely",
@@ -121,11 +121,17 @@ class Directories extends React.Component {
         url: "https://www.turing.ly",
       },
       {
+        name: "Inclusion",
+        body:
+          "Inclusion screens developers and matches you into client projects, if accepted, they offer remote positions, training and more benefits.",
+        url: "https://inclusioncloud.com/",
+      },
+      {
         name: "Employ Remotely",
         body:
           "Remote jobs only for Front End, Back End, Full Stack, and Mobile developers.",
-        url: "https://www.employremotely.com/"
-      }
+        url: "https://www.employremotely.com/",
+      },
     ]
 
     const freelance = [
