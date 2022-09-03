@@ -29,7 +29,7 @@
 <p>Placement consultancies match developers with software projects in other companies. They do the heavy lifting of interviewing, and validating the engineers and match them according their respective skills. Some of these might be difficult to get into as a junior, but it's not impossible if you can show real projects in your portfolio and perform strong on the tests they present.</p>
 <ul>
   <li>Turingly: https://www.turing.ly/</li>
-  <li>Inclusion: https://inclusioncloud.com/</li>
+  <li>Inclusion Cloud: https://inclusioncloud.com/</li>
   <li>X-Team: https://x-team.com/</li>
   <li>Toptal: https://www.toptal.com/</li>
 </ul>

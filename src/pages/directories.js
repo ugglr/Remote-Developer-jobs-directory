@@ -121,9 +121,9 @@ class Directories extends React.Component {
         url: "https://www.turing.ly",
       },
       {
-        name: "Inclusion",
+        name: "Inclusion Cloud",
         body:
-          "Inclusion screens developers and matches you into client projects, if accepted, they offer remote positions, training and more benefits.",
+          "Inclusion Cloud screens developers and matches you into client projects, if accepted, they offer remote positions, training and more benefits.",
         url: "https://inclusioncloud.com/",
       },
       {
