@@ -1,4 +1,4 @@
-export const remoteCompanies = [
+const remoteCompanies = [
   {
     name: "Chili Piper",
     body: "100% fully remote team, with good benefits. ",
@@ -1015,3 +1015,5 @@ export const remoteCompanies = [
     url: "https://www.ziprecruiter.com/careers",
   },
 ];
+
+export default remoteCompanies;

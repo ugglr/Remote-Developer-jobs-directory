@@ -1,4 +1,4 @@
-export const freelancePlatforms: Array<{
+const freelancePlatforms: Array<{
   name: string;
   body: string;
   url: string;
@@ -29,3 +29,5 @@ export const freelancePlatforms: Array<{
     url: "https://www.workana.com",
   },
 ];
+
+export default freelancePlatforms;

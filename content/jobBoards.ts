@@ -1,4 +1,4 @@
-export const jobBoards: Array<{ name: string; body: string; url: string }> = [
+const jobBoards: Array<{ name: string; body: string; url: string }> = [
   {
     name: "AngelList",
     body: "This is the main site where startups go to look for new talent, and because of that It is also one of the best places for juniors to reach out to potential employers.Start - up culture breeds and needs people with many skill sets, ambitious character and a get things done attitude.If you are willing to do the work and show them what you've made of, there is a good chance to grab that first position on this site.",
@@ -105,3 +105,5 @@ export const jobBoards: Array<{ name: string; body: string; url: string }> = [
     url: "https://www.employremotely.com/",
   },
 ];
+
+export default jobBoards;

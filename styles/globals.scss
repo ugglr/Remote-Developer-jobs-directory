@@ -1,3 +1,5 @@
+@import "./colors";
+
 @font-face {
   font-family: "SFProText";
   src: url("/fonts/SFProText/SFProText-Regular.otf");
@@ -20,14 +22,22 @@
   font-display: swap;
 }
 
-*,
 html,
 body {
-  box-sizing: border-box;
+  background-color: $black;
+  color: $white;
   padding: 0;
   margin: 0;
-  font-family: SFProText, -apple-system, BlinkMacSystemFont, Roboto, Ubuntu,
-    Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: SFProText, -apple-system, Roboto, BlinkMacSystemFont, Segoe UI,
+    Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  margin: 0;
 }
 
 a {
@@ -35,12 +45,10 @@ a {
   text-decoration: none;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-  body {
-    color: white;
-    background: black;
+* {
+  box-sizing: border-box;
+
+  ::selection {
+    background-color: $purple;
   }
 }

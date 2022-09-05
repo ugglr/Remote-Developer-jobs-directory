@@ -1,4 +1,9 @@
 .layout {
-  margin: auto;
-  max-width: 80vw;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+.content {
+  width: 80vw;
 }
