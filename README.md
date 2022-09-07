@@ -5,22 +5,21 @@
 <h2>Checklist</h2>
 Things you can do to increase your chance of success. Making an effort on these shows that you are serious in your job search, and that you respect the other party looking to hire a new developer.
 
-</br>
 
-| ToDo                                                   | Why?                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GitHub                                                 | Those green squares matter, show consistent code pushing for long stretches of time. Pick projects with intent. If you want to land a frontend web development position, then pick projects related to that with increasing difficult                                                                                                                                                                                         |
-| Contribute to Open-Source                              | This might sound daunting for anyone to get into but it really makes all the difference. It does not matter how small of a contribution you are making, correct some docs, fix grammar problems. You can make repos where you collect resources (like this one), learnings, developer loggs etc. These things are the fundamentals that you can build upon right when you start.                                              |
-| Personal Site                                          | Make sure that your personal site looks alright, all links working, no typos, easy structure for visitors to find the information they are looking for. All projects linked should have a github-link for the source code and hosted version.                                                                                                                                                                                 |
-| Start blogging                                         | Writing about your daily progress is a win-win situation. You help others struggling with the same thing, you help yourself understand it better, and you take steps towards building your own developer brand. Potential hiring party can go in and see your progress and they can see how you communicate ideas or code to others, further they can see a glimpse of who you are and build a perception of you as a person. |
-| Stable internet                                        | It sounds like a no-brainer but when working remote it becomes very clear if your connection is not great. Would you hire someone to work for you remotely if they keep disconnecting? probably not right?                                                                                                                                                                                                                    |
-| Comfortable to Share screen                            | As a remote developer you'll be sharing your screen a lot. Our computers are very private, and normally no one sees the things you keep there. Keep a sfw version of it, in case you need to share unexpectedly.                                                                                                                                                                                                              |
-| Clear communication                                    | The ability to explain code in a clear and concise way & talk about complex topics. Code is sometimes difficult to explain, because we are not used to talking while we code and our mind-maps of how things fit together will be unique to you. However, no one will hire you if you can not explain what you are doing.                                                                                                     |
-| Be in the now                                          | Be alert, be present, answer questions within reasonable time on Slack or Email. And turn everything off during your interview.                                                                                                                                                                                                                                                                                               |
-| Calm environment                                       | If you have constant background noise, like motorcycles, trucks, vacuum cleaner, screaming, (you get the point), You will not be liked in your everyday meetings. Dare I say low-key hated. So, find a quiet spot to work.                                                                                                                                                                                                    |
-| Voice Quality                                          | This ties into the above row, but if your microphone is bad, buy a new one. Record yourself, listen to it and you'll understand what the other side hears.                                                                                                                                                                                                                                                                    |
-| Energy                                                 | You want to send a lot of positive energy to the person you are talking to. You have to be interested in what you do and like to talk about things related to the field. Don't be a biggot, asshole, racist, or show other negative characteristics. At least pretend...                                                                                                                                                      |
-| Know what you know, and you want to continue learning. | If there's something you don't know, come clean and say that you have not used that technology yet. It shows that you know what you don't know, and explain that you are willing to learn that asap if that's a required skill. Maybe fire up a new repo and do something with it, and send it soon after the meeting ended. It shows you are a self starter and can learn new things when required.                          |
+| ToDo | Why? |
+| ------------- | ------------- |
+| GitHub | Those green squares matter, and show consistent code pushing for long periods. Pick projects with intent. If you want to land a frontend web development position, then pick projects related to that with increasing difficulty |
+| Contribute to Open-Source | This might sound daunting for anyone to get into but it truly makes all the difference. It does not matter how small of a contribution you are making, correct some docs, fix grammar problems. You can make repositories where you collect resources (like this one), learnings, developer logs, etc. These things are the fundamentals that you can build upon right when you start. |
+| Personal Site | Make sure that your personal site looks alright, all links working, no typos, easy structure for visitors to find the information they are looking for. All projects linked should have a GitHub link for the source code and hosted version. |
+| Start blogging | Writing about your daily progress is a win-win situation. You help others struggling with the same thing, you help yourself understand it better, and you take steps towards building your developer brand. A potential hiring party can go in and see your progress and they can see how you communicate ideas or code to others, further they can see a glimpse of who you are and build a perception of you as a person. |
+| Stable internet | It sounds like a no-brainer but when working remotely it becomes very clear if your connection is not great. Would you hire someone to work for you remotely if they keep disconnecting? probably not right? |
+| Comfortable to Share screen | As a remote developer, you'll be sharing your screen a lot. Our computers are very private, and normally no one sees the things you keep there. Keep an SFW version of it, in case you need to share it unexpectedly. |
+| Clear communication | The ability to explain code clearly and concisely and talk about complex topics. Code is sometimes difficult to explain because we are not used to talking while we code and our mind-maps of how things fit together will be unique to you. However, no one will hire you if you can not explain what you are doing. |
+| Be in the now | Be alert, be present, and answer questions within a reasonable amount of time on Slack or Email. And turn everything off during your interview. |
+| Calm environment | If you have constant background noise, like motorcycles, trucks, vacuum cleaners, and screaming, (you get the point), You will not be liked in your everyday meetings. Dare I say low-key hated? So, find a quiet spot to work. |
+| Voice Quality | This ties into the above row, but if your microphone is bad, buy a new one. Record yourself, listen to it and you'll understand what the other side is hearing. |
+| Energy | You want to send a lot of positive energy to the person you are talking to. You have to be interested in what you do and like to talk about things related to the field. Don't be a bigot, asshole, racist, or show other negative characteristics. At least pretend... |
+| Know what you know and that you want to continue learning. | If there's something you don't know, come clean and say that you have not used that technology yet. It shows that you know what you don't know, and explain that you are willing to learn that asap if that's a required skill. Maybe fire up a new repo and do something with it, and send it soon after the meeting ended. It shows you are a self-starter and can learn new things when required. |
 
 <h4>Remote Jobs Directories</h4>
 <ul>
@@ -74,7 +73,6 @@ Things you can do to increase your chance of success. Making an effort on these 
 <ul>
   <li>Reactiflux: https://discordapp.com/invite/reactiflux</li>
   <li>FreeCodeCamp (un-official): https://discordapp.com/invite/nKKgCbA</li>
-  <li>Grindreel https://discord.gg/rka6rvg</li>
 </ul>
 
 <Strong>Slack Channels</strong>
@@ -104,7 +102,7 @@ Things you can do to increase your chance of success. Making an effort on these 
 
 <strong>Twitter Accounts</strong>
 
-<p>Please check the amazing @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
+<p>Please check @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
 
 <ul>
   <strong>Frontend : React</strong>
@@ -392,8 +390,6 @@ Things you can do to increase your chance of success. Making an effort on these 
   <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
   <li>Brice Ayres:
   <a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a></li>
-  <li>Joshua Fluke / Grindreel:
-  <a href="https://www.youtube.com/user/Tychos1">Channel Link</a></li>
   <li>Chris Hawkes:
   <a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a></li>
   <li>Andrew Cunliffe:
