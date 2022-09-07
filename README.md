@@ -21,7 +21,7 @@ Things you can do to increase your chance of success. Making an effort on these 
 | Energy | You want to send a lot of positive energy to the person you are talking to. You have to be interested in what you do and like to talk about things related to the field. Don't be a bigot, asshole, racist, or show other negative characteristics. At least pretend... |
 | Know what you know and that you want to continue learning. | If there's something you don't know, come clean and say that you have not used that technology yet. It shows that you know what you don't know, and explain that you are willing to learn that asap if that's a required skill. Maybe fire up a new repo and do something with it, and send it soon after the meeting ended. It shows you are a self-starter and can learn new things when required. |
 
-<h4>Remote Jobs Directories</h4>
+<h2>Remote Jobs Directories</h2>
 <ul>
   <li>WeWorkRemotely: https://weworkremotely.com/</li>
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
@@ -43,7 +43,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>4 day week: https://4dayweek.io/</li>
 </ul>
 
-<Strong>Placement consultancies</Strong>
+<h2>Placement consultancies</h2>
 
 <p>Placement consultancies match developers with software projects in other companies. They do the heavy lifting of interviewing, and validating the engineers and match them according their respective skills. Some of these might be difficult to get into as a junior, but it's not impossible if you can show real projects in your portfolio and perform strong on the tests they present.</p>
 <ul>
@@ -55,7 +55,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>Toptal: https://www.toptal.com/</li>
 </ul>
 
-<Strong>Freelancing</Strong>
+<h2>Freelancing</h2>
 
 <p>Freelancing is a Great way to get real experience, it's not easy to earn a living through these sites but one might get some projects under the belt to put on the portfolio</p>
 <ul>
@@ -66,7 +66,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>Workana: https://www.workana.com</li>
 </ul>
 
-<h4>Great helpful & Friendly Communities</h4>
+<h2>Great helpful & Friendly Communities</h2>
 
 <strong>Discord Servers</strong>
 
@@ -85,7 +85,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>Scotch.io: <a href="https://scotch-slack.herokuapp.com/">Link</a></li>
 </ul>
 
-<h4>Job Search Newsletters/Twitter Accounts</h4>
+<h2>Job Search Newsletters/Twitter Accounts</h2>
 
 <ul>
   <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. 
@@ -98,7 +98,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   </li>
 </ul>
 
-<h4>Great Resources</h4>
+<h2>Great Resources</h2>
 
 <strong>Twitter Accounts</strong>
 
