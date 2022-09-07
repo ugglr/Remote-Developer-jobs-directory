@@ -4,7 +4,26 @@
 
 <h3>The whole point of this repo is to list information about getting a remote job as a junior developer</h3>
 
-<h4>Remote Jobs Directories</h4>
+<h2>Checklist</h2>
+Things you can do to increase your chance of success. Making an effort on these shows that you are serious in your job search, and that you respect the other party looking to hire a new developer.
+
+
+| ToDo | Why? |
+| ------------- | ------------- |
+| GitHub | Those green squares matter, and show consistent code pushing for long periods. Pick projects with intent. If you want to land a frontend web development position, then pick projects related to that with increasing difficulty |
+| Contribute to Open-Source | This might sound daunting for anyone to get into but it truly makes all the difference. It does not matter how small of a contribution you are making, correct some docs, fix grammar problems. You can make repositories where you collect resources (like this one), learnings, developer logs, etc. These things are the fundamentals that you can build upon right when you start. |
+| Personal Site | Make sure that your personal site looks alright, all links working, no typos, easy structure for visitors to find the information they are looking for. All projects linked should have a GitHub link for the source code and hosted version. |
+| Start blogging | Writing about your daily progress is a win-win situation. You help others struggling with the same thing, you help yourself understand it better, and you take steps towards building your developer brand. A potential hiring party can go in and see your progress and they can see how you communicate ideas or code to others, further they can see a glimpse of who you are and build a perception of you as a person. |
+| Stable internet | It sounds like a no-brainer but when working remotely it becomes very clear if your connection is not great. Would you hire someone to work for you remotely if they keep disconnecting? probably not right? |
+| Comfortable to Share screen | As a remote developer, you'll be sharing your screen a lot. Our computers are very private, and normally no one sees the things you keep there. Keep an SFW version of it, in case you need to share it unexpectedly. |
+| Clear communication | The ability to explain code clearly and concisely and talk about complex topics. Code is sometimes difficult to explain because we are not used to talking while we code and our mind-maps of how things fit together will be unique to you. However, no one will hire you if you can not explain what you are doing. |
+| Be in the now | Be alert, be present, and answer questions within a reasonable amount of time on Slack or Email. And turn everything off during your interview. |
+| Calm environment | If you have constant background noise, like motorcycles, trucks, vacuum cleaners, and screaming, (you get the point), You will not be liked in your everyday meetings. Dare I say low-key hated? So, find a quiet spot to work. |
+| Voice Quality | This ties into the above row, but if your microphone is bad, buy a new one. Record yourself, listen to it and you'll understand what the other side is hearing. |
+| Energy | You want to send a lot of positive energy to the person you are talking to. You have to be interested in what you do and like to talk about things related to the field. Don't be a bigot, asshole, racist, or show other negative characteristics. At least pretend... |
+| Know what you know and that you want to continue learning. | If there's something you don't know, come clean and say that you have not used that technology yet. It shows that you know what you don't know, and explain that you are willing to learn that asap if that's a required skill. Maybe fire up a new repo and do something with it, and send it soon after the meeting ended. It shows you are a self-starter and can learn new things when required. |
+
+<h2>Remote Jobs Directories</h2>
 <ul>
   <li>WeWorkRemotely: https://weworkremotely.com/</li>
   <li>Stackoverflow jobs: https://stackoverflow.com/jobs</li>
@@ -26,17 +45,19 @@
   <li>4 day week: https://4dayweek.io/</li>
 </ul>
 
-<Strong>Placement consultancies</Strong>
+<h2>Placement consultancies</h2>
 
 <p>Placement consultancies match developers with software projects in other companies. They do the heavy lifting of interviewing, and validating the engineers and match them according their respective skills. Some of these might be difficult to get into as a junior, but it's not impossible if you can show real projects in your portfolio and perform strong on the tests they present.</p>
 <ul>
+  <li>Lemon: https://lemon.io/</li>
+  <li>A-Team: https://www.a.team/</li>
   <li>Turingly: https://www.turing.ly/</li>
   <li>Inclusion Cloud: https://inclusioncloud.com/</li>
   <li>X-Team: https://x-team.com/</li>
   <li>Toptal: https://www.toptal.com/</li>
 </ul>
 
-<Strong>Freelancing</Strong>
+<h2>Freelancing</h2>
 
 <p>Freelancing is a Great way to get real experience, it's not easy to earn a living through these sites but one might get some projects under the belt to put on the portfolio</p>
 <ul>
@@ -47,14 +68,13 @@
   <li>Workana: https://www.workana.com</li>
 </ul>
 
-<h4>Great helpful & Friendly Communities</h4>
+<h2>Great helpful & Friendly Communities</h2>
 
 <strong>Discord Servers</strong>
 
 <ul>
   <li>Reactiflux: https://discordapp.com/invite/reactiflux</li>
   <li>FreeCodeCamp (un-official): https://discordapp.com/invite/nKKgCbA</li>
-  <li>Grindreel https://discord.gg/rka6rvg</li>
 </ul>
 
 <Strong>Slack Channels</strong>
@@ -67,7 +87,7 @@
   <li>Scotch.io: <a href="https://scotch-slack.herokuapp.com/">Link</a></li>
 </ul>
 
-<h4>Job Search Newsletters/Twitter Accounts</h4>
+<h2>Job Search Newsletters/Twitter Accounts</h2>
 
 <ul>
   <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. 
@@ -80,11 +100,11 @@
   </li>
 </ul>
 
-<h4>Great Resources</h4>
+<h2>Great Resources</h2>
 
 <strong>Twitter Accounts</strong>
 
-<p>Please check the amazing @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
+<p>Please check @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
 
 <ul>
   <strong>Frontend : React</strong>
@@ -372,8 +392,6 @@
   <a href="https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA">Channel Link</a></li>
   <li>Brice Ayres:
   <a href="https://www.youtube.com/channel/UC9nBRXEi-gthsZf8BBhp_Jw">Channel Link</a></li>
-  <li>Joshua Fluke / Grindreel:
-  <a href="https://www.youtube.com/user/Tychos1">Channel Link</a></li>
   <li>Chris Hawkes:
   <a href="https://www.youtube.com/user/noobtoprofessional">Channel Link</a></li>
   <li>Andrew Cunliffe:
