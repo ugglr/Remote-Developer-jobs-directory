@@ -9,8 +9,11 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Remote developer jobs directory</title>
-        <meta name="description" content="Remote developer jobs directory" />
+        <title>Remote junior developer jobs directory</title>
+        <meta
+          name="description"
+          content="Remote junior developer jobs directory"
+        />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
