@@ -15,7 +15,9 @@ const Footer: React.FC = () => (
       <SiTypescript className={styles.tsIcon} />
       <p className={styles.copyText}>and ☕️. Open-sourced at</p>
       <a href="https://github.com/ugglr/Remote-Junior-Developer-jobs-directory">
-        <FiGithub className={styles.ghIcon} />
+        <span>
+          <FiGithub className={styles.ghIcon} />
+        </span>
       </a>
     </div>
   </footer>
