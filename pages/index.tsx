@@ -4,6 +4,7 @@ import Card from "../components/Card";
 import { freelancePlatforms, jobBoards, slackChannels } from "../content";
 
 import styles from "../styles/Home.module.scss";
+import Hero from "./home/components/Hero";
 
 const Home: NextPage = () => {
   return (
@@ -18,11 +19,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <div className={styles.hero}>
-          <h1 className={styles.title}>Remote</h1>
-          <h1 className={styles.title}>Developer</h1>
-          <h1 className={styles.title}>Jobs directory.</h1>
-        </div>
+        <Hero />
 
         {/* %%%% Job boards %%%%%% */}
         <div className={styles.section}>
