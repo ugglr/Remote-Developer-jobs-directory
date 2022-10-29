@@ -6,7 +6,9 @@ type Props = {
   link: string;
 };
 const Card: React.FC<Props> = ({ title, body, link }) => (
-  <a href={link} className={styles.link} target="_blank" rel="noreferrer">
+  // Keep referrer so sites can see where traffic is coming from.
+  // eslint-disable-next-line react/jsx-no-target-blank
+  <a href={link} className={styles.link} target="_blank" rel="noopener">
     <div className={styles.card}>
       <div className={styles.left}>
         <h3 className={styles.title}>{title}</h3>
