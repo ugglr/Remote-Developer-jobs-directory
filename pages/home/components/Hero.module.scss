@@ -3,7 +3,7 @@
 .hero {
   align-items: center;
   display: flex;
-  margin-top: 10vh;
+  margin-top: 8vh;
   justify-content: space-between;
 }
 .leftContainer {
@@ -14,14 +14,22 @@
 }
 
 .rightContainer {
+  align-items: center;
+  display: flex;
   flex: 1;
+  flex-direction: column;
 }
 
 .ghIcon {
   color: $purple;
   font-size: 10vw;
+  margin-bottom: 3rem;
 
   &:hover {
     color: $pink;
   }
+}
+
+.disclaimer {
+  font-size: 0.9rem;
 }

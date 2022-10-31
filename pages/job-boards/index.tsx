@@ -1,4 +1,5 @@
 import { NextPage } from "next";
+import Head from "next/head";
 import Card from "../../components/Card";
 import PageHero from "../../components/PageHero";
 import { freelancePlatforms, jobBoards, slackChannels } from "../../content";
@@ -7,6 +8,15 @@ import styles from "../../styles/Home.module.scss";
 
 const JobBoardsPage: NextPage = () => (
   <div>
+    <Head>
+      <title>Remote junior developer jobs director | job boards.</title>
+      <meta
+        name="description"
+        content="Looking for remote software engineering jobs? List of job boards to find remote positions."
+      />
+      <link rel="icon" href="/favicon.ico" />
+    </Head>
+
     <main>
       <PageHero
         title="job boards."

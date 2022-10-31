@@ -17,6 +17,7 @@ const Hero = () => (
       >
         <FiGithub className={styles.ghIcon} />
       </a>
+      <p className={styles.disclaimer}>(psst... PRs welcome 👆)</p>
     </div>
   </div>
 );
