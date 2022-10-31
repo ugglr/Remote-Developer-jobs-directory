@@ -1,5 +1,6 @@
 import { ReactNode } from "react";
 import Footer from "./Footer";
+import Navbar from "./Navbar/Navbar";
 
 import styles from "./Layout.module.scss";
 
@@ -8,6 +9,7 @@ type Props = {
 };
 const Layout: React.FC<Props> = ({ children }) => (
   <div className={styles.layout}>
+    <Navbar />
     <div className={styles.content}>{children}</div>
     <Footer />
   </div>

@@ -1,0 +1,9 @@
+@import "../../styles/colors";
+
+.item {
+  font-size: 1.5rem;
+  font-weight: bold;
+  :hover {
+    color: $pink;
+  }
+}
