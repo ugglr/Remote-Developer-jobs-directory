@@ -23,22 +23,19 @@
   margin: 0;
 }
 
-.link {
-  :hover {
-    .arrow {
-      background-color: aqua;
-    }
-  }
-}
 .arrow {
   align-items: center;
   background-color: $lightBlack;
   border-radius: 25px;
+  font-size: 1.5rem;
   display: flex;
   height: 50px;
   flex-shrink: 0;
   justify-content: center;
   width: 50px;
+}
+.arrow:hover {
+  border: 2px solid $pink;
 }
 
 .body {

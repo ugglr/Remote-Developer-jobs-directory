@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { FiMenu, FiX } from "react-icons/fi";
 import DrawerNavItem from "./DrawerNavItem";
+import Logo from "./Logo";
 import styles from "./Navbar.module.scss";
 import NavbarItem from "./NavbarItem";
 
@@ -68,7 +69,7 @@ const Navbar = () => {
         </div>
       </div>
       <div className={styles.container}>
-        <NavbarItem title="RDJD" href="/" />
+        <Logo />
 
         <div className={styles.rightContainer}>
           {rightSideLinks.map(({ title, href }, index) => {

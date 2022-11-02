@@ -32,7 +32,7 @@ const Card: React.FC<Props> = ({ title, body, link }) => {
 
       <div>
         {/* eslint-disable-next-line react/jsx-no-target-blank */}
-        <a className={styles.link}>
+        <a href={link} className={styles.link}>
           <div className={styles.arrow}>→</div>
         </a>
       </div>
@@ -41,9 +41,3 @@ const Card: React.FC<Props> = ({ title, body, link }) => {
 };
 
 export default Card;
-
-/*
-
-<a href={link} className={styles.link} target="_blank" rel="noopener">
-
-*/
