@@ -3,11 +3,27 @@
 }
 
 .title {
-  font-size: 4vw;
+  font-size: 5rem;
 }
 
 .subtitle {
-  font-size: 2vw;
+  font-size: 2rem;
   margin-top: 3rem;
   max-width: 70%;
+}
+
+@media only screen and (max-width: 900px) {
+  .container {
+    padding: 2.5rem 0;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .title {
+    font-size: 4rem;
+  }
+  .subtitle {
+    font-size: 1.5rem;
+    max-width: 100%;
+  }
 }

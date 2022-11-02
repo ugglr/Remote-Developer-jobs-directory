@@ -1,3 +1,23 @@
+@import "../../styles/colors";
+
+.overlay {
+  position: absolute;
+  height: 100vh;
+  background-color: $purple;
+  overflow: hidden;
+  right: 0;
+  width: 0;
+  transition: width 0.3s ease-in;
+}
+.overlayExpanded {
+  position: fixed;
+  width: 100vw;
+  transition: width 0.3s ease-in;
+  top: 0;
+}
+.overlayContentContainer {
+  padding: 2rem;
+}
 .container {
   align-items: center;
   display: flex;
@@ -11,4 +31,33 @@
 }
 .itemSpacing {
   width: 2rem;
+}
+
+.menuContainer {
+  display: none;
+}
+
+.icon {
+  font-size: 2rem;
+}
+.iconContainer {
+  background-color: $lightBlack;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 1rem;
+  border-radius: 100%;
+  border: 2px solid transparent;
+}
+.iconContainer:hover {
+  border: 2px solid $pink;
+}
+
+@media only screen and (max-width: 899px) {
+  .rightContainer {
+    display: none;
+  }
+  .menuContainer {
+    display: inline;
+  }
 }

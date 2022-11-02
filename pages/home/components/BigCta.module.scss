@@ -1,24 +1,26 @@
 @import "../../../styles/colors";
 
-.link {
-  :hover {
-    border-color: $pink;
-
-    .btn {
-      background-color: $pink;
-    }
-  }
-}
 .container {
-  display: flex;
   background-color: $offBlack;
   border: 2px solid $purple;
   border-radius: 20px;
-  padding: 2rem 1.5rem;
-  justify-content: space-between;
   margin-top: 4rem;
   max-width: 800px;
 }
+.container:hover {
+  border-color: $pink;
+  .btn {
+    background-color: $pink;
+  }
+}
+
+.content {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  padding: 1.5rem 1.5rem;
+}
+
 .title {
   font-size: 2rem;
 }
@@ -37,4 +39,17 @@
   font-size: 2rem;
   justify-content: center;
   width: 50px;
+}
+
+@media only screen and (max-width: 400px) {
+  .content {
+    padding: 1.2rem 1.2rem;
+  }
+  .title {
+    font-size: 1.8rem;
+  }
+  .body {
+    font-size: 1.3rem;
+    max-width: 80%;
+  }
 }

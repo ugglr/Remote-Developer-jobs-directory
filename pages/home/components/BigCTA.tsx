@@ -3,21 +3,23 @@ import Link from "next/link";
 import styles from "./BigCta.module.scss";
 
 const BigCTA = () => (
-  <Link href={"/checklists/remote-ready"}>
-    <a className={styles.link}>
-      <div className={styles.container}>
-        <div>
-          <h2 className={styles.title}>Are you remote ready?</h2>
+  <div className={styles.container}>
+    <Link href={"/checklists/remote-ready"}>
+      <a className={styles.link}>
+        <div className={styles.content}>
+          <div>
+            <h2 className={styles.title}>Are you remote ready?</h2>
 
-          <p className={styles.body}>
-            Go through the remote ready wizard and get some helpful tips
-          </p>
+            <p className={styles.body}>
+              Go through the remote ready wizard and get some helpful tips
+            </p>
+          </div>
+
+          <div className={styles.btn}>→</div>
         </div>
-
-        <div className={styles.btn}>→</div>
-      </div>
-    </a>
-  </Link>
+      </a>
+    </Link>
+  </div>
 );
 
 export default BigCTA;

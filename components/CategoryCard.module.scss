@@ -23,7 +23,7 @@
 }
 
 .title {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-bottom: 1.5rem;
 }
 .body {
@@ -46,4 +46,10 @@
   font-size: 2rem;
   justify-content: center;
   width: 50px;
+}
+@media only screen and (max-width: 1000px) {
+  .content {
+    height: auto;
+    width: 80vw;
+  }
 }

@@ -1,6 +1,11 @@
 import { NextPage } from "next";
 import Head from "next/head";
+import Card from "../../components/Card";
 import PageHero from "../../components/PageHero";
+
+import { companies } from "../../content";
+
+import styles from "../../styles/Home.module.scss";
 
 const RemoteCompaniesPage: NextPage = () => (
   <div>
@@ -19,7 +24,11 @@ const RemoteCompaniesPage: NextPage = () => (
         subtitle="A list of of companies who works remotely."
       />
 
-      <h1>Coming Soon!</h1>
+      <div className={styles.listContainer}>
+        {companies.map(({ name, body, url }) => (
+          <Card key={name} {...{ title: name, body, link: url }} />
+        ))}
+      </div>
     </main>
   </div>
 );
