@@ -2,7 +2,7 @@ import { NextPage } from "next";
 import Head from "next/head";
 import Card from "../../components/Card";
 import PageHero from "../../components/PageHero";
-import { freelancePlatforms, jobBoards, slackChannels } from "../../content";
+import { jobBoards } from "../../content";
 
 import styles from "../../styles/Home.module.scss";
 
