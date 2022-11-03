@@ -1,7 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type FormData = {
   blogValue: boolean;
@@ -9,27 +8,32 @@ type FormData = {
 
 type FormProps = FormData & {
   updateFields: (fields: Partial<FormData>) => void;
+  listMode: boolean;
 };
 
-const STEP = "blog";
-const BlogForm: React.FC<FormProps> = ({ blogValue, updateFields }) => {
-  const content = stepsMap.get(STEP);
+const stepName = "blog";
+const BlogForm: React.FC<FormProps> = ({
+  blogValue,
+  updateFields,
+  listMode,
+}) => {
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ blogValue: !blogValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor={STEP}>
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name={STEP}
-          checked={blogValue}
-          onChange={() => {
-            updateFields({ blogValue: !blogValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: blogValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

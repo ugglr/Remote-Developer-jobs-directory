@@ -17,6 +17,8 @@ import ResponsivenessForm from "./steps/ResponsivenessForm";
 import ScreenSharingForm from "./steps/ScreenSharingForm";
 import VoiceQualityForm from "./steps/VoiceQualityForm";
 
+import styles from "./RemoteReadyChecklist.module.scss";
+
 type FormData = {
   githubValue: boolean;
   openSourceValue: boolean;
@@ -48,7 +50,7 @@ const INITIAL_DATA = {
 };
 
 const RemoteReadyChecklist: NextPage = () => {
-  const [complete, setComplete] = useState<boolean>(false);
+  const [listMode, setListMode] = useState<boolean>(false);
   const [data, setData] = useState(INITIAL_DATA);
   function updateFields(fields: Partial<FormData>) {
     setData((prev) => {
@@ -57,28 +59,28 @@ const RemoteReadyChecklist: NextPage = () => {
   }
 
   // Position in the array determines the step position in the wizard.
-  const { step, next, back, isFirstStep, isLastStep } = useFormWizard([
-    <GithubForm key="1" {...data} updateFields={updateFields} />,
-    <OpenSourceForm key="2" {...data} updateFields={updateFields} />,
-    <PortfolioForm key="3" {...data} updateFields={updateFields} />,
-    <BlogForm key="4" {...data} updateFields={updateFields} />,
-    <InternetForm key="5" {...data} updateFields={updateFields} />,
-    <ScreenSharingForm key="6" {...data} updateFields={updateFields} />,
-    <CommunicationForm key="7" {...data} updateFields={updateFields} />,
-    <ResponsivenessForm key="8" {...data} updateFields={updateFields} />,
-    <EnvironmentForm key="9" {...data} updateFields={updateFields} />,
-    <VoiceQualityForm key="10" {...data} updateFields={updateFields} />,
-    <EnergyForm key="11" {...data} updateFields={updateFields} />,
-    <MindsetForm key="12" {...data} updateFields={updateFields} />,
-  ]);
+  const forms = [
+    <GithubForm key="1" {...{ updateFields, ...data, listMode }} />,
+    <OpenSourceForm key="2" {...{ updateFields, ...data, listMode }} />,
+    <PortfolioForm key="3" {...{ updateFields, ...data, listMode }} />,
+    <BlogForm key="4" {...{ updateFields, ...data, listMode }} />,
+    <InternetForm key="5" {...{ updateFields, ...data, listMode }} />,
+    <ScreenSharingForm key="6" {...{ updateFields, ...data, listMode }} />,
+    <CommunicationForm key="7" {...{ updateFields, ...data, listMode }} />,
+    <ResponsivenessForm key="8" {...{ updateFields, ...data, listMode }} />,
+    <EnvironmentForm key="9" {...{ updateFields, ...data, listMode }} />,
+    <VoiceQualityForm key="10" {...{ updateFields, ...data, listMode }} />,
+    <EnergyForm key="11" {...{ updateFields, ...data, listMode }} />,
+    <MindsetForm key="12" {...{ updateFields, ...data, listMode }} />,
+  ];
+
+  const { step, next, back, isFirstStep, isLastStep } = useFormWizard(forms);
 
   function onSubmit(e: FormEvent) {
     e.preventDefault();
     if (!isLastStep) return next();
-    alert("Form submitted");
+    setListMode(true);
   }
-
-  console.log("data: ", data);
 
   return (
     <div>
@@ -100,15 +102,31 @@ const RemoteReadyChecklist: NextPage = () => {
           subtitle="Go through the wizard or skip right to the full list 👇"
         />
 
-        <p>{`${Object.values(data)}`}</p>
+        <div className={styles.toggleBtnContainer}>
+          <button
+            style={{ marginRight: "2rem" }}
+            className={[styles.btn, !listMode && styles.btnActive].join(" ")}
+            onClick={() => setListMode(false)}
+          >
+            Wizard mode
+          </button>
+          <button
+            className={[styles.btn, listMode && styles.btnActive].join(" ")}
+            onClick={() => setListMode(true)}
+          >
+            List mode
+          </button>
+        </div>
 
-        <form onSubmit={onSubmit}>
-          <WizardCard
-            {...{ step, onBack: back, onNext: next, isFirstStep, isLastStep }}
-          />
-        </form>
-
-        <button onClick={() => setComplete(true)}>Skip to the list →</button>
+        {!listMode ? (
+          <form onSubmit={onSubmit}>
+            <WizardCard
+              {...{ step, onBack: back, onNext: next, isFirstStep, isLastStep }}
+            />
+          </form>
+        ) : (
+          <>{forms}</>
+        )}
       </main>
     </div>
   );

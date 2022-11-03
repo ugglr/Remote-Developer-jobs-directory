@@ -1,9 +1,24 @@
 @import "../../../styles/colors";
 
+.container {
+  margin-bottom: 2rem;
+  background-color: $offBlack;
+  border: 2px solid $offBlack;
+  border-radius: 20px;
+  padding: 0.5rem;
+  width: 70%;
+}
 .title {
   font-size: 2rem;
+}
+.listModeTitle {
+  font-size: 1.5rem;
 }
 .body {
   font-size: 1.5rem;
   height: 11rem;
+}
+.listModeBody {
+  font-size: 1.1rem;
+  height: auto;
 }

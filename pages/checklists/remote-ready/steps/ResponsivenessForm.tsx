@@ -1,5 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
+import CheckboxForm from "./CheckboxForm";
 
 import styles from "./Forms.module.scss";
 
@@ -9,30 +10,32 @@ type FormData = {
 
 type FormProps = FormData & {
   updateFields: (fields: Partial<FormData>) => void;
+  listMode: boolean;
 };
 
-const STEP = "responsiveness";
+const stepName = "responsiveness";
 const ResponsivenessForm: React.FC<FormProps> = ({
   responsivenessValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get(STEP);
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ responsivenessValue: !responsivenessValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor={STEP}>
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name={STEP}
-          checked={responsivenessValue}
-          onChange={() => {
-            updateFields({ responsivenessValue: !responsivenessValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: responsivenessValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

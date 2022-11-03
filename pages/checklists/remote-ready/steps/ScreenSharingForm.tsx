@@ -1,7 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type FormData = {
   screenSharingValue: boolean;
@@ -9,30 +8,32 @@ type FormData = {
 
 type FormProps = FormData & {
   updateFields: (fields: Partial<FormData>) => void;
+  listMode: boolean;
 };
 
-const STEP = "screen-sharing";
+const stepName = "screen-sharing";
 const ScreenSharingForm: React.FC<FormProps> = ({
   screenSharingValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get(STEP);
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ screenSharingValue: !screenSharingValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor={STEP}>
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name={STEP}
-          checked={screenSharingValue}
-          onChange={() => {
-            updateFields({ screenSharingValue: !screenSharingValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: screenSharingValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

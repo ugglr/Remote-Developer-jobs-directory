@@ -1,7 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type FormData = {
   environmentValue: boolean;
@@ -9,30 +8,32 @@ type FormData = {
 
 type FormProps = FormData & {
   updateFields: (fields: Partial<FormData>) => void;
+  listMode: boolean;
 };
 
-const STEP = "environment";
+const stepName = "environment";
 const EnvironmentForm: React.FC<FormProps> = ({
   environmentValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get(STEP);
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ environmentValue: !environmentValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor={STEP}>
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name={STEP}
-          checked={environmentValue}
-          onChange={() => {
-            updateFields({ environmentValue: !environmentValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: environmentValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

@@ -1,5 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
+import CheckboxForm from "./CheckboxForm";
 
 import styles from "./Forms.module.scss";
 
@@ -8,30 +9,33 @@ type FormData = {
 };
 
 type FormProps = FormData & {
+  listMode: boolean;
   updateFields: (fields: Partial<FormData>) => void;
 };
-
+const stepName = "open-source";
 const OpenSourceForm: React.FC<FormProps> = ({
+  listMode,
   openSourceValue,
   updateFields,
 }) => {
-  const content = stepsMap.get("open-source");
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ openSourceValue: !openSourceValue });
+  };
+
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor="github">
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name="github"
-          checked={openSourceValue}
-          onChange={(e) => {
-            updateFields({ openSourceValue: !openSourceValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: openSourceValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

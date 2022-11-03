@@ -1,7 +1,6 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type FormData = {
   communicationValue: boolean;
@@ -9,30 +8,32 @@ type FormData = {
 
 type FormProps = FormData & {
   updateFields: (fields: Partial<FormData>) => void;
+  listMode: boolean;
 };
 
-const STEP = "communication";
+const stepName = "communication";
 const CommunicationForm: React.FC<FormProps> = ({
   communicationValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get(STEP);
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ communicationValue: !communicationValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor={STEP}>
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name={STEP}
-          checked={communicationValue}
-          onChange={() => {
-            updateFields({ communicationValue: !communicationValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: communicationValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

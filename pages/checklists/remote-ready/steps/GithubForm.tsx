@@ -1,37 +1,38 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type GithubData = {
   githubValue: boolean;
 };
 
 type GithubFormProps = GithubData & {
+  listMode: boolean;
   updateFields: (fields: Partial<GithubData>) => void;
 };
-
+const stepName = "github";
 const GithubForm: React.FC<GithubFormProps> = ({
   githubValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get("github");
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ githubValue: !githubValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor="github">
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name="github"
-          checked={githubValue}
-          onChange={(e) => {
-            updateFields({ githubValue: !githubValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: githubValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };

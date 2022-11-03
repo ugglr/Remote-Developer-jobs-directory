@@ -1,37 +1,38 @@
 import WizardFormStep from "../../components/WizardFormStep";
 import { stepsMap } from "../steps";
-
-import styles from "./Forms.module.scss";
+import CheckboxForm from "./CheckboxForm";
 
 type FormData = {
   portfolioValue: boolean;
 };
 
 type FormProps = FormData & {
+  listMode: boolean;
   updateFields: (fields: Partial<FormData>) => void;
 };
-
+const stepName = "portfolio";
 const PortfolioForm: React.FC<FormProps> = ({
   portfolioValue,
   updateFields,
+  listMode,
 }) => {
-  const content = stepsMap.get("portfolio");
+  const content = stepsMap.get(stepName);
+  const onChange = () => {
+    updateFields({ portfolioValue: !portfolioValue });
+  };
   return (
-    <WizardFormStep {...{ title: content?.title, body: content?.body }}>
-      <div className={styles.formContainer}>
-        <label className={styles.question} htmlFor="github">
-          {content?.question}
-        </label>
-        <input
-          className={styles.checkbox}
-          type="checkbox"
-          name="github"
-          checked={portfolioValue}
-          onChange={(e) => {
-            updateFields({ portfolioValue: !portfolioValue });
-          }}
-        />
-      </div>
+    <WizardFormStep
+      {...{ title: content?.title, body: content?.body, listMode }}
+    >
+      <CheckboxForm
+        {...{
+          listMode,
+          name: stepName,
+          onChange,
+          checked: portfolioValue,
+          question: content?.question ?? "question not passed",
+        }}
+      />
     </WizardFormStep>
   );
 };
