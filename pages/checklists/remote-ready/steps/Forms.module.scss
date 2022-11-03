@@ -1,0 +1,17 @@
+@import "../../../../styles/colors";
+
+.formContainer {
+  align-items: center;
+  background-color: $lightBlack;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 20px;
+}
+.question {
+  font-size: 1.5rem;
+}
+.checkbox {
+  height: 2rem;
+  width: 2rem;
+}

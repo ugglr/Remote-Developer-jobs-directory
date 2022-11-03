@@ -1,14 +1,38 @@
+import { ReactNode } from "react";
+
 import styles from "./WizardCard.module.scss";
 
 type Props = {
-  title: string;
-  body: string;
+  step: ReactNode;
+  isFirstStep: boolean;
+  isLastStep: boolean;
+  onBack: () => void;
 };
-const WizardCard: React.FC<Props> = ({ title, body }) => {
+const WizardCard: React.FC<Props> = ({
+  step,
+  onBack,
+  isFirstStep,
+  isLastStep,
+}) => {
   return (
     <div className={styles.container}>
-      <h2>{title}</h2>
-      <p>{body}</p>
+      {step}
+
+      <div className={styles.btnContainer}>
+        {!isFirstStep ? (
+          <button className={styles.backBtn} type="button" onClick={onBack}>
+            ← back
+          </button>
+        ) : (
+          <div />
+        )}
+        <button
+          className={[styles.btn, isLastStep && styles.btnFinish].join(" ")}
+          type="submit"
+        >
+          {isLastStep ? "Finish ✓" : "Next step →"}
+        </button>
+      </div>
     </div>
   );
 };

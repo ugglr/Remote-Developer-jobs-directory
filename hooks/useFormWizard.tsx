@@ -34,5 +34,7 @@ export const useFormWizard = (steps: ReactElement[]) => {
     next,
     back,
     goTo,
+    isLastStep: currentIndex === steps.length - 1,
+    isFirstStep: currentIndex === 0,
   };
 };
