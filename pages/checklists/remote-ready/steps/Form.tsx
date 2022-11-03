@@ -1,5 +1,5 @@
 import WizardFormStep from "../../components/WizardFormStep";
-import { stepsMap } from "../steps";
+import { stepsMap } from "../../../../content/checklists/remoteReady";
 import CheckboxForm from "./CheckboxForm";
 
 type FormProps = {
