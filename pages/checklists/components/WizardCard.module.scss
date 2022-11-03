@@ -1,0 +1,44 @@
+@import "../../../styles/colors";
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem;
+  background-color: $offBlack;
+  border-radius: 20px;
+  width: 70%;
+}
+
+.btnContainer {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3rem;
+}
+
+.btn {
+  font-size: 1.5rem;
+  background-color: $purple;
+  padding: 1.3rem;
+  border-radius: 20px;
+}
+.btn:hover {
+  background-color: $lightPurple;
+}
+.btnFinish {
+  background-color: $pink;
+}
+.btnFinish:hover {
+  background-color: $purple;
+}
+.backBtn {
+  background-color: $lightBlack;
+  border: 2px solid transparent;
+  height: 60px;
+  width: 90px;
+  border-radius: 20px;
+}
+.backBtn:hover {
+  border-color: $pink;
+}

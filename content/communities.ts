@@ -1,4 +1,4 @@
-const slackChannels: Array<{ name: string; body: string; url: string }> = [
+const communities: Array<{ name: string; body: string; url: string }> = [
   {
     name: "Remotive",
     body: "Paid community, but active and friendly, the founder is always out looking for new companies and quite a bit of recruiting people are sitting in the channels.",
@@ -7,7 +7,7 @@ const slackChannels: Array<{ name: string; body: string; url: string }> = [
   {
     name: "CodingCoach",
     body: "Not so much a community for job-hunting but a great place to find help from more experienced software developers.",
-    url: "https://join.slack.com/t/coding-coach/shared_invite/enQtNDYxNTcwMjk4MDcwLThiZjY1MTM2YTU1YzM2MGI1N2Y1NDI3ZGM1MGRhNjdiZjU0MzE1YjMxZjdlZmVlNDdhNmFhN2RhNGIxZmE1YTI",
+    url: "https://join.slack.com/t/coding-coach/shared_invite/zt-15kky1m4x-JrrLzQevCLkdyZiaqT_DTg",
   },
   {
     name: "DevChat",
@@ -21,4 +21,4 @@ const slackChannels: Array<{ name: string; body: string; url: string }> = [
   },
 ];
 
-export default slackChannels;
+export default communities;

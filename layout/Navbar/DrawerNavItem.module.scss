@@ -1,0 +1,13 @@
+@import "../../styles/colors";
+
+.container {
+  margin-bottom: 30px;
+}
+.container:hover {
+  .title {
+    color: $pink;
+  }
+}
+.title {
+  font-size: 10vw;
+}

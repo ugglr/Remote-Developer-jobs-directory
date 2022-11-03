@@ -3,25 +3,62 @@
 .hero {
   align-items: center;
   display: flex;
-  margin-top: 14vh;
+  margin-top: 8vh;
   justify-content: space-between;
 }
 .leftContainer {
   flex: 3;
 }
 .title {
-  font-size: 6vw;
+  font-size: 5rem;
 }
 
 .rightContainer {
+  align-items: center;
+  display: flex;
   flex: 1;
+  flex-direction: column;
 }
 
 .ghIcon {
   color: $purple;
-  font-size: 10vw;
+  font-size: 20rem;
+  //margin-bottom: 3rem;
 
   &:hover {
     color: $pink;
+  }
+}
+
+.disclaimer {
+  color: $lightPurple;
+  font-size: 0.9rem;
+}
+
+@media only screen and (max-width: 975px) {
+  .title {
+    font-size: 4rem;
+  }
+  .ghIcon {
+    font-size: 15rem;
+  }
+}
+
+@media only screen and (max-width: 750px) {
+  .hero {
+    flex-direction: column-reverse;
+    justify-content: space-between;
+  }
+  .ghIcon {
+    margin-bottom: 2rem;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .title {
+    font-size: 2.5rem;
+  }
+  .ghIcon {
+    font-size: 8rem;
   }
 }

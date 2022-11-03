@@ -1,0 +1,14 @@
+@import "../../../styles/colors";
+
+.toggleBtnContainer {
+  display: flex;
+  margin-bottom: 2rem;
+}
+.btn {
+  padding: 1rem;
+  background-color: gray;
+  border-radius: 20px;
+}
+.btnActive {
+  background-color: $purple;
+}

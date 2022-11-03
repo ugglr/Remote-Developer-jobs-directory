@@ -1,0 +1,31 @@
+@import "../../../../styles/colors";
+
+.formContainer {
+  align-items: center;
+  background-color: $lightBlack;
+  border: 2px solid transparent;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border-radius: 20px;
+}
+.checkedFormContainer {
+  border-color: green;
+}
+.listModeFormContainer {
+  padding: 0.5rem 1rem;
+}
+.question {
+  font-size: 1.5rem;
+}
+.listModeQuestion {
+  font-size: 1.1rem;
+}
+.checkbox {
+  height: 2rem;
+  width: 2rem;
+}
+.listModeCheckbox {
+  height: 1.5rem;
+  width: 1.5rem;
+}
