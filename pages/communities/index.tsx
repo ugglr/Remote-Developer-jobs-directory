@@ -3,7 +3,7 @@ import Head from "next/head";
 import Card from "../../components/Card";
 import PageHero from "../../components/PageHero";
 
-import { freelancePlatforms, jobBoards, slackChannels } from "../../content";
+import { communities } from "../../content";
 
 import styles from "../../styles/Home.module.scss";
 
@@ -25,7 +25,7 @@ const CommunitiesPage: NextPage = () => (
       />
 
       <div className={styles.listContainer}>
-        {slackChannels.map(({ name, body, url }) => (
+        {communities.map(({ name, body, url }) => (
           <Card key={name} {...{ title: name, body, link: url }} />
         ))}
       </div>
