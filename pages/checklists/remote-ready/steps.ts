@@ -90,7 +90,7 @@ export const stepsMap = new Map<string, Step>([
     {
       title: "Energy",
       body: "You want to send a lot of positive energy to the person you are talking to. You have to be interested in what you do and like to talk about things related to the field. Don't be a bigot, asshole, racist, or show other negative characteristics. At least pretend...",
-      question: "",
+      question: "Are you able to send positive energy through a computer?",
     },
   ],
   [

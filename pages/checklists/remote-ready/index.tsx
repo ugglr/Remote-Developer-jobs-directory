@@ -4,20 +4,9 @@ import { FormEvent, useState } from "react";
 import PageHero from "../../../components/PageHero";
 import { useFormWizard } from "../../../hooks/useFormWizard";
 import WizardCard from "../components/WizardCard";
-import BlogForm from "./steps/BlogForm";
-import CommunicationForm from "./steps/CommunicationForm";
-import EnergyForm from "./steps/EnergyForm";
-import EnvironmentForm from "./steps/EnvironmentForm";
-import GithubForm from "./steps/GithubForm";
-import InternetForm from "./steps/InternetForm";
-import MindsetForm from "./steps/MindsetForm";
-import OpenSourceForm from "./steps/OpenSourceForm";
-import PortfolioForm from "./steps/PortfolioForm";
-import ResponsivenessForm from "./steps/ResponsivenessForm";
-import ScreenSharingForm from "./steps/ScreenSharingForm";
-import VoiceQualityForm from "./steps/VoiceQualityForm";
 
 import styles from "./RemoteReadyChecklist.module.scss";
+import Form from "./steps/Form";
 
 type FormData = {
   githubValue: boolean;
@@ -58,21 +47,97 @@ const RemoteReadyChecklist: NextPage = () => {
     });
   }
 
-  // Position in the array determines the step position in the wizard.
-  const forms = [
-    <GithubForm key="1" {...{ updateFields, ...data, listMode }} />,
-    <OpenSourceForm key="2" {...{ updateFields, ...data, listMode }} />,
-    <PortfolioForm key="3" {...{ updateFields, ...data, listMode }} />,
-    <BlogForm key="4" {...{ updateFields, ...data, listMode }} />,
-    <InternetForm key="5" {...{ updateFields, ...data, listMode }} />,
-    <ScreenSharingForm key="6" {...{ updateFields, ...data, listMode }} />,
-    <CommunicationForm key="7" {...{ updateFields, ...data, listMode }} />,
-    <ResponsivenessForm key="8" {...{ updateFields, ...data, listMode }} />,
-    <EnvironmentForm key="9" {...{ updateFields, ...data, listMode }} />,
-    <VoiceQualityForm key="10" {...{ updateFields, ...data, listMode }} />,
-    <EnergyForm key="11" {...{ updateFields, ...data, listMode }} />,
-    <MindsetForm key="12" {...{ updateFields, ...data, listMode }} />,
+  const formConfig = [
+    {
+      stepName: "github",
+      onChange: () => {
+        updateFields({ githubValue: !data.githubValue });
+      },
+      checked: data.githubValue,
+    },
+    {
+      stepName: "open-source",
+      onChange: () => {
+        updateFields({ openSourceValue: !data.openSourceValue });
+      },
+      checked: data.openSourceValue,
+    },
+    {
+      stepName: "portfolio",
+      onChange: () => {
+        updateFields({ portfolioValue: !data.portfolioValue });
+      },
+      checked: data.portfolioValue,
+    },
+    {
+      stepName: "blog",
+      onChange: () => {
+        updateFields({ blogValue: !data.blogValue });
+      },
+      checked: data.blogValue,
+    },
+    {
+      stepName: "internet",
+      onChange: () => {
+        updateFields({ internetValue: !data.internetValue });
+      },
+      checked: data.internetValue,
+    },
+    {
+      stepName: "screen-sharing",
+      onChange: () => {
+        updateFields({ screenSharingValue: !data.screenSharingValue });
+      },
+      checked: data.screenSharingValue,
+    },
+    {
+      stepName: "communication",
+      onChange: () => {
+        updateFields({ communicationValue: !data.communicationValue });
+      },
+      checked: data.communicationValue,
+    },
+    {
+      stepName: "responsiveness",
+      onChange: () => {
+        updateFields({ responsivenessValue: !data.responsivenessValue });
+      },
+      checked: data.responsivenessValue,
+    },
+    {
+      stepName: "environment",
+      onChange: () => {
+        updateFields({ environmentValue: !data.environmentValue });
+      },
+      checked: data.environmentValue,
+    },
+    {
+      stepName: "voice-quality",
+      onChange: () => {
+        updateFields({ voiceQualityValue: !data.voiceQualityValue });
+      },
+      checked: data.voiceQualityValue,
+    },
+    {
+      stepName: "energy",
+      onChange: () => {
+        updateFields({ energyValue: !data.energyValue });
+      },
+      checked: data.energyValue,
+    },
+    {
+      stepName: "mindset",
+      onChange: () => {
+        updateFields({ mindsetValue: !data.mindsetValue });
+      },
+      checked: data.mindsetValue,
+    },
   ];
+
+  // Position in the array determines the step position in the wizard.
+  const forms = formConfig.map(({ stepName, onChange, checked }) => (
+    <Form key={stepName} {...{ stepName, onChange, checked, listMode }} />
+  ));
 
   const { step, next, back, isFirstStep, isLastStep } = useFormWizard(forms);
 
