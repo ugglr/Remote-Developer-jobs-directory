@@ -1,0 +1,27 @@
+@import "../../styles/colors";
+
+.copyrightContainer {
+  align-items: center;
+  display: flex;
+  margin-top: 10vh;
+}
+
+.copyText {
+  font-size: 1.2rem;
+}
+
+.tsIcon {
+  color: $typescript;
+  font-size: 2rem;
+  margin: 0 1rem;
+}
+
+.ghIcon {
+  color: $purple;
+  font-size: 3rem;
+  margin: 0 1rem;
+
+  &:hover {
+    color: $pink;
+  }
+}

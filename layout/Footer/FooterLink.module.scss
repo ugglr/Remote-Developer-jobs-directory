@@ -1,0 +1,9 @@
+@import "../../styles/colors";
+
+.title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+.title:hover {
+  color: $pink;
+}
