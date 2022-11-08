@@ -1,5 +1,5 @@
 import styles from "./Footer.module.scss";
-import Copyright from "./CopyRight";
+import Copyright from "./Copyright";
 import FooterLink from "./FooterLink";
 import { FiGitPullRequest } from "react-icons/fi";
 
@@ -24,8 +24,17 @@ const Footer: React.FC = () => (
         </div>
       </div>
       <div className={styles.rightContent}>
-        <FiGitPullRequest />
-        <h3>Issues welcome!</h3>
+        <a
+          href="https://github.com/ugglr/Remote-Junior-Developer-jobs-directory/issues"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <div className={styles.circle}>
+            <FiGitPullRequest className={styles.prIcon} />
+            <h3 className={styles.prText}>issues</h3>
+            <h3 className={styles.prText}>welcome</h3>
+          </div>
+        </a>
       </div>
     </div>
 

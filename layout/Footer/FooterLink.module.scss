@@ -2,8 +2,14 @@
 
 .title {
   font-size: 2rem;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 .title:hover {
   color: $pink;
+}
+
+@media only screen and (max-width: 800px) {
+  .title {
+    font-size: 1.5rem;
+  }
 }

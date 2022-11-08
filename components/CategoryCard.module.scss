@@ -53,3 +53,9 @@
     width: 80vw;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .content {
+    width: 90vw;
+  }
+}

@@ -58,3 +58,9 @@
     display: inline;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .container {
+    width: 90vw;
+  }
+}

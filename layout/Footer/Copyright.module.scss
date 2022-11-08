@@ -25,3 +25,17 @@
     color: $pink;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .copyText {
+    font-size: 0.8rem;
+  }
+  .tsIcon {
+    font-size: 1.2rem;
+    margin: 0 0.5rem;
+  }
+  .ghIcon {
+    font-size: 1.5rem;
+    margin: 0 0.5rem;
+  }
+}
