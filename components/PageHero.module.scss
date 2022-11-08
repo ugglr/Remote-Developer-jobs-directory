@@ -27,3 +27,12 @@
     max-width: 100%;
   }
 }
+
+@media only screen and (max-width: 450px) {
+  .title {
+    font-size: 2.8rem;
+  }
+  .subtitle {
+    font-size: 1.2rem;
+  }
+}
