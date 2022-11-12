@@ -1,4 +1,5 @@
 ---
+# use this template when adding a new company in the companies folder.
 # Put null if unknown or N/A
 name: Company name
 hq: location of company HQ.

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Company } from "../pages/companies";
+import { Company } from "../pages/remote-companies";
 import styles from "./Card.module.scss";
 
 type Props = {
