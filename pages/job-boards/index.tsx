@@ -9,7 +9,7 @@ import styles from "../../styles/Home.module.scss";
 const JobBoardsPage: NextPage = () => (
   <div>
     <Head>
-      <title>Remote junior developer jobs director | job boards.</title>
+      <title>Remote junior developer jobs directory | job boards.</title>
       <meta
         name="description"
         content="Looking for remote software engineering jobs? List of job boards to find remote positions."

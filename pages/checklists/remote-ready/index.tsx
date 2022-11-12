@@ -151,7 +151,7 @@ const RemoteReadyChecklist: NextPage = () => {
     <div>
       <Head>
         <title>
-          Remote junior developer jobs director | Remote Ready Checklist
+          Remote junior developer jobs directory | Remote Ready Checklist
         </title>
         <meta
           name="description"

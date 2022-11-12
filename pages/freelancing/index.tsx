@@ -9,7 +9,7 @@ import styles from "../../styles/Home.module.scss";
 const FreelancingPage: NextPage = () => (
   <div>
     <Head>
-      <title>Remote junior developer jobs director | freelancing.</title>
+      <title>Remote junior developer jobs directory | freelancing.</title>
       <meta
         name="description"
         content="Are you looking for remote freelancing opportunites? List of freelancing platforms."
