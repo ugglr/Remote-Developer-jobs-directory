@@ -1,7 +1,5 @@
 <h1>Remote Junior Developer jobs directory</h1>
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b16faaa0-8b33-4a38-80a8-f859b108290e/deploy-status)](https://app.netlify.com/sites/remotejuniorjobs/deploys)
-
 <h3>The whole point of this repo is to list information about getting a remote job as a junior developer</h3>
 
 <h2>Checklist</h2>
