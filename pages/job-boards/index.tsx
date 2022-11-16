@@ -1,12 +1,22 @@
 import { NextPage } from "next";
+import path from "path";
+import fs from "fs";
+import matter from "gray-matter";
 import Head from "next/head";
 import Card from "../../components/Card";
 import PageHero from "../../components/PageHero";
-import { jobBoards } from "../../content";
 
 import styles from "../../styles/Home.module.scss";
 
-const JobBoardsPage: NextPage = () => (
+type JobBoard = {
+  name: string;
+  description: string;
+  url: string;
+};
+type Props = {
+  jobBoards: JobBoard[];
+};
+const JobBoardsPage: NextPage<Props> = ({ jobBoards = [] }) => (
   <div>
     <Head>
       <title>Remote junior developer jobs directory | job boards.</title>
@@ -24,8 +34,8 @@ const JobBoardsPage: NextPage = () => (
       />
 
       <div className={styles.listContainer}>
-        {jobBoards.map(({ name, body, url }) => (
-          <Card key={name} {...{ title: name, body, link: url }} />
+        {jobBoards.map(({ name, description, url }) => (
+          <Card key={name} {...{ title: name, body: description, link: url }} />
         ))}
       </div>
     </main>
@@ -33,3 +43,36 @@ const JobBoardsPage: NextPage = () => (
 );
 
 export default JobBoardsPage;
+
+export async function getStaticProps() {
+  const contentFolder = "jobBoards";
+  const contentPath = `content/${contentFolder}`;
+  // get files from the companies directory
+  const files = fs.readdirSync(path.join(contentPath));
+
+  // get front-matter from the files.
+  // in the future might be interesting to create individual
+  // pages for each platform with slug.
+  const jobBoards = files.map((filename) => {
+    // get front-matter
+    const markdownWithMeta = fs.readFileSync(
+      path.join(contentPath, filename),
+      "utf-8"
+    );
+
+    const { data } = matter(markdownWithMeta);
+    const { name, description, url } = data;
+
+    return {
+      name,
+      description,
+      url,
+    };
+  });
+
+  return {
+    props: {
+      jobBoards,
+    },
+  };
+}
