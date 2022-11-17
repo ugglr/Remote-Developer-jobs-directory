@@ -1,0 +1,25 @@
+@import "../../../styles/colors";
+
+.container {
+  display: flex;
+  flex-direction: row;
+  padding-top: 1rem;
+}
+
+.iconContainer {
+  border: 5px solid $purple;
+  border-radius: 50%;
+  padding: 2rem;
+}
+.icon {
+  color: $pink;
+  font-size: 4rem;
+}
+.iconContainer:hover {
+  background-color: $lightBlack;
+  border-color: $pink;
+
+  .icon {
+    color: $white;
+  }
+}
