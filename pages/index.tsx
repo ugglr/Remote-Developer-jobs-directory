@@ -40,7 +40,7 @@ const Home: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>Remote junior developer jobs directory | home.</title>
+        <title>Remote developer jobs directory | home.</title>
         <meta
           name="description"
           content="Usefull resources to find a remote software developer job."

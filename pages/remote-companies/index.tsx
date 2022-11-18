@@ -24,9 +24,7 @@ const RemoteCompaniesPage: NextPage<Props> = ({ companies }) => {
   return (
     <div>
       <Head>
-        <title>
-          Remote junior developer jobs directory | remote companies.
-        </title>
+        <title>Remote developer jobs directory | remote companies.</title>
         <meta
           name="description"
           content="Looking for companies that work remotely? Look no further."

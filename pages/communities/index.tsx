@@ -19,7 +19,7 @@ type Props = {
 const CommunitiesPage: NextPage<Props> = ({ communities }) => (
   <div>
     <Head>
-      <title>Remote junior developer jobs directory | communities.</title>
+      <title>Remote developer jobs directory | communities.</title>
       <meta
         name="description"
         content="Looking for online software communites? List of communities to help you in your coding journey."
