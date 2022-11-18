@@ -1,8 +1,8 @@
 ---
 name: Axelerant
 hq: null
-url: https://www.axelerant.com/careers
-careersUrl: https://www.axelerant.com/careers
+url: https://axelerant.com/careers
+careersUrl: https://axelerant.com/careers
 remoteModel: full
 timezone: null
 description: null

@@ -1,8 +1,8 @@
 ---
 name: CRO Metrics
 hq: null
-url: http://crometrics.com
-careersUrl: http://crometrics.com/jobs
+url: https://crometrics.com
+careersUrl: https://crometrics.com/jobs
 remoteModel: null
 timezone: null
 description: Data-driven expirementation and growth programs.

@@ -1,8 +1,8 @@
 ---
 name: Honeybadger
 hq: null
-url: https://www.honeybadger.io/
-careersUrl: https://www.honeybadger.io
+url: https://honeybadger.io/
+careersUrl: https://honeybadger.io
 remoteModel: null
 timezone: null
 description: Ruby. 100% remote.

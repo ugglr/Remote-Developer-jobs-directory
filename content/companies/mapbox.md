@@ -1,8 +1,8 @@
 ---
 name: MapBox
 hq: null
-url: https://www.mapbox.com
-careersUrl: https://www.mapbox.com/jobs
+url: https://mapbox.com
+careersUrl: https://mapbox.com/jobs
 remoteModel: null
 timezone: null
 description: Map integration tools for various platforms.

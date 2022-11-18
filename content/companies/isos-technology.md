@@ -1,7 +1,7 @@
 ---
 name: Isos Technology
 hq: null
-url: https://www.isostech.com/
+url: https://isostech.com/
 careersUrl: https://careers.isostech.com
 remoteModel: null
 timezone: null

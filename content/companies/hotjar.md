@@ -1,7 +1,7 @@
 ---
 name: Hotjar
 hq: null
-url: https://www.hotjar.com
+url: https://hotjar.com
 careersUrl: https://careers.hotjar.com
 remoteModel: null
 timezone: null

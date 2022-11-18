@@ -1,7 +1,7 @@
 ---
 name: Opencraft
 hq: null
-url: http://opencraft.com
+url: https://opencraft.com
 careersUrl: https://opencraft.com/jobs
 remoteModel: null
 timezone: null

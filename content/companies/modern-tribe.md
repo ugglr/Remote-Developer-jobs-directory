@@ -1,7 +1,7 @@
 ---
 name: Modern Tribe
 hq: null
-url: http://tri.be
+url: https://tri.be
 careersUrl: https://tri.be/careers
 remoteModel: full
 timezone: null

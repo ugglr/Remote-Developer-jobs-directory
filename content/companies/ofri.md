@@ -1,7 +1,7 @@
 ---
 name: Ofri
 hq: null
-url: https://www.ofri.ch
+url: https://ofri.ch
 careersUrl: https://blog.ofri.ch/careers
 remoteModel: full
 timezone: null

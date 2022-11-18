@@ -1,7 +1,7 @@
 ---
 name: Pleo
 hq: null
-url: https://www.pleo.io
+url: https://pleo.io
 careersUrl: https://careers.pleo.io
 remoteModel: null
 timezone: null

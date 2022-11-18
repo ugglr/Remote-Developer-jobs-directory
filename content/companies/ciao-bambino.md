@@ -1,7 +1,7 @@
 ---
 name: Ciao Bambino
 hq: null
-url: http://ciaobambino.com
+url: https://ciaobambino.com
 careersUrl: https://ciaobambino.com/careers
 remoteModel: null
 timezone: null

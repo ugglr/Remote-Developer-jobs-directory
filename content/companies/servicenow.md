@@ -1,7 +1,7 @@
 ---
 name: ServiceNow
 hq: null
-url: https://www.servicenow.com/
+url: https://servicenow.com/
 careersUrl: https://careers.servicenow.com/careers
 remoteModel: null
 timezone: null
