@@ -1,4 +1,5 @@
 import { FiGithub } from "react-icons/fi";
+import { repoUrl } from "../../../constants";
 
 import styles from "./Hero.module.scss";
 
@@ -10,11 +11,7 @@ const Hero = () => (
       <h1 className={styles.title}>Jobs directory.</h1>
     </div>
     <div className={styles.rightContainer}>
-      <a
-        href="https://github.com/ugglr/Remote-Junior-Developer-jobs-directory"
-        target="_blank"
-        rel="noreferrer"
-      >
+      <a href={`${repoUrl}`} target="_blank" rel="noreferrer">
         <FiGithub className={styles.ghIcon} />
       </a>
     </div>
