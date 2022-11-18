@@ -1,7 +1,7 @@
 ---
 name: Thermeon
 hq: null
-url: http://thermeon.com
+url: https://thermeon.com
 careersUrl: https://thermeon.com/vacancies
 remoteModel: full
 timezone: null

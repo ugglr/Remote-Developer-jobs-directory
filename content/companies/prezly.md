@@ -1,7 +1,7 @@
 ---
 name: Prezly
 hq: null
-url: https://www.prezly.com
+url: https://prezly.com
 careersUrl: https://careers.prezly.com
 remoteModel: full
 timezone: null

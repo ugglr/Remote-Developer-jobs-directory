@@ -1,7 +1,7 @@
 ---
 name: Canonical
 hq: null
-url: https://www.canonical.com
+url: https://canonical.com
 careersUrl: https://canonical.com/careers/all
 remoteModel: null
 timezone: null

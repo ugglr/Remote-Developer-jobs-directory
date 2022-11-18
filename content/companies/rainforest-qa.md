@@ -1,7 +1,7 @@
 ---
 name: RainforestQA
 hq: null
-url: https://www.rainforestqa.com
+url: https://rainforestqa.com
 careersUrl: https://jobs.lever.co/rainforest
 remoteModel: null
 timezone: null

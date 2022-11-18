@@ -1,7 +1,7 @@
 ---
 name: Datadog
 hq: null
-url: https://www.datadoghq.com
+url: https://datadoghq.com
 careersUrl: https://careers.datadoghq.com
 remoteModel: null
 timezone: null

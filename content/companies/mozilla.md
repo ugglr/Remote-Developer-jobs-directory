@@ -1,7 +1,7 @@
 ---
 name: Mozilla
 hq: null
-url: https://www.mozilla.org
+url: https://mozilla.org
 careersUrl: https://careers.mozilla.org
 remoteModel: null
 timezone: null

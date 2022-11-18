@@ -1,7 +1,7 @@
 ---
 name: Rebel Mouse
 hq: null
-url: https://www.rebelmouse.com
+url: https://rebelmouse.com
 careersUrl: https://careers.rebelmouse.com/
 remoteModel: null
 timezone: null
