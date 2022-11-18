@@ -19,7 +19,7 @@ type Props = {
 const FreelancingPage: NextPage<Props> = ({ freelancePlatforms }) => (
   <div>
     <Head>
-      <title>Remote junior developer jobs directory | freelancing.</title>
+      <title>Remote developer jobs directory | freelancing.</title>
       <meta
         name="description"
         content="Are you looking for remote freelancing opportunites? Here is a list of freelancing platforms."

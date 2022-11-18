@@ -150,9 +150,7 @@ const RemoteReadyChecklist: NextPage = () => {
   return (
     <div>
       <Head>
-        <title>
-          Remote junior developer jobs directory | Remote Ready Checklist
-        </title>
+        <title>Remote developer jobs directory | Remote Ready Checklist</title>
         <meta
           name="description"
           content="Check the list if you are remote ready"

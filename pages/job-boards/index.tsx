@@ -19,7 +19,7 @@ type Props = {
 const JobBoardsPage: NextPage<Props> = ({ jobBoards = [] }) => (
   <div>
     <Head>
-      <title>Remote junior developer jobs directory | job boards.</title>
+      <title>Remote developer jobs directory | job boards.</title>
       <meta
         name="description"
         content="Looking for remote software engineering jobs? List of job boards to find remote positions."
