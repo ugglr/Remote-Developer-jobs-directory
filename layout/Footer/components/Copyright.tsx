@@ -1,5 +1,6 @@
 import { FiGithub } from "react-icons/fi";
 import { SiTypescript } from "react-icons/si";
+import { repoUrl } from "../../../constants";
 
 import styles from "./Copyright.module.scss";
 
@@ -8,7 +9,7 @@ const Copyright = () => (
     <p className={styles.copyText}>Built with</p>
     <SiTypescript className={styles.tsIcon} />
     <p className={styles.copyText}>and ☕️. Open-sourced at</p>
-    <a href="https://github.com/ugglr/Remote-Junior-Developer-jobs-directory">
+    <a href={`${repoUrl}`}>
       <FiGithub className={styles.ghIcon} />
     </a>
   </div>
