@@ -41,6 +41,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>Remote Circle: https://remotecircle.com/</li>
   <li>Employ Remotely: https://employremotely.com/</li>
   <li>4 day week: https://4dayweek.io/</li>
+  <li>Findjobit: https://findjobit.com/jobs</li>
 </ul>
 
 <h2>Placement consultancies</h2>
