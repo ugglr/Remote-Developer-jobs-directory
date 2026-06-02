@@ -43,6 +43,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>4 day week: https://4dayweek.io/</li>
   <li>Findjobit: https://findjobit.com/jobs</li>
   <li>Agentic Engineering Jobs: https://agentic-engineering-jobs.com (job board for engineers building agentic systems — RAG, AI agents, LLM-powered products, agent orchestration)</li>
+  <li>FoundRole: https://www.foundrole.com (free AI job search with a Kanban tracker and career tools)</li>
 </ul>
 
 <h2>Placement consultancies</h2>
