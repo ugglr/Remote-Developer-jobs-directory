@@ -1,3 +1,8 @@
+<p align="center">
+  <sub>Sponsored by</sub><br>
+  <a href="https://crabstack.dev/?utm_source=github&utm_medium=sponsor&utm_campaign=remote-developer-jobs-directory"><img src="assets/crabstack-sponsor.svg" width="480" alt="CrabStack, the full-stack template made for AI agents. Get CrabStack at crabstack.dev"></a>
+</p>
+
 <h1>Remote Junior Developer jobs directory</h1>
 
 <h3>The whole point of this repo is to list information about getting a remote job as a junior developer</h3>
