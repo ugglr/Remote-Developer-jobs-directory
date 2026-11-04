@@ -110,6 +110,12 @@ Things you can do to increase your chance of success. Making an effort on these 
 
 <h2>Great Resources</h2>
 
+<strong>Career Tools</strong>
+
+<ul>
+  <li><a href="https://www.jobemerge.work">JobEmerge</a> - AI career copilot: job-fit test, 19-language resume translator, Markdown editor. One-time pricing, no auto-renewal.</li>
+</ul>
+
 <strong>Twitter Accounts</strong>
 
 <p>Please check @hackSultan Twitter and his article over at this <a href="https://scotch.io/bar-talk/the-top-tech-people-to-follow-on-twitter-for-your-stack">link.</a> Also a huge thank you for letting me share it on the repo!</p>
