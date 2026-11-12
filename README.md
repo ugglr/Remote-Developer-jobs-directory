@@ -51,6 +51,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li>Agentic Engineering Jobs: https://agentic-engineering-jobs.com (job board for engineers building agentic systems — RAG, AI agents, LLM-powered products, agent orchestration)</li>
   <li>FoundRole: https://www.foundrole.com (free AI job search with a Kanban tracker and career tools)</li>
   <li>Jobs in JS: https://jobsinjs.com/remote-javascript-jobs/ (remote JavaScript jobs)</li>
+  <li>HeyRole: https://heyrole.ai/ (remote jobs with location and role filters, an AI job-search assistant, and original posting links)</li>
 </ul>
 
 <h2>Placement consultancies</h2>
