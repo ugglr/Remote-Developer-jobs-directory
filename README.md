@@ -185,6 +185,7 @@ Things you can do to increase your chance of success. Making an effort on these 
   <li><a href="https://x.com/jessicaewest">@jessicaewest</a></li>
   <li><a href="https://x.com/mastashake08">@mastashake08</a></li>
   <li><a href="https://x.com/taylorotwell">@taylorotwell</a></li>
+  <li><a href="https://x.com/laravel">@laravel</a></li>
   <li><a href="https://x.com/driesvints">@driesvints</a></li>
   <li><a href="https://x.com/nodejs">@nodejs</a></li>
 </ul>
