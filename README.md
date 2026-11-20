@@ -102,6 +102,200 @@ Things you can do to increase your chance of success. Making an effort on these 
 
 <h2>Great Resources</h2>
 
+<strong>X (Twitter) Accounts</strong>
+
+<p>Originally compiled by <a href="https://x.com/hackSultan">@hackSultan</a>. Trimmed in November 2026 to accounts that still exist and posted in the last six months.</p>
+
+<strong>Frontend: React</strong>
+
+<ul>
+  <li><a href="https://x.com/TejasKumar_">@TejasKumar_</a></li>
+  <li><a href="https://x.com/kentcdodds">@kentcdodds</a></li>
+  <li><a href="https://x.com/ParissAthena">@ParissAthena</a></li>
+  <li><a href="https://x.com/stolinski">@stolinski</a></li>
+  <li><a href="https://x.com/jamesqquick">@jamesqquick</a></li>
+  <li><a href="https://x.com/chrisoncode">@chrisoncode</a></li>
+  <li><a href="https://x.com/traversymedia">@traversymedia</a></li>
+  <li><a href="https://x.com/jsjoeio">@jsjoeio</a></li>
+  <li><a href="https://x.com/ireaderinokun">@ireaderinokun</a></li>
+  <li><a href="https://x.com/samwightt">@samwightt</a></li>
+  <li><a href="https://x.com/AdamRackis">@AdamRackis</a></li>
+  <li><a href="https://x.com/djcp86">@djcp86</a></li>
+  <li><a href="https://x.com/znck0">@znck0</a></li>
+  <li><a href="https://x.com/bytenaija">@bytenaija</a></li>
+</ul>
+
+<strong>Frontend: Angular</strong>
+
+<ul>
+  <li><a href="https://x.com/jdjuan">@jdjuan</a></li>
+  <li><a href="https://x.com/saniyusuf">@saniyusuf</a></li>
+  <li><a href="https://x.com/iNidAName">@iNidAName</a></li>
+  <li><a href="https://x.com/ashnita01">@ashnita01</a></li>
+  <li><a href="https://x.com/triple0t">@triple0t</a></li>
+  <li><a href="https://x.com/ladyleet">@ladyleet</a></li>
+  <li><a href="https://x.com/DeborahKurata">@DeborahKurata</a></li>
+  <li><a href="https://x.com/AnaCidre_">@AnaCidre_</a></li>
+  <li><a href="https://x.com/sherrrylst">@sherrrylst</a></li>
+  <li><a href="https://x.com/KimMaida">@KimMaida</a></li>
+  <li><a href="https://x.com/psybercity">@psybercity</a></li>
+</ul>
+
+<strong>Frontend / Mobile: ReactNative</strong>
+
+<ul>
+  <li><a href="https://x.com/ParissAthena">@ParissAthena</a></li>
+  <li><a href="https://x.com/Dayhaysoos">@Dayhaysoos</a></li>
+  <li><a href="https://x.com/jamonholmgren">@jamonholmgren</a></li>
+  <li><a href="https://x.com/sebmck">@sebmck</a></li>
+  <li><a href="https://x.com/notbrent">@notbrent</a></li>
+  <li><a href="https://x.com/Eli_White">@Eli_White</a></li>
+  <li><a href="https://x.com/erinfoox">@erinfoox</a></li>
+  <li><a href="https://x.com/gethackteam">@gethackteam</a></li>
+  <li><a href="https://x.com/jstheoriginal">@jstheoriginal</a></li>
+  <li><a href="https://x.com/janicduplessis">@janicduplessis</a></li>
+</ul>
+
+<strong>Java / Android Devs</strong>
+
+<ul>
+  <li><a href="https://x.com/techgirl1908">@techgirl1908</a></li>
+  <li><a href="https://x.com/eMalaGupta">@eMalaGupta</a></li>
+  <li><a href="https://x.com/jsjoeio">@jsjoeio</a></li>
+  <li><a href="https://x.com/Atomikos">@Atomikos</a></li>
+  <li><a href="https://x.com/java">@java</a></li>
+</ul>
+
+<strong>Game Dev: Unity and C#</strong>
+
+<ul>
+  <li><a href="https://x.com/fafnir">@fafnir</a></li>
+  <li><a href="https://x.com/sh4na">@sh4na</a></li>
+  <li><a href="https://x.com/vbandi">@vbandi</a></li>
+  <li><a href="https://x.com/rschu">@rschu</a></li>
+</ul>
+
+<strong>Backend Php: Laravel, node</strong>
+
+<ul>
+  <li><a href="https://x.com/unicodeveloper">@unicodeveloper</a></li>
+  <li><a href="https://x.com/tripletenkc">@tripletenkc</a></li>
+  <li><a href="https://x.com/NeoIghodaro">@NeoIghodaro</a></li>
+  <li><a href="https://x.com/matteocollina">@matteocollina</a></li>
+  <li><a href="https://x.com/jessicaewest">@jessicaewest</a></li>
+  <li><a href="https://x.com/mastashake08">@mastashake08</a></li>
+  <li><a href="https://x.com/taylorotwell">@taylorotwell</a></li>
+  <li><a href="https://x.com/driesvints">@driesvints</a></li>
+  <li><a href="https://x.com/nodejs">@nodejs</a></li>
+</ul>
+
+<strong>UI / UX</strong>
+
+<ul>
+  <li><a href="https://x.com/sarah_edo">@sarah_edo</a></li>
+  <li><a href="https://x.com/devdevcharlie">@devdevcharlie</a></li>
+  <li><a href="https://x.com/iambolajiayo">@iambolajiayo</a></li>
+</ul>
+
+<strong>Python Dev</strong>
+
+<ul>
+  <li><a href="https://x.com/moshhamedani">@moshhamedani</a></li>
+  <li><a href="https://x.com/charliecodes">@charliecodes</a></li>
+  <li><a href="https://x.com/marlene_zw">@marlene_zw</a></li>
+  <li><a href="https://x.com/dbader_org">@dbader_org</a></li>
+  <li><a href="https://x.com/VishwaMehta30">@VishwaMehta30</a></li>
+  <li><a href="https://x.com/ThePSF">@ThePSF</a></li>
+</ul>
+
+<strong>Data Science</strong>
+
+<ul>
+  <li><a href="https://x.com/bayoadekanmbi">@bayoadekanmbi</a></li>
+  <li><a href="https://x.com/JamesOyanna">@JamesOyanna</a></li>
+  <li><a href="https://x.com/calmtuna">@calmtuna</a></li>
+</ul>
+
+<strong>Full amazing stacks</strong>
+
+<ul>
+  <li><a href="https://x.com/techgirl1908">@techgirl1908</a></li>
+  <li><a href="https://x.com/TheEduardoRFS">@TheEduardoRFS</a></li>
+  <li><a href="https://x.com/sarah_edo">@sarah_edo</a></li>
+  <li><a href="https://x.com/wesbos">@wesbos</a></li>
+  <li><a href="https://x.com/codebeast">@codebeast</a></li>
+  <li><a href="https://x.com/ASpittel">@ASpittel</a></li>
+  <li><a href="https://x.com/ossia">@ossia</a></li>
+  <li><a href="https://x.com/shanselman">@shanselman</a></li>
+  <li><a href="https://x.com/jsjoeio">@jsjoeio</a></li>
+  <li><a href="https://x.com/ThugDebugger">@ThugDebugger</a></li>
+  <li><a href="https://x.com/theshalvah">@theshalvah</a></li>
+</ul>
+
+<strong>.Net Devs</strong>
+
+<ul>
+  <li><a href="https://x.com/davidfowl">@davidfowl</a></li>
+  <li><a href="https://x.com/DamianEdwards">@DamianEdwards</a></li>
+  <li><a href="https://x.com/migueldeicaza">@migueldeicaza</a></li>
+  <li><a href="https://x.com/DaraOladapo">@DaraOladapo</a></li>
+  <li><a href="https://x.com/davemccollough">@davemccollough</a></li>
+  <li><a href="https://x.com/JamesMontemagno">@JamesMontemagno</a></li>
+  <li><a href="https://x.com/dotnet">@dotnet</a></li>
+</ul>
+
+<strong>Tech Business Developers</strong>
+
+<ul>
+  <li><a href="https://x.com/Babajiide">@Babajiide</a></li>
+  <li><a href="https://x.com/nadayar">@nadayar</a></li>
+  <li><a href="https://x.com/tushgeek">@tushgeek</a></li>
+  <li><a href="https://x.com/francis_sani">@francis_sani</a></li>
+  <li><a href="https://x.com/iaboyeji">@iaboyeji</a></li>
+  <li><a href="https://x.com/senisulyman">@senisulyman</a></li>
+  <li><a href="https://x.com/markessien">@markessien</a></li>
+  <li><a href="https://x.com/passalanorh">@passalanorh</a></li>
+</ul>
+
+<strong>AI / ML / IOT</strong>
+
+<ul>
+  <li><a href="https://x.com/AndrewYNg">@AndrewYNg</a></li>
+  <li><a href="https://x.com/fchollet">@fchollet</a></li>
+  <li><a href="https://x.com/peero007">@peero007</a></li>
+  <li><a href="https://x.com/OgundipeOre">@OgundipeOre</a></li>
+  <li><a href="https://x.com/DynamicWebPaige">@DynamicWebPaige</a></li>
+  <li><a href="https://x.com/sethjuarez">@sethjuarez</a></li>
+  <li><a href="https://x.com/Twickta">@Twickta</a></li>
+  <li><a href="https://x.com/RamirezAlex_">@RamirezAlex_</a></li>
+  <li><a href="https://x.com/neal_lathia">@neal_lathia</a></li>
+  <li><a href="https://x.com/roydanroy">@roydanroy</a></li>
+  <li><a href="https://x.com/BevEve">@BevEve</a></li>
+  <li><a href="https://x.com/EmekaOkoye">@EmekaOkoye</a></li>
+  <li><a href="https://x.com/Chels_LA">@Chels_LA</a></li>
+</ul>
+
+<strong>Tech Communities / Conferences</strong>
+
+<ul>
+  <li><a href="https://x.com/ConsonanceClub">@ConsonanceClub</a></li>
+  <li><a href="https://x.com/codingcoach_io">@codingcoach_io</a></li>
+  <li><a href="https://x.com/TheLeadDev">@TheLeadDev</a></li>
+  <li><a href="https://x.com/iottechexpo">@iottechexpo</a></li>
+  <li><a href="https://x.com/renderATL">@renderATL</a></li>
+  <li><a href="https://x.com/dev_careers">@dev_careers</a></li>
+  <li><a href="https://x.com/SheCodeAfrica">@SheCodeAfrica</a></li>
+</ul>
+
+<strong>Cyber Security and Hackers</strong>
+
+<ul>
+  <li><a href="https://x.com/Xymbiz">@Xymbiz</a></li>
+  <li><a href="https://x.com/vastidity">@vastidity</a></li>
+  <li><a href="https://x.com/PhillipWylie">@PhillipWylie</a></li>
+  <li><a href="https://x.com/infosystir">@infosystir</a></li>
+</ul>
+
 <strong>Youtubers/Youtube Channels</strong>
 
 <ul>
