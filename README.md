@@ -90,10 +90,6 @@ Things you can do to increase your chance of success. Making an effort on these 
 <h2>Job Search Newsletters/Twitter Accounts</h2>
 
 <ul>
-  <li>The Memo: Newsletter with remote jobs, with a focus primarily on early-stage startups. The newsletter is free, but paying subscribers get early-access, discounts and more from partners. 
-    <br>Sign up here: <a href="https://thememo.substack.com">https://thememo.substack.com</a>
-    <br>Twitter: <a href="https://twitter.com/TheMemo____">@TheMemo____</a>
-  </li>
   <li>Epic Jobs: Discover jobs for design, product, ux, ui, engineering, pm, research, and more via Twitter + video. 
     <br>Website: <a href="https://epicjobs.co/">https://epicjobs.co/</a>
     <br>Twitter Account: <a href="https://twitter.com/epicjobs">@epicjobs</a>
